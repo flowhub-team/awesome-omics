@@ -272,7 +272,7 @@ A collection of awesome things regarding the LifeScience.
         - [Redotable](https://github.com/s-andrews/redotable)
         - [syntenyPlotByR](https://github.com/shingocat/syntenyPlotByR)
         - [Dotter](https://sonnhammer.sbc.su.se/Dotter.html)
-        - [JGI/IMG](https://img.jgi.doe.gov/) (Dotplot use MUMmer)
+        - [JGI/IMG](https://img.jgi.doe.gov/)
         - [MashMap](https://github.com/marbl/MashMap/blob/master/scripts/generateDotPlot)
         - [oxford-plots](https://github.com/jherrero/oxford-plots)
         - [DAGchainer](http://dagchainer.sourceforge.net/)
