@@ -304,7 +304,7 @@ A collection of awesome things regarding the LifeScience.
         - [Alv](https://github.com/arvestad/alv)
         - [ASCIIGenome](https://github.com/dariober/ASCIIGenome)
         - [Bamcov](https://github.com/fbreitwieser/bamcov)
-        - [BLAST+ (reading -outfmt 0 pairwise output is the original CLI bioinformatics!)](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+        - [BLAST+](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
         - [Hapviz](https://github.com/ekg/hapviz)
         - [plotReads](http://campuspress.yale.edu/knightlab/ruddle/plotreads/)
         - [Rna Alignment Viewers (Colorstock, SScolor, Ratón)](http://biowiki.org/wiki/index.php?title=Rna_Alignment_Viewers&redirect=no)
