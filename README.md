@@ -28,6 +28,11 @@ A collection of awesome things regarding the LifeScience.
     - [seqmagick](https://github.com/fhcrc/seqmagick)
     - [Seqtk](https://github.com/lh3/seqtk)
     - [smof](https://github.com/incertae-sedis/smof)
+    - [Bowtie 2](https://github.com/BenLangmead/bowtie2)
+    - [BWA](https://github.com/lh3/bwa)
+    - [WFA](https://github.com/smarco/WFA)
+    - [Parasail](https://github.com/jeffdaily/parasail)
+    - [MUMmer](https://github.com/mummer4/mummer)
 - Protein
     - [alphafold](https://github.com/deepmind/alphafold)
 
