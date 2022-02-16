@@ -54,5 +54,8 @@ A collection of awesome things regarding the LifeScience.
         - [UCSC genome browser](https://genome.ucsc.edu/)
         - [Valis browser](https://valis.bio/)
         - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
+
+## THINKS FOR 
+- [awesome-genome-visualization](https://github.com/cmdcolin/)
         
 
