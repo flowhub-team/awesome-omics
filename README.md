@@ -11,9 +11,10 @@ A collection of awesome things regarding the LifeScience.
 ## Tools
 - Genomics
     - [fastp](#https://github.com/OpenGene/fastp)
-    - [gatk](#gatk)
+    - [gatk](#https://github.com/broadinstitute/gatk)
+    
+    
 - [Protein](#protein)
-- [Cell](#cell)
 
 ## Pipelines
 - Genomics
@@ -21,6 +22,8 @@ A collection of awesome things regarding the LifeScience.
     - [RNA-seq](#rna-seq)
     - [WGS](#wgs)
     - [WES](#wes)
+    - single-cell
+        - [scanpy](https://scanpy.readthedocs.io/en/latest/)
 
 ## Datasets
 
@@ -259,7 +262,7 @@ A collection of awesome things regarding the LifeScience.
         - [Gepard](http://cube.univie.ac.at/gepard)
         - [Jdot](https://github.com/LyonsLab/jdot)
         - [last-dotplot](https://gitlab.com/mcfrith/last)
-        - [mcutils](https://github.com/mchaisso/mcutils) (https://twitter.com/mjpchaisson/status/1040363992206569472)
+        - [mcutils](https://github.com/mchaisso/mcutils)
         - [Minidot](https://github.com/thackl/minidot)
         - [Mummer-idotplot](https://github.com/ryought/mummer-idotplot)
         - [Mummerplot](http://mummer.sourceforge.net/)
