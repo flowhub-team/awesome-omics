@@ -45,8 +45,14 @@ A collection of awesome things regarding the LifeScience.
         - [JBrowse](http://jbrowse.org/jbrowse1.html)
         - [JBrowse 2](http://jbrowse.org/jb2)
         - [Kero-BROWSE](https://kero.hgc.jp/examples/CLCL/hg38/index.html)
+        - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
+        - [Nucleome browser](https://vis.nucleome.org/v1/main.html)
+        - [Pileup.js](https://github.com/hammerlab/pileup.js)
         - [Savant](http://bioinformatics-ca.github.io/savant_genome_browser_lab_2015/)
         - [Tablet](https://ics.hutton.ac.uk/tablet/)
-        
+        - [Trackster](https://galaxyproject.org/learn/visualization/)
+        - [UCSC genome browser](https://genome.ucsc.edu/)
+        - [Valis browser](https://valis.bio/)
+        - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
         
 
