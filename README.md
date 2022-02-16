@@ -11,11 +11,14 @@ A collection of awesome things regarding the LifeScience.
 
 ## Tools
 - DataDownload
-    - [GGD]()
+    - [GGD](https://github.com/gogetdata/ggd-cli)
+    - [SRA-Exporer](https://github.com/ewels/sra-explorer)
+- DataCompress
+
 - Genomics
     - [fastp](https://github.com/OpenGene/fastp)
     - [gatk](https://github.com/broadinstitute/gatk)
-    
+    - [Genozip](https://github.com/divonlan/genozip)
     
 - [Protein](#protein)
 
