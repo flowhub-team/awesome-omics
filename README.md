@@ -165,7 +165,17 @@ A collection of awesome things regarding the LifeScience.
         - [svviz](https://github.com/svviz/svviz)
         - [svviz2](https://github.com/nspies/svviz2)
         - [trackViewer](https://bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html)
-
+    - Gene fusion
+        - [arriba](https://github.com/suhrig/arriba)
+        - [Chimeraviz](https://github.com/stianlagstad/chimeraviz)
+        - [clinker (gene fusion software)](https://github.com/Oshlack/Clinker/)
+        - [FusionInspector](https://github.com/FusionInspector/FusionInspector/wiki)
+        - [MAVIS](http://mavis.bcgsc.ca/)
+    - Alignment viewer
+        - [Chromatic](https://chromatic.nci.nih.gov/)
+        - [GenomeView (java app)](https://genomeview.org/content/quick-start-guide)
+        - [Gambit](http://labsergen.langebio.cinvestav.mx/bioinformatics/jacob/?p=473)
+        - [pyBamView](https://mgymrek.github.io/pybamview/)
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
 
