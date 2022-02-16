@@ -24,4 +24,5 @@ A collection of awesome things regarding the LifeScience.
 ## Visualization
 - [Genomics](#genomics)
     - General
+        - [BasePlayer](https://baseplayer.fi/)
         - [Genoverse](https://github.com/wtsi-web/Genoverse)
