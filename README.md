@@ -36,6 +36,7 @@ A collection of awesome things regarding the LifeScience.
         - [GBrowse 2](http://gmod.org/wiki/GBrowse)
         - [GenomeMaps](http://www.genomemaps.org/)
         - [Gosling](https://gosling.js.org/)
+        - [GeneViTo](http://athina.biol.uoa.gr/bioinformatics/GENEVITO/)
         - [Ensembl genome browser](https://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
         - [Ensembl genome browser 2020 edition](http://2020.ensembl.org/)
         - [HiGlass](https://higlass.io)
@@ -54,6 +55,7 @@ A collection of awesome things regarding the LifeScience.
         - [UCSC genome browser](https://genome.ucsc.edu/)
         - [Valis browser](https://valis.bio/)
         - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
+        - [Zenbu](http://fantom.gsc.riken.jp/zenbu/)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
