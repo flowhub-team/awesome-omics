@@ -23,7 +23,6 @@ A collection of awesome things regarding the LifeScience.
     - [WES](#wes)
 
 ## Datasets
-    - []
 
 ## Visualization
 - Genomics
@@ -112,14 +111,31 @@ A collection of awesome things regarding the LifeScience.
     - CNV
         - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer)
         - [BAMScale](https://github.com/ncbi/BAMscale)
+        - [bctools cnv](https://samtools.github.io/bcftools/howtos/cnv-calling.html)
         - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html)
         - [cnvCurator](http://www.acsu.buffalo.edu/~lm69/cnvCurator)
         - [covviz](https://brwnj.github.io/covviz/)
+        - [copynumber](https://www.bioconductor.org/packages/release/bioc/vignettes/copynumber/inst/doc/copynumber.pdf)
         - [GenomeSpy](https://genomespy.app/)
         - [GenomePaint](https://genomepaint.stjude.cloud/)
-
-
-        
+        - [genevisR](https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html)
+        - [mocha](https://github.com/freeseek/mocha)
+        - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md)
+    - Static
+        - [BAMSnap](https://github.com/parklab/bamsnap)
+        - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE)
+        - [CNView](https://github.com/RCollins13/CNView)
+        - [CNVPlot](https://github.com/dantaki/CNVplot)
+        - [CNVpytor](https://github.com/abyzovlab/CNVpytor)
+        - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib)
+        - [ExonIntron](http://wormweb.org/exonintron)
+        - [FeatureViewer](https://github.com/calipho-sib/feature-viewer)
+        - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html)
+        - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/)
+        - [GenomeTools](http://genometools.org/)
+        - [GenomeView](https://github.com/nspies/genomeview)
+        - [genoPlotR](http://genoplotr.r-forge.r-project.org/)
+        - [ggbio](http://www.bioconductor.org/packages/2.11/bioc/vignettes/ggbio/inst/doc/ggbio.pdf)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
