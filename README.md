@@ -3,12 +3,9 @@
 A collection of awesome things regarding the LifeScience.
 
 ## Contents
+- [Contents](#contents)
 - [Tools](#tools)
 - [Pipelines](#pipelines)
-- [Books](#books)
-- [Videos](#videos)
-- [Editors](#editors)
-- [Datasets](#datasets)
 
 ## Tools
 - [Genomics](#genomics)
@@ -16,3 +13,11 @@ A collection of awesome things regarding the LifeScience.
     - [gatk](#gatk)
 - [Protein](#protein)
     - []
+- [Cell](#cell)
+- []
+
+## Pipelines
+- [Genomics](#genomics)
+    - [RNA-seq](#rna-seq)
+    - [WGS](#wgs)
+    - [WES](#wes)
