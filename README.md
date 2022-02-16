@@ -105,6 +105,19 @@ A collection of awesome things regarding the LifeScience.
         - [SNPViz](http://www.yeastrc.org/snipviz/4.HTML_Config_retrieve_newick_and_fasta_from_server/snip_viz_HTML_config_with_newick_clustering.html)
         - [TeXShade](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/texshade/texshade.pdf)
         - [Wasabi](http://wasabiapp.org/)
+    
+    - Logo
+        - [LogoJS](https://logojs.wenglab.org/app/gallery/)
+    
+    - CNV
+        - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer)
+        - [BAMScale](https://github.com/ncbi/BAMscale)
+        - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html)
+        - [cnvCurator](http://www.acsu.buffalo.edu/~lm69/cnvCurator)
+        - [covviz](https://brwnj.github.io/covviz/)
+        - [GenomeSpy](https://genomespy.app/)
+        - [GenomePaint](https://genomepaint.stjude.cloud/)
+
 
         
 
