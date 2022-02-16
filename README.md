@@ -63,6 +63,7 @@ A collection of awesome things regarding the LifeScience.
         - [Bionano](https://bionanogenomics.com/technology/structural-variation/)
         - [Benchling](https://www.benchling.com/)
         - [CLC Genomics workbench](https://digitalinsights.qiagen.com/news/blog/discovery/structural-variant-detection-using-clc-genomics-workbench/)
+        - [Circa](https://omgenomics.com/circa)
         - [DNASTAR](https://www.dnastar.com/)
         - [Geneious](https://www.geneious.com/)
         - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/)
@@ -75,5 +76,7 @@ A collection of awesome things regarding the LifeScience.
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
+
+The project welcomes any life science industry physician to add
         
 
