@@ -19,7 +19,9 @@ A collection of awesome things regarding the LifeScience.
     - [fastp](https://github.com/OpenGene/fastp)
     - [gatk](https://github.com/broadinstitute/gatk)
     
-- [Protein](#protein)
+- Protein
+    - [alphafold](https://github.com/deepmind/alphafold)
+
 
 ## Pipelines
 - Genomics
