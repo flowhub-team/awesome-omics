@@ -18,12 +18,12 @@ A collection of awesome things regarding the LifeScience.
 
 ## Pipelines
 - Genomics
-    - [Metagenome](#metagenome)
-    - [RNA-seq](#rna-seq)
+    - Metagenome
     - [WGS](#wgs)
     - [WES](#wes)
     - single-cell
         - [scanpy](https://scanpy.readthedocs.io/en/latest/)
+        - [RNA-seq](#rna-seq)
 
 ## Datasets
 
