@@ -16,9 +16,18 @@ A collection of awesome things regarding the LifeScience.
 - DataCompress
     - [Genozip](https://github.com/divonlan/genozip)
 - Genomics
+    - [AfterQC](https://github.com/OpenGene/AfterQC)
     - [fastp](https://github.com/OpenGene/fastp)
     - [gatk](https://github.com/broadinstitute/gatk)
-    
+    - [FastQC](https://github.com/s-andrews/FastQC)
+    - [Fastqp](https://github.com/mdshw5/fastqp)
+    - [Fastx Tookit](https://github.com/agordon/fastx_toolkit)
+    - [MultiQC](https://github.com/ewels/MultiQC)
+    - [SeqFu](https://github.com/telatin/seqfu2)
+    - [SeqKit](https://github.com/shenwei356/seqkit)
+    - [seqmagick](https://github.com/fhcrc/seqmagick)
+    - [Seqtk](https://github.com/lh3/seqtk)
+    - [smof](https://github.com/incertae-sedis/smof)
 - Protein
     - [alphafold](https://github.com/deepmind/alphafold)
 
