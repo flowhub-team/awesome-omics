@@ -10,8 +10,8 @@ A collection of awesome things regarding the LifeScience.
 
 ## Tools
 - Genomics
-    - [fastp](#https://github.com/OpenGene/fastp)
-    - [gatk](#https://github.com/broadinstitute/gatk)
+    - [fastp](https://github.com/OpenGene/fastp)
+    - [gatk](https://github.com/broadinstitute/gatk)
     
     
 - [Protein](#protein)
