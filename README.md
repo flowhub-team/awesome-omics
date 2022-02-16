@@ -33,6 +33,7 @@ A collection of awesome things regarding the LifeScience.
     - [WFA](https://github.com/smarco/WFA)
     - [Parasail](https://github.com/jeffdaily/parasail)
     - [MUMmer](https://github.com/mummer4/mummer)
+    - [POA](https://github.com/ljdursi/poapy)
 - Protein
     - [alphafold](https://github.com/deepmind/alphafold)
 
