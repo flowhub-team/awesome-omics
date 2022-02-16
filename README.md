@@ -448,6 +448,7 @@ A collection of awesome things regarding the LifeScience.
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
+- [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
 The project welcomes any life science industry physician to add
         
