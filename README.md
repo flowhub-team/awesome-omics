@@ -56,6 +56,22 @@ A collection of awesome things regarding the LifeScience.
         - [Valis browser](https://valis.bio/)
         - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
         - [Zenbu](http://fantom.gsc.riken.jp/zenbu/)
+    - Commercial
+        - [10x genomics/Loupe](https://support.10xgenomics.com/genome-exome/software/visualization/latest/structural-variants)
+        - [Alamut](https://www.interactive-biosoftware.com/alamut-visual/)
+        - [ATCC Genome Portal (American Type Culture Collection)](https://docs.onecodex.com/en/articles/3996697-using-the-genome-browser)
+        - [Bionano](https://bionanogenomics.com/technology/structural-variation/)
+        - [Benchling](https://www.benchling.com/)
+        - [CLC Genomics workbench](https://digitalinsights.qiagen.com/news/blog/discovery/structural-variant-detection-using-clc-genomics-workbench/)
+        - [DNASTAR](https://www.dnastar.com/)
+        - [Geneious](https://www.geneious.com/)
+        - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/)
+        - [Golden Helix](http://goldenhelix.com/GenomeBrowse/)
+        - [Lucid viewer](https://lucidalign.com/)
+        - [MacVector](https://macvector.com/)
+        - [Persephone](https://persephonesoft.com/)
+        - [SnapGene](https://www.snapgene.com/)
+        - [Strand NGS](https://www.strand-ngs.com/)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
