@@ -9,8 +9,8 @@ A collection of awesome things regarding the LifeScience.
 - [Visualization](#visualization)
 
 ## Tools
-- [Genomics](#genomics)
-    - [fastp](#fastp)
+- Genomics
+    - [fastp](#https://github.com/OpenGene/fastp)
     - [gatk](#gatk)
 - [Protein](#protein)
 - [Cell](#cell)
@@ -26,7 +26,7 @@ A collection of awesome things regarding the LifeScience.
     - []
 
 ## Visualization
-- [Genomics](#genomics)
+- Genomics
     - General
         - [Biodalliance](http://www.biodalliance.org/)
         - [BasePlayer](https://baseplayer.fi/)
