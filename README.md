@@ -3,9 +3,9 @@
 A collection of awesome things regarding the LifeScience.
 
 ## Contents
-- [Contents](#contents)
 - [Tools](#tools)
 - [Pipelines](#pipelines)
+- [Visualization](#visualization)
 
 ## Tools
 - [Genomics](#genomics)
@@ -20,3 +20,7 @@ A collection of awesome things regarding the LifeScience.
     - [RNA-seq](#rna-seq)
     - [WGS](#wgs)
     - [WES](#wes)
+
+## Visualization
+- [Genomics](#genomics)
+    - []
