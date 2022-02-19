@@ -176,8 +176,8 @@ helps you focus on the science
         - [CNVpytor](https://github.com/abyzovlab/CNVpytor) - a python extension of CNVnator -- a tool for CNV analysis from depth-of-coverage by mapped reads
         - [cgplot](https://github.com/dfguan/cgplot) - a script for viewing sequence aligments and read-depth
         - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib) - DNAplotlib is a library that enables highly customizable visualization of individual genetic constructs and libraries of design variants.
-        - [ExonIntron](http://wormweb.org/exonintron)
-        - [FeatureViewer](https://github.com/calipho-sib/feature-viewer)
+        - [ExonIntron](http://wormweb.org/exonintron) - This is a tool for quickly making proportional, publication-quality graphics that display your gene's important parts: 5' UTR, coding sequence, 3' UTR, mutations, deletions and domains.
+        - [FeatureViewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
         - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html)
         - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/)
         - [GenomeTools](http://genometools.org/)
