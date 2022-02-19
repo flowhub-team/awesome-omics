@@ -101,14 +101,14 @@ A collection of awesome things regarding the LifeScience.
         - [Valis browser](https://github.com/VALIS-software/valis-hpgv) - The genome visualizer can be used to explore individual genomic files (such as bigwig or BAM) or a collection of files via the preprocessing script
         - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/) - WashU Epigenome Browser
         - [Zenbu](http://fantom.gsc.riken.jp/zenbu/) - a collaborative, omics data integration and interactive visualization system
-        
+
     - Commercial
-        - [10x genomics/Loupe](https://support.10xgenomics.com/genome-exome/software/visualization/latest/structural-variants)
-        - [Alamut](https://www.interactive-biosoftware.com/alamut-visual/)
-        - [ATCC Genome Portal (American Type Culture Collection)](https://docs.onecodex.com/en/articles/3996697-using-the-genome-browser)
-        - [Bionano](https://bionanogenomics.com/technology/structural-variation/)
-        - [Benchling](https://www.benchling.com/)
-        - [CLC Genomics workbench](https://digitalinsights.qiagen.com/news/blog/discovery/structural-variant-detection-using-clc-genomics-workbench/)
+        - [10x genomics/Loupe](https://support.10xgenomics.com/genome-exome/software/visualization/latest/what-is-loupe) - Loupe is a genome browser designed to visualize the Linked-Read data produced by the 10x Chromium Platform. Loupe is named for a jeweler's loupe, which is used to inspect gems.
+        - [Alamut](https://www.interactive-biosoftware.com/alamut-visual/) - Alamut Visual Plus™ enables deep assessment of variants on a genomic scale, empowering clinical researchers to make accurate decisions for their data interpretation.
+        - [ATCC Genome Portal (American Type Culture Collection)](https://genomes.atcc.org/) - The ATCC Genome Portal is a repository of high-quality, authenticated microbial reference genomes.
+        - [Bionano](https://bionanogenomics.com/technology/structural-variation/) - Bionano’s genome mapping technology directly observes long molecules from 150,000 bp to megabase pair lengths to identify large structural variations typically not detected by short- or long-read sequencing technologies.
+        - [Benchling](https://www.benchling.com/) - More than 600 biopharma, agritech, and industrial biotech companies trust Benchling to improve collaboration and increase productivity.
+        - [CLC Genomics workbench](https://digitalinsights.qiagen.com/news/blog/discovery/structural-variant-detection-using-clc-genomics-workbench/) - QIAGEN CLC Genomics Workbench is a powerful solution that works for everyone, no matter the workflow. 
         - [Circa](https://omgenomics.com/circa)
         - [DNASTAR](https://www.dnastar.com/)
         - [Geneious](https://www.geneious.com/)
