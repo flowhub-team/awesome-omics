@@ -160,11 +160,11 @@ helps you focus on the science
         - [bctools cnv](https://samtools.github.io/bcftools/howtos/cnv-calling.html) - The BCFtools package implements two methods (the polysomy and cnv commands) for sensitive detection of copy number alterations, aneuploidy and contamination. 
         - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html) - CNVkit is a Python library and command-line software toolkit to infer and visualize copy number from high-throughput DNA sequencing data.
         - [cnvCurator](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0766-y) - One of the most important somatic aberrations, copy number variations (CNVs) in tumor genomes is believed to have a high probability of harboring oncotargets. 
-        - [covviz](https://brwnj.github.io/covviz/)
-        - [copynumber](https://www.bioconductor.org/packages/release/bioc/vignettes/copynumber/inst/doc/copynumber.pdf)
-        - [GenomeSpy](https://genomespy.app/)
-        - [GenomePaint](https://genomepaint.stjude.cloud/)
-        - [genevisR](https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html)
+        - [covviz](https://brwnj.github.io/covviz/) - Multi-sample genome coverage viewer to observe large, coverage-based anomalies alongside annotations and sample metadata
+        - [copynumber](https://www.bioconductor.org/packages/release/bioc/vignettes/copynumber/inst/doc/copynumber.pdf) - Segmentation of single- and multi-track copy number data by penalized least squares regression.
+        - [GenomeSpy](https://genomespy.app/) - A visualization grammar and a GPU-accelerated rendering engine for genomic (and other) data.
+        - [GenomePaint](https://genomepaint.stjude.cloud/) - GenomePaint is a web-based, interactive visualization platform for whole-genome, whole-exome, transcriptome, epigenome and 3D-genome architecture  of tumor samples.
+        - [genevisR](https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html) - Intuitively visualizing and interpreting data from high-throughput genomic technologies continues to be challenging. 
         - [mocha](https://github.com/freeseek/mocha)
         - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md)
     - Static
