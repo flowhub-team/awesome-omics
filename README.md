@@ -127,11 +127,11 @@ helps you focus on the science
         - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/) - An application to efficiently visualize and annotate differences between alternative multiple sequence alignments
         - [AlignmentViewer](https://alignmentviewer.org/) - protein multiple sequence alignment visualization & analysis
         - [AliView](http://www.ormbunkar.se/aliview/) - AliView is yet another alignment viewer and editor, but this is probably one of the fastest and most intuitive to use, not so bloated and hopefully to your liking.
-        - [ALVIS (MSA viewer)](https://www.ebi.ac.uk/research/goldman/software/alvis)
-        - [alignfigR](https://cran.r-project.org/web/packages/alignfigR/vignettes/my-vignette.html)
-        - [alen](https://github.com/jakobnissen/alen)
-        - [AliTreeViz](https://www.npmjs.com/package/alitreeviz)
-        - [BioJS/MSA](https://msa.biojs.net/)
+        - [ALVIS (MSA viewer)](https://www.ebi.ac.uk/research/goldman/software/alvis) - Sequence Logos and its variants are the most commonly used method for visualisation of multiple sequence alignments (MSAs) and sequence motifs.
+        - [alignfigR](https://cran.r-project.org/web/packages/alignfigR/vignettes/my-vignette.html) - The package alignfigR, built around ggplot2, creates multiple sequence alignment figures in R. 
+        - [alen](https://github.com/jakobnissen/alen) - Simple terminal sequence alignment viewer.
+        - [AliTreeViz](https://www.npmjs.com/package/alitreeviz) - Visualisation of multiple sequence alignments and phylogenetic trees.
+        - [BioJS/MSA](https://msa.biojs.net/) - The MSAViewer is an open source web component for scientists.
         - [Boxshade](https://embnet.vital-it.ch/software/BOX_form.html)
         - [ESPript](http://espript.ibcp.fr/ESPript/ESPript/)
         - [ggtree](https://github.com/YuLab-SMU/ggtree)
