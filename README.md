@@ -141,11 +141,11 @@ helps you focus on the science
         - [msaR](https://github.com/zachcp/msaR) - msaR is a an htmlwidgets wrapper of the BioJS MSA viewer javascript library. msa will pass alignments to the BioJS MSA.
         - [MView](https://www.ebi.ac.uk/Tools/msa/mview/) - MView reformats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout. 
         - [MEGA-X](https://www.megasoftware.net/) - Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations.
-        - [NCBI MSA Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
-        - [pyBoxshade](https://github.com/mdbaron42/pyBoxshade)
-        - [pymsaplotter](https://github.com/orangeSi/pymsaploter)
-        - [ProViz](http://slim.icr.ac.uk/proviz/index.php)
-        - [React MSAViewer](https://github.com/plotly/react-msa-viewer)
+        - [NCBI MSA Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/) - The NCBI Multiple Sequence Alignment Viewer (MSA) is a graphical display for nucleotide and protein sequence alignments.
+        - [pyBoxshade](https://github.com/mdbaron42/pyBoxshade) - Desktop application for colouring/shading sequence alignments
+        - [pymsaplotter](https://github.com/orangeSi/pymsaploter) - plot Multiple Sequence Alignment(MSA) of Clustal by python package
+        - [ProViz](http://slim.icr.ac.uk/proviz/index.php) - ProViz (Protein Vizualisation) is an interactive exploration tool for investigating the functional and evolutionary features of proteins.
+        - [React MSAViewer](https://github.com/plotly/react-msa-viewer) - react-msa-viewer is a performant, extendable, highly-customizable, production-ready React Component that renders a Multiple Sequence Alignment (MSA).
         - [react-msaview](https://github.com/GMOD/react-msaview)
         - [seqotron](https://github.com/4ment/seqotron)
         - [STRAP](http://www.bioinformatics.org/strap/)
