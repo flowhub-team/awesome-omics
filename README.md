@@ -122,7 +122,7 @@ helps you focus on the science
         - [Strand NGS](https://www.strand-ngs.com/) - Strand NGS
     - MSA
         - [Alignment Annotator](http://www.bioinformatics.org/strap/aa) - Browser based sequence alignment visualization with JAVASCRIPT
-        - [abrowse](https://github.com/ihh/abrowse)
+        - [abrowse](https://github.com/ihh/abrowse) - ABrowse is a multiple sequence alignment browser with integrated phylogeny and protein structure views, created by the JBrowse team.
         - [alignment.js](https://github.com/veg/alignment.js)
         - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/)
         - [AlignmentViewer](https://alignmentviewer.org/)
