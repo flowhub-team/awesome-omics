@@ -58,7 +58,7 @@ A collection of awesome things regarding the LifeScience.
     - [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
 
 - Protein
-    - [alphafold](https://github.com/deepmind/alphafold)
+    - [alphafold](https://github.com/deepmind/alphafold) - AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
 
 ## Pipelines
