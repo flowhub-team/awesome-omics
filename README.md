@@ -126,7 +126,7 @@ helps you focus on the science
         - [alignment.js](https://github.com/veg/alignment.js) - A suite of reusable React components for creating a variety of visualizations involving multiple sequence alignments.
         - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/) - An application to efficiently visualize and annotate differences between alternative multiple sequence alignments
         - [AlignmentViewer](https://alignmentviewer.org/) - protein multiple sequence alignment visualization & analysis
-        - [AliView](http://www.ormbunkar.se/aliview/)
+        - [AliView](http://www.ormbunkar.se/aliview/) - AliView is yet another alignment viewer and editor, but this is probably one of the fastest and most intuitive to use, not so bloated and hopefully to your liking.
         - [ALVIS (MSA viewer)](https://www.ebi.ac.uk/research/goldman/software/alvis)
         - [alignfigR](https://cran.r-project.org/web/packages/alignfigR/vignettes/my-vignette.html)
         - [alen](https://github.com/jakobnissen/alen)
