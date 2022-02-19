@@ -155,11 +155,11 @@ helps you focus on the science
         - [LogoJS](https://logojs.wenglab.org/app/gallery/) - LogoJS is a Javascipt package for creating SVG sequence logos. 
     
     - CNV
-        - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer)
-        - [BAMScale](https://github.com/ncbi/BAMscale)
-        - [bctools cnv](https://samtools.github.io/bcftools/howtos/cnv-calling.html)
-        - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html)
-        - [cnvCurator](http://www.acsu.buffalo.edu/~lm69/cnvCurator)
+        - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer) - aCNViewer (Absolute CNV Viewer) is a tool which allows the visualization of absolute CNVs and cn-LOH across a group of cancer samples.
+        - [BAMScale](https://github.com/ncbi/BAMscale) - BAMscale is a one-step tool for either 1) quantifying and normalizing the coverage of peaks or 2) generated scaled BigWig files for easy visualization of commonly used DNA-seq capture based methods.
+        - [bctools cnv](https://samtools.github.io/bcftools/howtos/cnv-calling.html) - The BCFtools package implements two methods (the polysomy and cnv commands) for sensitive detection of copy number alterations, aneuploidy and contamination. 
+        - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html) - CNVkit is a Python library and command-line software toolkit to infer and visualize copy number from high-throughput DNA sequencing data.
+        - [cnvCurator](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0766-y) - One of the most important somatic aberrations, copy number variations (CNVs) in tumor genomes is believed to have a high probability of harboring oncotargets. 
         - [covviz](https://brwnj.github.io/covviz/)
         - [copynumber](https://www.bioconductor.org/packages/release/bioc/vignettes/copynumber/inst/doc/copynumber.pdf)
         - [GenomeSpy](https://genomespy.app/)
