@@ -17,7 +17,7 @@ A collection of awesome things regarding the LifeScience.
 - DataCompress
     - [Genozip](https://github.com/divonlan/genozip) - Genozip is a universal compressor for genomic files - it compresses FASTQ, BAM/CRAM, VCF and many other file formats (including non-genomic files) 
 - Genomics
-    - [AfterQC](https://github.com/OpenGene/AfterQC)
+    - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
     - [Bowtie 2](https://github.com/BenLangmead/bowtie2)
     - [BWA](https://github.com/lh3/bwa)
     - [Bamtools](https://github.com/pezmaster31/bamtools)
@@ -27,14 +27,14 @@ A collection of awesome things regarding the LifeScience.
     - [Delly](https://github.com/dellytools/delly)
     - [DeepVariant](https://github.com/google/deepvariant)
     - [fastp](https://github.com/OpenGene/fastp)
-    - [GATK](https://github.com/broadinstitute/gatk)
-    - [FastQC](https://github.com/s-andrews/FastQC)
-    - [Fastqp](https://github.com/mdshw5/fastqp)
-    - [Fastx Tookit](https://github.com/agordon/fastx_toolkit)
+    - [FastQC](https://github.com/s-andrews/FastQC) - A quality control tool for high throughput sequence data.
+    - [Fastqp](https://github.com/mdshw5/fastqp) - FASTQ and SAM quality control using Python.
+    - [Fastx Tookit](https://github.com/agordon/fastx_toolkit) - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
     - [freebayes](https://github.com/ekg/freebayes)
+    - [GATK](https://github.com/broadinstitute/gatk)
     - [gridss](https://github.com/PapenfussLab/gridss)
     - [lumpy](https://github.com/arq5x/lumpy-sv)
-    - [MultiQC](https://github.com/ewels/MultiQC)
+    - [MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report. 
     - [MUMmer](https://github.com/mummer4/mummer)
     - [MMseqs2](https://github.com/soedinglab/MMseqs2)
     - [manta](https://github.com/Illumina/manta)
