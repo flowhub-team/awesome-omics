@@ -12,7 +12,7 @@ A collection of awesome things regarding the LifeScience.
 
 ## Tools
 - DataDownload
-    - [GGD](https://github.com/gogetdata/ggd-cli)
+    - [GGD](https://github.com/gogetdata/ggd-cli) - The command line interface for gogetdata
     - [SRA-Exporer](https://github.com/ewels/sra-explorer)
 - DataCompress
     - [Genozip](https://github.com/divonlan/genozip)
