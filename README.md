@@ -44,12 +44,12 @@ A collection of awesome things regarding the LifeScience.
     - [POA](https://github.com/ljdursi/poapy)
     - [Parasail](https://github.com/jeffdaily/parasail)
     - [RSEM](https://github.com/deweylab/RSEM)
-    - [SeqFu](https://github.com/telatin/seqfu2)
-    - [SeqKit](https://github.com/shenwei356/seqkit)
-    - [seqmagick](https://github.com/fhcrc/seqmagick)
-    - [Seqtk](https://github.com/lh3/seqtk)
+    - [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
+    - [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. 
+    - [seqmagick](https://github.com/fhcrc/seqmagick) - file format conversion in Biopython in a convenient way.
+    - [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
     - [smoove](https://github.com/brentp/smoove)
-    - [smof](https://github.com/incertae-sedis/smof)
+    - [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA manipulation tools.
     - [SAMstat](https://github.com/TimoLassmann/samstat)
     - [Somalier](https://github.com/brentp/somalier)
     - [Telseq](https://github.com/zd1/telseq)
