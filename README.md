@@ -139,8 +139,8 @@ helps you focus on the science
         - [JSAV](http://www.bioinf.org.uk/software/jsav) - JSAV is a sequence alignment viewer written purely in JavaScript.
         - [MSABrowser](https://thekaplanlab.github.io/) - MSABrowser is developed as a new JavaScript tool with an ultimate goal of dynamic and fast visualization of sequence alignments, variations, and annotations. 
         - [msaR](https://github.com/zachcp/msaR) - msaR is a an htmlwidgets wrapper of the BioJS MSA viewer javascript library. msa will pass alignments to the BioJS MSA.
-        - [MView](https://www.ebi.ac.uk/Tools/msa/mview/)
-        - [MEGA-X](https://www.megasoftware.net/)
+        - [MView](https://www.ebi.ac.uk/Tools/msa/mview/) - MView reformats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout. 
+        - [MEGA-X](https://www.megasoftware.net/) - Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations.
         - [NCBI MSA Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
         - [pyBoxshade](https://github.com/mdbaron42/pyBoxshade)
         - [pymsaplotter](https://github.com/orangeSi/pymsaploter)
