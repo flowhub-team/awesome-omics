@@ -99,8 +99,9 @@ A collection of awesome things regarding the LifeScience.
         - [Trackster](https://galaxyproject.org/learn/visualization/) - Trackster is Galaxy's visualization and visual analysis environment.
         - [UCSC genome browser](https://genome.ucsc.edu/) - interactively visualize genomic data
         - [Valis browser](https://github.com/VALIS-software/valis-hpgv) - The genome visualizer can be used to explore individual genomic files (such as bigwig or BAM) or a collection of files via the preprocessing script
-        - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
-        - [Zenbu](http://fantom.gsc.riken.jp/zenbu/)
+        - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/) - WashU Epigenome Browser
+        - [Zenbu](http://fantom.gsc.riken.jp/zenbu/) - a collaborative, omics data integration and interactive visualization system
+        
     - Commercial
         - [10x genomics/Loupe](https://support.10xgenomics.com/genome-exome/software/visualization/latest/structural-variants)
         - [Alamut](https://www.interactive-biosoftware.com/alamut-visual/)
