@@ -117,7 +117,7 @@ A collection of awesome things regarding the LifeScience.
         - [Lucid viewer](https://lucidalign.com/) - A modern sequence alignment viewer fast performance intuitive navigation
 helps you focus on the science
         - [MacVector](https://macvector.com/) - develops powerful but easy to use Macintosh applications for Molecular Biologists to simplify and speed up the analysis, manipulation, assembly and documentation of DNA and protein sequences.
-        - [Persephone](https://persephonesoft.com/)
+        - [Persephone](https://persephonesoft.com/) - Window to the World’s Genetic Information
         - [SnapGene](https://www.snapgene.com/)
         - [Strand NGS](https://www.strand-ngs.com/)
     - MSA
