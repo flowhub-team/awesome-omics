@@ -175,7 +175,7 @@ helps you focus on the science
         - [CNVPlot](https://github.com/dantaki/CNVplot) - Plot CNV data with a genome viewer in R
         - [CNVpytor](https://github.com/abyzovlab/CNVpytor) - a python extension of CNVnator -- a tool for CNV analysis from depth-of-coverage by mapped reads
         - [cgplot](https://github.com/dfguan/cgplot) - a script for viewing sequence aligments and read-depth
-        - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib)
+        - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib) - DNAplotlib is a library that enables highly customizable visualization of individual genetic constructs and libraries of design variants.
         - [ExonIntron](http://wormweb.org/exonintron)
         - [FeatureViewer](https://github.com/calipho-sib/feature-viewer)
         - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html)
