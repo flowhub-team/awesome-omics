@@ -91,8 +91,8 @@ A collection of awesome things regarding the LifeScience.
         - [JBrowse](http://jbrowse.org/jbrowse1.html) - JBrowse is a fast, scalable genome browser built completely with JavaScript and HTML5. It can run on your desktop, or be embedded in your website.
         - [JBrowse 2](http://jbrowse.org/jb2) - The mission of the JBrowse Consortium is to develop a comprehensive, pluggable, open-source computational platform for visualizing and integrating biological data.
         - [Kero-BROWSE](https://github.com/DBKERO/genome_browser) - Simple HTML5 canvas based genome browser for NGS data. KERO-browse supports several file formats such as bam(+bai) or BigWig.
-        - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
-        - [Nucleome browser](https://vis.nucleome.org/v1/main.html)
+        - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/) -  GDV supports the exploration and analysis of NCBI-annotated and selected non-NCBI annotated eukaryotic genome assemblies.
+        - [Nucleome browser](http://vis.nucleome.org/entry/)
         - [Pileup.js](https://github.com/hammerlab/pileup.js)
         - [Savant](http://bioinformatics-ca.github.io/savant_genome_browser_lab_2015/)
         - [Tablet](https://ics.hutton.ac.uk/tablet/)
