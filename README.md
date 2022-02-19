@@ -28,7 +28,7 @@ A collection of awesome things regarding the LifeScience.
     - [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks) - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.
     - [Delly](https://github.com/dellytools/delly)- Structural variant discovery by integrated paired-end and split-read analysis.
     - [DeepVariant](https://github.com/google/deepvariant) - Deep learning-based variant caller
-    - [fastp](https://github.com/OpenGene/fastp)
+    - [fastp](https://github.com/OpenGene/fastp) - A tool designed to provide fast all-in-one preprocessing for FastQ files. This tool is developed in C++ with multithreading supported to afford high performance.
     - [FastQC](https://github.com/s-andrews/FastQC) - A quality control tool for high throughput sequence data.
     - [Fastqp](https://github.com/mdshw5/fastqp) - FASTQ and SAM quality control using Python.
     - [Fastx Tookit](https://github.com/agordon/fastx_toolkit) - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
