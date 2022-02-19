@@ -78,10 +78,9 @@ A collection of awesome things regarding the LifeScience.
         - [Biodalliance](http://www.biodalliance.org/) - Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications.
         - [BasePlayer](https://baseplayer.fi/) - BasePlayer is an open source, large-scale discovery tool for genomic variants, exploiting next- and third-generation sequencing data. 
         - [Celera genome browser](https://sourceforge.net/projects/celeragb/) - A Tool for Visualizing and Annotating the Human Genome
-        - [Genoverse](https://github.com/wtsi-web/Genoverse)
-        - [GBrowse 2](http://gmod.org/wiki/GBrowse)
-        - [GenomeMaps](http://www.genomemaps.org/)
-        - [Gosling](https://gosling.js.org/)
+        - [Genoverse](https://github.com/wtsi-web/Genoverse) - HTML5 scrollable genome browser
+        - [GBrowse 2](http://gmod.org/wiki/GBrowse) - GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
+        - [Gosling](http://gosling-lang.org/) - Gosling.js is a declarative grammar for interactive (epi)genomics visualization on the Web.
         - [GeneViTo](http://athina.biol.uoa.gr/bioinformatics/GENEVITO/)
         - [Ensembl genome browser](https://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
         - [Ensembl genome browser 2020 edition](http://2020.ensembl.org/)
