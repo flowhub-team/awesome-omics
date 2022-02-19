@@ -81,13 +81,13 @@ A collection of awesome things regarding the LifeScience.
         - [Genoverse](https://github.com/wtsi-web/Genoverse) - HTML5 scrollable genome browser
         - [GBrowse 2](http://gmod.org/wiki/GBrowse) - GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
         - [Gosling](http://gosling-lang.org/) - Gosling.js is a declarative grammar for interactive (epi)genomics visualization on the Web.
-        - [GeneViTo](http://athina.biol.uoa.gr/bioinformatics/GENEVITO/)
-        - [Ensembl genome browser](https://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237)
-        - [Ensembl genome browser 2020 edition](http://2020.ensembl.org/)
-        - [HiGlass](https://higlass.io)
-        - [IGB](https://bioviz.org/)
-        - [IGV](https://igv.org/)
-        - [IGV.js](https://github.com/igvteam/igv.js/)
+        - [GeneViTo](http://athina.biol.uoa.gr/bioinformatics/GENEVITO/) - GeneViTo is a JAVA-based computer application that serves as a workbench for genome-wide analysis through visual interaction.
+        - [Ensembl genome browser](https://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237) - Use the Genome browser to explore a genomic region and view a gene and its transcripts in the context of the genome.
+        - [Ensembl genome browser 2020 edition](http://2020.ensembl.org/) - Use the Genome browser to explore a genomic region and view a gene and its transcripts in the context of the genome.
+        - [HiGlass](https://higlass.io) - HiGlass is a fast visualization tool for large Hi-C and other genomic data sets.
+        - [IGB](https://bioviz.org/) - GB is a fast, flexible, and free genome browser you can use to explore & visually analyze vast genomic data.
+        - [IGV](https://igv.org/) - Integrative Genomics Viewer
+        - [IGV.js](https://github.com/igvteam/igv.js/) - igv.js is an embeddable interactive genome visualization component developed by the Integrative Genomics Viewer (IGV) team.
         - [JBrowse](http://jbrowse.org/jbrowse1.html)
         - [JBrowse 2](http://jbrowse.org/jb2)
         - [Kero-BROWSE](https://kero.hgc.jp/examples/CLCL/hg38/index.html)
