@@ -18,8 +18,8 @@ A collection of awesome things regarding the LifeScience.
     - [Genozip](https://github.com/divonlan/genozip) - Genozip is a universal compressor for genomic files - it compresses FASTQ, BAM/CRAM, VCF and many other file formats (including non-genomic files) 
 - Genomics
     - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
-    - [Bowtie 2](https://github.com/BenLangmead/bowtie2)
-    - [BWA](https://github.com/lh3/bwa)
+    - [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
+    - [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
     - [Bamtools](https://github.com/pezmaster31/bamtools)
     - [bcftools](https://github.com/samtools/bcftools)
     - [bam toolbox](https://github.com/AndersenLab/bam-toolbox)
@@ -42,7 +42,7 @@ A collection of awesome things regarding the LifeScience.
     - [mosdepth](https://github.com/brentp/mosdepth)
     - [Octopus](https://github.com/luntergroup/octopus)
     - [POA](https://github.com/ljdursi/poapy)
-    - [Parasail](https://github.com/jeffdaily/parasail)
+    - [Parasail](https://github.com/jeffdaily/parasail) - SIMD C library for global, semi-global, and local pairwise sequence alignments
     - [RSEM](https://github.com/deweylab/RSEM)
     - [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
     - [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. 
@@ -53,7 +53,7 @@ A collection of awesome things regarding the LifeScience.
     - [SAMstat](https://github.com/TimoLassmann/samstat)
     - [Somalier](https://github.com/brentp/somalier)
     - [Telseq](https://github.com/zd1/telseq)
-    - [WFA](https://github.com/smarco/WFA)
+    - [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
 
 - Protein
     - [alphafold](https://github.com/deepmind/alphafold)
