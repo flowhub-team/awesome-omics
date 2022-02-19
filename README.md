@@ -35,13 +35,13 @@ A collection of awesome things regarding the LifeScience.
     - [gridss](https://github.com/PapenfussLab/gridss)
     - [lumpy](https://github.com/arq5x/lumpy-sv)
     - [MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report. 
-    - [MUMmer](https://github.com/mummer4/mummer)
+    - [MUMmer](https://github.com/mummer4/mummer) - A system for rapidly aligning entire genomes, whether in complete or draft form.
     - [MMseqs2](https://github.com/soedinglab/MMseqs2)
     - [manta](https://github.com/Illumina/manta)
     - [mergesam](https://github.com/DarwinAwardWinner/mergesam)
     - [mosdepth](https://github.com/brentp/mosdepth)
     - [Octopus](https://github.com/luntergroup/octopus)
-    - [POA](https://github.com/ljdursi/poapy)
+    - [POA](https://github.com/ljdursi/poapy) - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences.
     - [Parasail](https://github.com/jeffdaily/parasail) - SIMD C library for global, semi-global, and local pairwise sequence alignments
     - [RSEM](https://github.com/deweylab/RSEM)
     - [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
