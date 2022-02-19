@@ -135,10 +135,10 @@ helps you focus on the science
         - [Boxshade](https://embnet.vital-it.ch/software/BOX_form.html)
         - [ESPript](http://espript.ibcp.fr/ESPript/ESPript/) - 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
         - [ggtree](https://github.com/YuLab-SMU/ggtree) - an R package for visualization of phylogenetic trees with their annotation data
-        - [Jalview](https://www.jalview.org/)
-        - [JSAV](http://www.bioinf.org.uk/software/jsav)
-        - [MSABrowser](https://thekaplanlab.github.io/)
-        - [msaR](https://github.com/zachcp/msaR)
+        - [Jalview](https://www.jalview.org/) - Jalview is a free program for multiple sequence alignment editing, visualisation and analysis. 
+        - [JSAV](http://www.bioinf.org.uk/software/jsav) - JSAV is a sequence alignment viewer written purely in JavaScript.
+        - [MSABrowser](https://thekaplanlab.github.io/) - MSABrowser is developed as a new JavaScript tool with an ultimate goal of dynamic and fast visualization of sequence alignments, variations, and annotations. 
+        - [msaR](https://github.com/zachcp/msaR) - msaR is a an htmlwidgets wrapper of the BioJS MSA viewer javascript library. msa will pass alignments to the BioJS MSA.
         - [MView](https://www.ebi.ac.uk/Tools/msa/mview/)
         - [MEGA-X](https://www.megasoftware.net/)
         - [NCBI MSA Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
