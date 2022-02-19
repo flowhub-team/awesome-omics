@@ -112,8 +112,8 @@ A collection of awesome things regarding the LifeScience.
         - [Circa](https://omgenomics.com/circa) - With Circa, you will build a circos plot from your own genomic data in less than an hour.
         - [DNASTAR](https://www.dnastar.com/) - Lasergene Genomics stands apart in the fields of genomics and transcriptomics. 
         - [Geneious](https://www.geneious.com/) - Geneious Prime puts industry-leading bioinformatics and molecular biology tools directly into researchers hands, streamlining sequence analysis and insights.
-        - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/)
-        - [Golden Helix](http://goldenhelix.com/GenomeBrowse/)
+        - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/) - We constantly strive to improve Genestack's Genome Browser, making it more convenient and intuitive for our users.
+        - [Golden Helix](http://goldenhelix.com/GenomeBrowse/) - The free Golden Helix GenomeBrowse® tool delivers stunning visualizations of your genomic data that give you the power to see what is occurring at each base pair in your samples.
         - [Lucid viewer](https://lucidalign.com/)
         - [MacVector](https://macvector.com/)
         - [Persephone](https://persephonesoft.com/)
