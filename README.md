@@ -146,10 +146,8 @@ helps you focus on the science
         - [pymsaplotter](https://github.com/orangeSi/pymsaploter) - plot Multiple Sequence Alignment(MSA) of Clustal by python package
         - [ProViz](http://slim.icr.ac.uk/proviz/index.php) - ProViz (Protein Vizualisation) is an interactive exploration tool for investigating the functional and evolutionary features of proteins.
         - [React MSAViewer](https://github.com/plotly/react-msa-viewer) - react-msa-viewer is a performant, extendable, highly-customizable, production-ready React Component that renders a Multiple Sequence Alignment (MSA).
-        - [react-msaview](https://github.com/GMOD/react-msaview)
-        - [seqotron](https://github.com/4ment/seqotron)
-        - [STRAP](http://www.bioinformatics.org/strap/)
-        - [SNPViz](http://www.yeastrc.org/snipviz/4.HTML_Config_retrieve_newick_and_fasta_from_server/snip_viz_HTML_config_with_newick_clustering.html)
+        - [seqotron](https://github.com/4ment/seqotron) - Seqotron is a user-friendly sequence editor. It is written in Objective-C/Cocoa and runs on Mac OS X.
+        - [STRAP](http://www.bioinformatics.org/strap/) - Intuitive Editor for annotated multiple Sequence and Structure Alignments
         - [TeXShade](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/texshade/texshade.pdf)
         - [Wasabi](http://wasabiapp.org/)
     
