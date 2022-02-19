@@ -165,8 +165,8 @@ helps you focus on the science
         - [GenomeSpy](https://genomespy.app/) - A visualization grammar and a GPU-accelerated rendering engine for genomic (and other) data.
         - [GenomePaint](https://genomepaint.stjude.cloud/) - GenomePaint is a web-based, interactive visualization platform for whole-genome, whole-exome, transcriptome, epigenome and 3D-genome architecture  of tumor samples.
         - [genevisR](https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html) - Intuitively visualizing and interpreting data from high-throughput genomic technologies continues to be challenging. 
-        - [mocha](https://github.com/freeseek/mocha)
-        - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md)
+        - [mocha](https://github.com/freeseek/mocha) - A BCFtools extension to call mosaic chromosomal alterations starting from phased VCF files with either B Allele Frequency (BAF) and Log R Ratio (LRR) or allelic depth (AD). 
+        - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md) - PURPLE is a purity ploidy estimator for whole genome sequenced (WGS) data.
     - Static
         - [BAMSnap](https://github.com/parklab/bamsnap)
         - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html)
