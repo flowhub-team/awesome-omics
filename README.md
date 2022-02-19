@@ -169,7 +169,7 @@ helps you focus on the science
         - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md) - PURPLE is a purity ploidy estimator for whole genome sequenced (WGS) data.
     - Static
         - [BAMSnap](https://github.com/parklab/bamsnap) - BamSnap: a lightweight command-based visualization tool for sequencing reads in BAM files
-        - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html)
+        - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html) - The BCFtools/RoH command detects regions of autozygosity in sequencing data, including exome data, using a hidden Markov model.
         - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE)
         - [CNView](https://github.com/RCollins13/CNView)
         - [CNVPlot](https://github.com/dantaki/CNVplot)
