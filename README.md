@@ -121,7 +121,7 @@ helps you focus on the science
         - [SnapGene](https://www.snapgene.com/) - Improve your core molecular biology procedures, and improve your results
         - [Strand NGS](https://www.strand-ngs.com/) - Strand NGS
     - MSA
-        - [AA](http://www.bioinformatics.org/strap/aa)
+        - [Alignment Annotator](http://www.bioinformatics.org/strap/aa) - Browser based sequence alignment visualization with JAVASCRIPT
         - [abrowse](https://github.com/ihh/abrowse)
         - [alignment.js](https://github.com/veg/alignment.js)
         - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/)
