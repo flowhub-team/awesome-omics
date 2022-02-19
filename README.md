@@ -114,7 +114,8 @@ A collection of awesome things regarding the LifeScience.
         - [Geneious](https://www.geneious.com/) - Geneious Prime puts industry-leading bioinformatics and molecular biology tools directly into researchers hands, streamlining sequence analysis and insights.
         - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/) - We constantly strive to improve Genestack's Genome Browser, making it more convenient and intuitive for our users.
         - [Golden Helix](http://goldenhelix.com/GenomeBrowse/) - The free Golden Helix GenomeBrowse® tool delivers stunning visualizations of your genomic data that give you the power to see what is occurring at each base pair in your samples.
-        - [Lucid viewer](https://lucidalign.com/)
+        - [Lucid viewer](https://lucidalign.com/) - A modern sequence alignment viewer fast performance intuitive navigation
+helps you focus on the science
         - [MacVector](https://macvector.com/)
         - [Persephone](https://persephonesoft.com/)
         - [SnapGene](https://www.snapgene.com/)
