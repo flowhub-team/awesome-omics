@@ -88,9 +88,9 @@ A collection of awesome things regarding the LifeScience.
         - [IGB](https://bioviz.org/) - GB is a fast, flexible, and free genome browser you can use to explore & visually analyze vast genomic data.
         - [IGV](https://igv.org/) - Integrative Genomics Viewer
         - [IGV.js](https://github.com/igvteam/igv.js/) - igv.js is an embeddable interactive genome visualization component developed by the Integrative Genomics Viewer (IGV) team.
-        - [JBrowse](http://jbrowse.org/jbrowse1.html)
-        - [JBrowse 2](http://jbrowse.org/jb2)
-        - [Kero-BROWSE](https://kero.hgc.jp/examples/CLCL/hg38/index.html)
+        - [JBrowse](http://jbrowse.org/jbrowse1.html) - JBrowse is a fast, scalable genome browser built completely with JavaScript and HTML5. It can run on your desktop, or be embedded in your website.
+        - [JBrowse 2](http://jbrowse.org/jb2) - The mission of the JBrowse Consortium is to develop a comprehensive, pluggable, open-source computational platform for visualizing and integrating biological data.
+        - [Kero-BROWSE](https://github.com/DBKERO/genome_browser) - Simple HTML5 canvas based genome browser for NGS data. KERO-browse supports several file formats such as bam(+bai) or BigWig.
         - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/)
         - [Nucleome browser](https://vis.nucleome.org/v1/main.html)
         - [Pileup.js](https://github.com/hammerlab/pileup.js)
