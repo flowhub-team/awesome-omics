@@ -116,7 +116,7 @@ A collection of awesome things regarding the LifeScience.
         - [Golden Helix](http://goldenhelix.com/GenomeBrowse/) - The free Golden Helix GenomeBrowse® tool delivers stunning visualizations of your genomic data that give you the power to see what is occurring at each base pair in your samples.
         - [Lucid viewer](https://lucidalign.com/) - A modern sequence alignment viewer fast performance intuitive navigation
 helps you focus on the science
-        - [MacVector](https://macvector.com/)
+        - [MacVector](https://macvector.com/) - develops powerful but easy to use Macintosh applications for Molecular Biologists to simplify and speed up the analysis, manipulation, assembly and documentation of DNA and protein sequences.
         - [Persephone](https://persephonesoft.com/)
         - [SnapGene](https://www.snapgene.com/)
         - [Strand NGS](https://www.strand-ngs.com/)
