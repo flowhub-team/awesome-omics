@@ -178,8 +178,8 @@ helps you focus on the science
         - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib) - DNAplotlib is a library that enables highly customizable visualization of individual genetic constructs and libraries of design variants.
         - [ExonIntron](http://wormweb.org/exonintron) - This is a tool for quickly making proportional, publication-quality graphics that display your gene's important parts: 5' UTR, coding sequence, 3' UTR, mutations, deletions and domains.
         - [FeatureViewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
-        - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html)
-        - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/)
+        - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html) - Similar to many genome browsers, Geneviz displays individual types of genomic features or data as separate tracks. 
+        - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/) - Genome STRiP (Genome STRucture In Populations) is a suite of tools for discovering and genotyping structural variations using sequencing data.
         - [GenomeTools](http://genometools.org/)
         - [GenomeView](https://github.com/nspies/genomeview)
         - [genoPlotR](http://genoplotr.r-forge.r-project.org/)
