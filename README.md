@@ -148,11 +148,11 @@ helps you focus on the science
         - [React MSAViewer](https://github.com/plotly/react-msa-viewer) - react-msa-viewer is a performant, extendable, highly-customizable, production-ready React Component that renders a Multiple Sequence Alignment (MSA).
         - [seqotron](https://github.com/4ment/seqotron) - Seqotron is a user-friendly sequence editor. It is written in Objective-C/Cocoa and runs on Mac OS X.
         - [STRAP](http://www.bioinformatics.org/strap/) - Intuitive Editor for annotated multiple Sequence and Structure Alignments
-        - [TeXShade](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/texshade/texshade.pdf)
+        - [TeXShade](https://www.ctan.org/pkg/texshade) - Package for setting nucleotide and peptide alignments
         - [Wasabi](http://wasabiapp.org/)
     
     - Logo
-        - [LogoJS](https://logojs.wenglab.org/app/gallery/)
+        - [LogoJS](https://logojs.wenglab.org/app/gallery/) - LogoJS is a Javascipt package for creating SVG sequence logos. 
     
     - CNV
         - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer)
