@@ -125,7 +125,7 @@ helps you focus on the science
         - [abrowse](https://github.com/ihh/abrowse) - ABrowse is a multiple sequence alignment browser with integrated phylogeny and protein structure views, created by the JBrowse team.
         - [alignment.js](https://github.com/veg/alignment.js) - A suite of reusable React components for creating a variety of visualizations involving multiple sequence alignments.
         - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/) - An application to efficiently visualize and annotate differences between alternative multiple sequence alignments
-        - [AlignmentViewer](https://alignmentviewer.org/)
+        - [AlignmentViewer](https://alignmentviewer.org/) - protein multiple sequence alignment visualization & analysis
         - [AliView](http://www.ormbunkar.se/aliview/)
         - [ALVIS (MSA viewer)](https://www.ebi.ac.uk/research/goldman/software/alvis)
         - [alignfigR](https://cran.r-project.org/web/packages/alignfigR/vignettes/my-vignette.html)
