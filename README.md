@@ -92,13 +92,13 @@ A collection of awesome things regarding the LifeScience.
         - [JBrowse 2](http://jbrowse.org/jb2) - The mission of the JBrowse Consortium is to develop a comprehensive, pluggable, open-source computational platform for visualizing and integrating biological data.
         - [Kero-BROWSE](https://github.com/DBKERO/genome_browser) - Simple HTML5 canvas based genome browser for NGS data. KERO-browse supports several file formats such as bam(+bai) or BigWig.
         - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/) -  GDV supports the exploration and analysis of NCBI-annotated and selected non-NCBI annotated eukaryotic genome assemblies.
-        - [Nucleome browser](http://vis.nucleome.org/entry/)
-        - [Pileup.js](https://github.com/hammerlab/pileup.js)
-        - [Savant](http://bioinformatics-ca.github.io/savant_genome_browser_lab_2015/)
-        - [Tablet](https://ics.hutton.ac.uk/tablet/)
-        - [Trackster](https://galaxyproject.org/learn/visualization/)
-        - [UCSC genome browser](https://genome.ucsc.edu/)
-        - [Valis browser](https://valis.bio/)
+        - [Nucleome browser](http://vis.nucleome.org/entry/) - Nucleome Browser is a multimodal, interactive data visualization and exploration platform to integrate genomic, imaging, and 3D genome structure data. 
+        - [Pileup.js](https://github.com/hammerlab/pileup.js) - pileup.js is an interactive in-browser track viewer. 
+        - [Savant](http://bioinformatics-ca.github.io/savant_genome_browser_lab_2015/) - the most popular visualization tools for High Throughput Sequencing (HTS) data.
+        - [Tablet](https://ics.hutton.ac.uk/tablet/) - Tablet is a lightweight, high-performance graphical viewer for next generation sequence assemblies and alignments.
+        - [Trackster](https://galaxyproject.org/learn/visualization/) - Trackster is Galaxy's visualization and visual analysis environment.
+        - [UCSC genome browser](https://genome.ucsc.edu/) - interactively visualize genomic data
+        - [Valis browser](https://github.com/VALIS-software/valis-hpgv) - The genome visualizer can be used to explore individual genomic files (such as bigwig or BAM) or a collection of files via the preprocessing script
         - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/)
         - [Zenbu](http://fantom.gsc.riken.jp/zenbu/)
     - Commercial
