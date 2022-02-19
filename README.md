@@ -133,8 +133,8 @@ helps you focus on the science
         - [AliTreeViz](https://www.npmjs.com/package/alitreeviz) - Visualisation of multiple sequence alignments and phylogenetic trees.
         - [BioJS/MSA](https://msa.biojs.net/) - The MSAViewer is an open source web component for scientists.
         - [Boxshade](https://embnet.vital-it.ch/software/BOX_form.html)
-        - [ESPript](http://espript.ibcp.fr/ESPript/ESPript/)
-        - [ggtree](https://github.com/YuLab-SMU/ggtree)
+        - [ESPript](http://espript.ibcp.fr/ESPript/ESPript/) - 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
+        - [ggtree](https://github.com/YuLab-SMU/ggtree) - an R package for visualization of phylogenetic trees with their annotation data
         - [Jalview](https://www.jalview.org/)
         - [JSAV](http://www.bioinf.org.uk/software/jsav)
         - [MSABrowser](https://thekaplanlab.github.io/)
