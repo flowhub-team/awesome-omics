@@ -170,8 +170,8 @@ helps you focus on the science
     - Static
         - [BAMSnap](https://github.com/parklab/bamsnap) - BamSnap: a lightweight command-based visualization tool for sequencing reads in BAM files
         - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html) - The BCFtools/RoH command detects regions of autozygosity in sequencing data, including exome data, using a hidden Markov model.
-        - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE)
-        - [CNView](https://github.com/RCollins13/CNView)
+        - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE) - A fully automated pipeline for comprehensive ChIA-PET data analysis and visualization
+        - [CNView](https://github.com/RCollins13/CNView) - Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
         - [CNVPlot](https://github.com/dantaki/CNVplot)
         - [CNVpytor](https://github.com/abyzovlab/CNVpytor)
         - [cgplot](https://github.com/dfguan/cgplot)
