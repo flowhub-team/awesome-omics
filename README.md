@@ -168,7 +168,7 @@ helps you focus on the science
         - [mocha](https://github.com/freeseek/mocha) - A BCFtools extension to call mosaic chromosomal alterations starting from phased VCF files with either B Allele Frequency (BAF) and Log R Ratio (LRR) or allelic depth (AD). 
         - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md) - PURPLE is a purity ploidy estimator for whole genome sequenced (WGS) data.
     - Static
-        - [BAMSnap](https://github.com/parklab/bamsnap)
+        - [BAMSnap](https://github.com/parklab/bamsnap) - BamSnap: a lightweight command-based visualization tool for sequencing reads in BAM files
         - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html)
         - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE)
         - [CNView](https://github.com/RCollins13/CNView)
