@@ -67,7 +67,7 @@ A collection of awesome things regarding the LifeScience.
     - [WGS](#wgs)
     - [WES](#wes)
     - single-cell
-        - [scanpy](https://scanpy.readthedocs.io/en/latest/)
+        - [scanpy](https://scanpy.readthedocs.io/en/latest/) - Single-cell analysis in Python. Scales to >1M cells.
         - [RNA-seq](#rna-seq)
 
 ## Datasets
