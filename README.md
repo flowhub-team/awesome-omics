@@ -184,12 +184,12 @@ helps you focus on the science
         - [GenomeView](https://github.com/nspies/genomeview) - a python module for visualizing genomic data
         - [genoPlotR](http://genoplotr.r-forge.r-project.org/) - genoPlotR is a R package to produce reproducible, publication-grade graphics of gene and genome maps.
         - [ggbio](https://www.bioconductor.org/packages/release/bioc/html/ggbio.html) - The ggbio package extends and specializes the grammar of graphics for biological data. 
-        - [GGgenes](https://github.com/wilkox/gggenes)
-        - [GGsashimi](https://github.com/guigolab/ggsashimi)
-        - [gtrellis](http://bioconductor.org/packages/devel/bioc/vignettes/gtrellis/inst/doc/gtrellis.html)
-        - [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html)
-        - [Hagfish](https://github.com/mfiers/hagfish/wiki/Plots) 
-        - [HiCPlotter](https://github.com/kcakdemir/HiCPlotter)
+        - [GGgenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2
+        - [GGsashimi](https://github.com/guigolab/ggsashimi) - Command-line tool for the visualization of splicing events across multiple samples
+        - [gtrellis](http://bioconductor.org/packages/devel/bioc/vignettes/gtrellis/inst/doc/gtrellis.html) - Trellis graph is a type of graph which splits data by certain conditions and visualizes subset of data in each category parallel.
+        - [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html) - Genomic data analyses requires integrated visualization of known genomic information and new experimental data. 
+        - [Hagfish](https://github.com/mfiers/hagfish/wiki/Plots) - Hagfish can generate a number of different plots. 
+        - [HiCPlotter](https://github.com/kcakdemir/HiCPlotter) - HiCPlotter is a Python data visualization tool for integrating different data types with interaction matrixes.
         - [JVarKit/BamToSVG](http://lindenb.github.io/jvarkit/BamToSVG.html)
         - [Lollipops](https://github.com/joiningdata/lollipops)
         - [Mason](http://www.yeastrc.org/mason/)
