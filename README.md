@@ -190,10 +190,10 @@ helps you focus on the science
         - [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html) - Genomic data analyses requires integrated visualization of known genomic information and new experimental data. 
         - [Hagfish](https://github.com/mfiers/hagfish/wiki/Plots) - Hagfish can generate a number of different plots. 
         - [HiCPlotter](https://github.com/kcakdemir/HiCPlotter) - HiCPlotter is a Python data visualization tool for integrating different data types with interaction matrixes.
-        - [JVarKit/BamToSVG](http://lindenb.github.io/jvarkit/BamToSVG.html)
-        - [Lollipops](https://github.com/joiningdata/lollipops)
-        - [Mason](http://www.yeastrc.org/mason/)
-        - [Methplotlib](https://github.com/wdecoster/methplotlib)
+        - [JVarKit/BamToSVG](http://lindenb.github.io/jvarkit/BamToSVG.html) - BAM to Scalar Vector Graphics
+        - [Lollipops](https://github.com/joiningdata/lollipops) - Lollipop-style mutation diagrams for annotating genetic variations.
+        - [Mason](http://www.yeastrc.org/mason/) - Mason is a JavaScript and SVG sequence feature annotation viewer that may be integrated into web sites. 
+        - [Methplotlib](https://github.com/wdecoster/methplotlib) - Plotting tools for nanopore methylation data
         - [mummer2circos](https://github.com/metagenlab/mummer2circos)
         - [Pairoscope](http://pairoscope.sourceforge.net/)
         - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/)
