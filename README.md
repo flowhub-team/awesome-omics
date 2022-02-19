@@ -180,10 +180,10 @@ helps you focus on the science
         - [FeatureViewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
         - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html) - Similar to many genome browsers, Geneviz displays individual types of genomic features or data as separate tracks. 
         - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/) - Genome STRiP (Genome STRucture In Populations) is a suite of tools for discovering and genotyping structural variations using sequencing data.
-        - [GenomeTools](http://genometools.org/)
-        - [GenomeView](https://github.com/nspies/genomeview)
-        - [genoPlotR](http://genoplotr.r-forge.r-project.org/)
-        - [ggbio](http://www.bioconductor.org/packages/2.11/bioc/vignettes/ggbio/inst/doc/ggbio.pdf)
+        - [GenomeTools](http://genometools.org/) - The GenomeTools genome analysis system is a free collection of bioinformatics tools (in the realm of genome informatics) combined into a single binary named gt.
+        - [GenomeView](https://github.com/nspies/genomeview) - a python module for visualizing genomic data
+        - [genoPlotR](http://genoplotr.r-forge.r-project.org/) - genoPlotR is a R package to produce reproducible, publication-grade graphics of gene and genome maps.
+        - [ggbio](https://www.bioconductor.org/packages/release/bioc/html/ggbio.html) - The ggbio package extends and specializes the grammar of graphics for biological data. 
         - [GGgenes](https://github.com/wilkox/gggenes)
         - [GGsashimi](https://github.com/guigolab/ggsashimi)
         - [gtrellis](http://bioconductor.org/packages/devel/bioc/vignettes/gtrellis/inst/doc/gtrellis.html)
