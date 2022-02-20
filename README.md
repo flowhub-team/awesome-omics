@@ -206,15 +206,15 @@ helps you focus on the science
         - [SparK](https://github.com/harbourlab/SparK) - Publication quality NGS track plotting
         - [Spliceclust](https://github.com/pkimes/spliceclust) - visualization tools for exon/junction coverage
         - [Sushi](https://www.bioconductor.org/packages/release/bioc/vignettes/Sushi/inst/doc/Sushi.pdf) - Sushi is an R package for plotting genomic data stored in multiple common genomic formats including bed, bedpe, bedgraph format.
-        - [svist4get](https://link.springer.com/article/10.1186/s12859-019-2706-8)
-        - [svv](https://github.com/ryanlayer/svv)
-        - [svviz](https://github.com/svviz/svviz)
-        - [svviz2](https://github.com/nspies/svviz2)
-        - [trackViewer](https://bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html)
+        - [svist4get](https://link.springer.com/article/10.1186/s12859-019-2706-8) - High-throughput sequencing often provides a foundation for experimental analyses in the life sciences. 
+        - [svv](https://github.com/ryanlayer/svv) - A two-step process that can help visualize the coverage near a variant across multiple BAMs.
+        - [svviz](https://github.com/svviz/svviz) - svviz visualizes high-throughput sequencing data relevant to a structural variant. 
+        - [svviz2](https://github.com/nspies/svviz2) - for visual evaluation of read support for structural variation
+        - [trackViewer](https://bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html) - Visualize mapped reads along with annotation as track layers for NGS dataset such as ChIP-seq, RNA-seq, miRNA-seq, DNA-seq, SNPs and methylation data.
     - Gene fusion
-        - [arriba](https://github.com/suhrig/arriba)
-        - [Chimeraviz](https://github.com/stianlagstad/chimeraviz)
-        - [clinker (gene fusion software)](https://github.com/Oshlack/Clinker/)
+        - [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
+        - [Chimeraviz](https://github.com/stianlagstad/chimeraviz) - chimeraviz is an R package that automates the creation of chimeric RNA visualizations.
+        - [clinker (gene fusion software)](https://github.com/Oshlack/Clinker/) - Fusion Super Transcript generator and Plotter
         - [FusionInspector](https://github.com/FusionInspector/FusionInspector/wiki)
         - [MAVIS](http://mavis.bcgsc.ca/)
     - Alignment viewer
