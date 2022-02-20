@@ -215,8 +215,8 @@ helps you focus on the science
         - [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
         - [Chimeraviz](https://github.com/stianlagstad/chimeraviz) - chimeraviz is an R package that automates the creation of chimeric RNA visualizations.
         - [clinker (gene fusion software)](https://github.com/Oshlack/Clinker/) - Fusion Super Transcript generator and Plotter
-        - [FusionInspector](https://github.com/FusionInspector/FusionInspector/wiki)
-        - [MAVIS](http://mavis.bcgsc.ca/)
+        - [FusionInspector](https://github.com/FusionInspector/FusionInspector/wiki) - FusionInspector is a component of the Trinity Cancer Transcriptome Analysis Toolkit (CTAT).
+        - [MAVIS](http://mavis.bcgsc.ca/) - MAVIS is a python (requires >=3) command-line tool for the post-processing of structural variant calls.
     - Alignment viewer
         - [Chromatic](https://chromatic.nci.nih.gov/)
         - [GenomeView (java app)](https://genomeview.org/content/quick-start-guide)
