@@ -302,40 +302,40 @@ helps you focus on the science
         - [Gepard](http://cube.univie.ac.at/gepard) - Gepard (German: "cheetah", Backronym for "GEnome PAir - Rapid Dotter") allows the calculation of dotplots even for large sequences like chromosomes or bacterial genomes. 
         - [Jdot](https://github.com/LyonsLab/jdot) - A fully interactive HTML5 canvas-based dotplot/scatterplot viewer.
         - [last-dotplot](https://gitlab.com/mcfrith/last) - LAST is designed for moderately large data (e.g. genomes, DNA reads, proteomes).
-        - [mcutils](https://github.com/mchaisso/mcutils)
-        - [Minidot](https://github.com/thackl/minidot)
-        - [Mummer-idotplot](https://github.com/ryought/mummer-idotplot)
-        - [Mummerplot](http://mummer.sourceforge.net/)
+        - [mcutils](https://github.com/mchaisso/mcutils) - This is a set of tools I find helpful for working with whole genome alignments stored in the SAM format. 
+        - [Minidot](https://github.com/thackl/minidot) - Fast and pretty dotplots for whole genomes assemblies using minimap and R/ggplot2
+        - [Mummer-idotplot](https://github.com/ryought/mummer-idotplot) - Generate interactive dotplot from mummer4 output using plotly
+        - [Mummerplot](http://mummer.sourceforge.net/) - MUMmer is a system for rapidly aligning entire genomes, whether in complete or draft form.
         - [ggplot2 mummerplot](https://jmonlong.github.io/Hippocamplus/2017/09/19/mummerplots-with-ggplot2/)
-        - [Redotable](https://github.com/s-andrews/redotable)
-        - [syntenyPlotByR](https://github.com/shingocat/syntenyPlotByR)
-        - [Dotter](https://sonnhammer.sbc.su.se/Dotter.html)
-        - [JGI/IMG](https://img.jgi.doe.gov/)
+        - [Redotable](https://github.com/s-andrews/redotable) - Re-dot-able is a dot-plotting application allowing for the visual comparisons of two sets of sequences.
+        - [syntenyPlotByR](https://github.com/shingocat/syntenyPlotByR) - plot synteny genome alignment by mapper Mummer or LastZ using syntenyPlot.R.
+        - [Dotter](https://sonnhammer.sbc.su.se/Dotter.html) - Dotter is a graphical dotplot program for detailed comparison of two sequences.
+        - [JGI/IMG](https://img.jgi.doe.gov/) - The mission of the Integrated Microbial Genomes & Microbiomes(IMG/M) system is to support the annotation, analysis and distribution of microbial genome and microbiome datasets sequenced at DOE's Joint Genome Institute (JGI).
         - [MashMap](https://github.com/marbl/MashMap/blob/master/scripts/generateDotPlot)
-        - [oxford-plots](https://github.com/jherrero/oxford-plots)
-        - [DAGchainer](http://dagchainer.sourceforge.net/)
+        - [oxford-plots](https://github.com/jherrero/oxford-plots) - This software is intended to build pairwise dotplots (also known as Oxford plots) for a set of species vs one particular reference genome. 
+        - [DAGchainer](http://dagchainer.sourceforge.net/) - The DAGchainer software computes chains of syntenic genes found within complete genome sequences.
     - Gene structure
-        - [TnT](https://tnt.marlin.pub/articles/introduction)
-        - [Apollo aka WebApollo](https://genomearchitect.readthedocs.io/en/latest/)
+        - [TnT](https://tnt.marlin.pub/articles/introduction) - A common task in bioinformatics is to create visualization of genomic data along genomic coordinates, together with necessary genomic annotation features like genes and transcripts on the same coordinate, in order to make sense of those data.
+        - [Apollo aka WebApollo](https://genomearchitect.readthedocs.io/en/latest/) - Apollo - A collaborative, real-time, genome annotation web-based editor.
     - Microbiology
-        - [Edinburgh-Genome-Foundry/DnaFeaturesViewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer)
+        - [Edinburgh-Genome-Foundry/DnaFeaturesViewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) - python library to plot DNA sequence
     - Graph
-        - [AGB assembly graph browser](https://almiheenko.github.io/AGB/index.html)
-        - [Bandage](https://github.com/rrwick/Bandage/)
-        - [gfaestus](https://github.com/chfi/gfaestus)
+        - [AGB assembly graph browser](https://almiheenko.github.io/AGB/index.html) - Supplementary material for the Assembly Graph Browser
+        - [Bandage](https://github.com/rrwick/Bandage/) - a Bioinformatics Application for Navigating De novo Assembly Graphs Easily
+        - [gfaestus](https://github.com/chfi/gfaestus) - gfaestus is a tool for visualizing and interacting with genome graphs in the GFA format.
         - [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/)
-        - [MoMi-G](https://github.com/MoMI-G/MoMI-G)
-        - [odgi draw + odgi viz](https://odgi.readthedocs.io/en/latest/index.html)
-        - [sequence tube map](https://github.com/vgteam/sequenceTubeMap)
-        - [Shasta](https://chanzuckerberg.github.io/shasta/ComputationalMethods.html#ReadGraph)
-        - [LINX](https://github.com/hartwigmedical/hmftools/blob/master/sv-linx/README_VIS.md)
-        - [panGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer)
-        - [IGGE](https://github.com/immersivegraphgenomeexplorer/IGGE)
+        - [MoMi-G](https://github.com/MoMI-G/MoMI-G) - A genome graph browser for visualization of structural variants (SVs) as a variation graph:
+        - [odgi draw + odgi viz](https://odgi.readthedocs.io/en/latest/index.html) - In standard genomic approaches sequences are related to a single linear reference genome introducing reference bias. 
+        - [sequence tube map](https://github.com/vgteam/sequenceTubeMap) - A JavaScript module for the visualization of genomic sequence graphs. 
+        - [Shasta](https://chanzuckerberg.github.io/shasta/ComputationalMethods.html#ReadGraph) - Using the methods covered so far, an assembly has created a list of pairs of oriented reads, each pair having a plausible marker alignment.
+        - [LINX](https://www.biorxiv.org/content/10.1101/781013v1.full.pdf) - We have developed a novel, integrated and comprehensive purity, ploidy, structural variant and copy number somatic analysis toolkit for whole genome sequencing data of paired tumor/normal samples.
+        - [panGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer) - show pangenome graphs in an easy way
+        - [IGGE](https://github.com/immersivegraphgenomeexplorer/IGGE) - o turn the exploration of graph genomes into an immersive, interactive, and usable iVR experience, we built a new VR application which we call "The Immersive Graph Genome Explorer" (IGGE). IGGE is a virtual platform built upon the Unity Game Engine that affords a suite of graph genome exploitation tools, cross-platform viewing, and 3DUI.
     - SV
         - [gGnomes.js](https://github.com/mskilab/gGnome.js)
-        - [Ribbon](http://genomeribbon.com/)
-        - [Gremlin](http://compbio.cs.brown.edu/projects/gremlin/)
-        - [InGAP-SV](http://ingap.sourceforge.net/)
+        - [Ribbon](http://genomeribbon.com/) - intuitive visualization for complex genomic variation
+        - [Gremlin](http://compbio.cs.brown.edu/projects/gremlin/) - Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes. 
+        - [InGAP-SV](http://ingap.sourceforge.net/) - We developed an integrative next-generation genome analysis pipeline (inGAP), which employed a Bayesian principle to detect single nucleotide polymorphisms (SNPs), small insertion/deletions (indels).
         - [Introgression browser](https://git.wageningenur.nl/aflit001/ibrowser)
         - [SplitThreader](http://splitthreader.com/)
         - [SMRT View](http://files.pacb.com/software/smrtanalysis/2.3.0/doc/smrtview/help/Webhelp/App_View_Epipro.htm)
