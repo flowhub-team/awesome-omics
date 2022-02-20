@@ -225,15 +225,15 @@ helps you focus on the science
         - [pyBamView](https://mgymrek.github.io/pybamview/) - PyBamView is a python-based application that allows you to view BAM sequence alignments through your web browser.
         - [udon](https://github.com/ocxtal/udon) - BAM CIGAR / MD transcoder for compact on-memory representation and quick drawing
     - Comparative
-        - [Aequatus](https://github.com/TGAC/Aequatus)
-        - [AliTV](https://alitvteam.github.io/AliTV/d3/AliTV.html)
-        - [GSSPlayground](https://github.com/orangeSi/GSSplayground)
-        - [Artemis comparison tool (ACT)](https://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act)
+        - [Aequatus](https://github.com/TGAC/Aequatus) - Visualising complex similarity relationships among species
+        - [AliTV](https://alitvteam.github.io/AliTV/d3/AliTV.html) - AliTV (Alignment Toolbox and Visualization) is a software for visualizing Whole Genome Alignments.
+        - [GSSPlayground](https://github.com/orangeSi/GSSplayground) - Lightweight single-html-file-based Genome Segments playground for Visualize genome features cluster(gene arrow map or other features), add synteny among genome fragments or add crosslink among features, add short(PE/MP)/long reads(pacbio or nanopore) mapping or snpindel in vcf(not support complex sv yet), support all CIGAR of sam alignment, dire…
+        - [Artemis comparison tool (ACT)](https://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) - ACT is a Java application for displaying pairwise comparisons between two or more DNA sequences.
         - [Biodalliance comparative demo](http://biodalliance.org/dev/test-comparative.html)
-        - [Chromatiblock](https://github.com/mjsull/chromatiblock)
-        - [CMap](http://gmod.org/wiki/CMap)
-        - [CoGe](https://genomevolution.org/coge/)
-        - [Comparative assembly hub / "snake track"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296145/)
+        - [Chromatiblock](https://github.com/mjsull/chromatiblock) - Scalable, whole-genome visualisation of structural changes in prokaryotes
+        - [CMap](http://gmod.org/wiki/CMap) - A browser-based tool for the visual comparison of various maps (sequence, genetic, etc.) from any number of species.
+        - [CoGe](https://genomevolution.org/coge/) - CoGe is a platform for performing Comparative Genomics research.
+        - [cactus](https://github.com/ComparativeGenomicsToolkit/cactus) - Official home of genome aligner based upon notion of Cactus graphs
         - [CrossBrowse](https://github.com/shenkers/CrossBrowse)
         - [CVit](https://sourceforge.net/projects/cvit/)
         - [Cvit.js](https://github.com/LegumeFederation/cvitjs)
