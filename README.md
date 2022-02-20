@@ -220,10 +220,10 @@ helps you focus on the science
     - Alignment viewer
         - [Chromatic](https://chromatic.nci.nih.gov/)
         - [GenomeView (java app)](https://genomeview.org/content/quick-start-guide)
-        - [Gambit](http://labsergen.langebio.cinvestav.mx/bioinformatics/jacob/?p=473)
-        - [LookSeq](https://www.sanger.ac.uk/tool/lookseq/)
-        - [pyBamView](https://mgymrek.github.io/pybamview/)
-        - [udon](https://github.com/ocxtal/udon)
+        - [Gambit](http://labsergen.langebio.cinvestav.mx/bioinformatics/jacob/?p=473) - Gambit is a new cross-platform GUI (graphical user interface) application for sequence visualization and analysis. 
+        - [LookSeq](https://www.sanger.ac.uk/tool/lookseq/) - LookSeq is a web-based application for alignment visualization, browsing and analysis of genome sequence data.
+        - [pyBamView](https://mgymrek.github.io/pybamview/) - PyBamView is a python-based application that allows you to view BAM sequence alignments through your web browser.
+        - [udon](https://github.com/ocxtal/udon) - BAM CIGAR / MD transcoder for compact on-memory representation and quick drawing
     - Comparative
         - [Aequatus](https://github.com/TGAC/Aequatus)
         - [AliTV](https://alitvteam.github.io/AliTV/d3/AliTV.html)
