@@ -240,14 +240,14 @@ helps you focus on the science
         - [EasyFig](https://mjsull.github.io/Easyfig/) - Easyfig is a Python application for creating linear comparison figures of multiple genomic loci with an easy-to-use graphical user interface (GUI).
         - [GBrowse_syn](http://gmod.org/wiki/GBrowse_syn) - GBrowse_syn, or the Generic Synteny Browser, is a GBrowse-based synteny browser designed to display multiple genomes, with a central reference species compared to two or more additional species. 
         - [Genome Context Viewer](https://www.legumefederation.org/gcv/phytozome_10_2/) - A web-app that visualizes genomic context data provided by third party services in a single, federated interface by using gene-family assignment as a unit of search and comparison.
-        - [Genome-plots-processing](https://github.com/filip-husnik/genome-plots-processing)
-        - [Genomicus](https://www.genomicus.biologie.ens.fr/genomicus/)
-        - [gggenomes](https://github.com/thackl/gggenomes)
-        - [GIVE](https://zhong-lab-ucsd.github.io/GIVE_homepage/)
-        - [mauve-viewer](https://github.com/nconrad/mauve-viewer)
-        - [MCScan (python version)](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version))
-        - [MCScanX](https://github.com/wyp1125/MCScanX)
-        - [mGSV (multiple genome synteny viewer)](https://github.com/kashmatic/mGSV)
+        - [Genome-plots-processing](https://github.com/filip-husnik/genome-plots-processing) - Processing scripts to visualize bacterial genome alignments as linear (instead of circular, e.g. by Circos)
+        - [Genomicus](https://www.genomicus.biologie.ens.fr/genomicus/) - Genomicus is a genome browser that enables users to navigate in genomes in several dimensions: linearly along chromosome axes, transversaly across different species, and chronologicaly along evolutionary time.
+        - [gggenomes](https://github.com/thackl/gggenomes) - A grammar of graphics for comparative genomics
+        - [GIVE](https://zhong-lab-ucsd.github.io/GIVE_homepage/) - GIVE is an open source programming library that allows anyone without much programming experience to build custom genome browser websites or apps.
+        - [mauve-viewer](https://github.com/nconrad/mauve-viewer) - A Whole Genome Alignment Visualization Tool for the Web
+        - [MCScan (python version)](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) - MCscan facilitates pairwise and multiple genome syntenic comparisons and visualizations.
+        - [MCScanX](https://github.com/wyp1125/MCScanX) - MCScanX: Multiple Collinearity Scan toolkit X version. The most popular synteny analysis tool in the world!
+        - [mGSV (multiple genome synteny viewer)](https://github.com/kashmatic/mGSV) - Multiple Genome Synteny Viewer
         - [MizBee](http://www.cs.utah.edu/~miriah/mizbee/Overview.html)
         - [Multiple genome viewer](http://www.informatics.jax.org/mgv/)
         - [OMA local synteny browser](https://omabrowser.org/oma/synteny/ADH1A_HUMAN/)
