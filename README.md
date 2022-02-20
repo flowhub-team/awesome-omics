@@ -290,19 +290,18 @@ helps you focus on the science
         - [LDBlockShow](https://github.com/BGI-shenzhen/LDBlockShow) - a fast and convenient tool for visualizing linkage disequilibrium and haplotype blocks based on VCF files
     - Dotplot
         - [shinyChromosome](http://150.109.59.144:3838/shinyChromosome/) - interactive creation of non-circular whole genome diagram
-        - [D-GENIES](http://dgenies.toulouse.inra.fr/)
-        - [Delly-maze](https://github.com/dellytools/maze)
-        - [Discoplot](https://github.com/mjsull/DiscoPlot)
+        - [D-GENIES](http://dgenies.toulouse.inra.fr/) - GENIES – for Dot plot large Genomes in an Interactive, Efficient and Simple way
+        - [Delly-maze](https://github.com/dellytools/maze) - In a similar manner to dot plots, maze highlights local sequence similarity between two DNA sequences. In particular, maximal exact substring matches are computed with MUMmer3 and visualised.
+        - [Discoplot](https://github.com/mjsull/DiscoPlot) - DiscoPlot allows the user to quickly identify genomic rearrangements, misassemblies and sequencing artefacts by providing a scalable method for visualising large sections of the genome. 
         - [Dot](https://dot.sandbox.bio/)
         - [Dotlet](https://dotlet.vital-it.ch/)
-        - [Dotplot (chirimoyo)](https://chirimoyo.ac.uma.es/bitlab/portfolio/dotplot/)
-        - [iLambda/Dotplot](https://github.com/iLambda/dotplot)
-        - [dotPlotly](https://github.com/tpoorten/dotPlotly/)
-        - [Dottup](https://www.bioinformatics.nl/cgi-bin/emboss/help/dottup)
-        - [FlexiDot](https://github.com/molbio-dresden/flexidot)
-        - [Gepard](http://cube.univie.ac.at/gepard)
-        - [Jdot](https://github.com/LyonsLab/jdot)
-        - [last-dotplot](https://gitlab.com/mcfrith/last)
+        - [iLambda/Dotplot](https://github.com/iLambda/dotplot) - This library allows you to create and draw dotplots. In bioinformatics, a dot plot is a graphical method that allows the comparison of two biological sequences and identify regions of close similarity between them.
+        - [dotPlotly](https://github.com/tpoorten/dotPlotly/) - Generate an interactive dot plot from mummer or minimap alignments
+        - [Dottup](https://www.bioinformatics.nl/cgi-bin/emboss/help/dottup) - A dotplot is a graphical representation of the regions of similarity between two sequences.
+        - [FlexiDot](https://github.com/molbio-dresden/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
+        - [Gepard](http://cube.univie.ac.at/gepard) - Gepard (German: "cheetah", Backronym for "GEnome PAir - Rapid Dotter") allows the calculation of dotplots even for large sequences like chromosomes or bacterial genomes. 
+        - [Jdot](https://github.com/LyonsLab/jdot) - A fully interactive HTML5 canvas-based dotplot/scatterplot viewer.
+        - [last-dotplot](https://gitlab.com/mcfrith/last) - LAST is designed for moderately large data (e.g. genomes, DNA reads, proteomes).
         - [mcutils](https://github.com/mchaisso/mcutils)
         - [Minidot](https://github.com/thackl/minidot)
         - [Mummer-idotplot](https://github.com/ryought/mummer-idotplot)
