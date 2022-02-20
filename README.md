@@ -199,10 +199,10 @@ helps you focus on the science
         - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/) - A synteny map of the ctenophore mitochondrial genomes. 
         - [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - python module to plot beautiful and highly customizable genome browser tracks
         - [RACER](https://oliviasabik.github.io/RACERweb/articles/IntroToRACER.html) - RACER is a package that allows you to generate high quality regional association plots from genomic data using the function singlePlotRACER() and can stack two such plots using the function mirrorPlotRACER() such that they are mirrored across a common x-axis, enabling the direct visual comparison of two associations at the same locus. 
-        - [RepViz](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4473-z)
-        - [Samplot](https://github.com/ryanlayer/samplot)
-        - [SashimiPlot](https://miso.readthedocs.io/en/fastmiso/sashimi.html)
-        - [shabam](https://github.com/dlrice/shabam)
+        - [RepViz](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4473-z) - Visualization of sequencing data is an integral part of genomic data analysis. 
+        - [Samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs
+        - [SashimiPlot](https://miso.readthedocs.io/en/fastmiso/sashimi.html) - sashimi_plot is a utility for automatically producing publication-quality plots Sashimi plots for RNA-Seq analyses of isoform expression.
+        - [shabam](https://github.com/dlrice/shabam) - A python tool to plot BAM or CRAM sequence reads.
         - [SparK](https://github.com/harbourlab/SparK)
         - [Spliceclust](https://github.com/pkimes/spliceclust)
         - [Sushi](https://www.bioconductor.org/packages/release/bioc/vignettes/Sushi/inst/doc/Sushi.pdf)
