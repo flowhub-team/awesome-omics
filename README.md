@@ -234,9 +234,9 @@ helps you focus on the science
         - [CMap](http://gmod.org/wiki/CMap) - A browser-based tool for the visual comparison of various maps (sequence, genetic, etc.) from any number of species.
         - [CoGe](https://genomevolution.org/coge/) - CoGe is a platform for performing Comparative Genomics research.
         - [cactus](https://github.com/ComparativeGenomicsToolkit/cactus) - Official home of genome aligner based upon notion of Cactus graphs
-        - [CrossBrowse](https://github.com/shenkers/CrossBrowse)
-        - [CVit](https://sourceforge.net/projects/cvit/)
-        - [Cvit.js](https://github.com/LegumeFederation/cvitjs)
+        - [CrossBrowse](https://github.com/shenkers/CrossBrowse) - browse genomics data for multiple reference sequences simultaneously
+        - [CVit](https://sourceforge.net/projects/cvit/) - A collection of Perl scripts that enable quick visualizations of features on linkage groups, psuedochromosomes or cytogenetic maps. 
+        - [Cvit.js](https://github.com/LegumeFederation/cvitjs) - CViTjs - Chromosome Viewing Tool. A javascript tool for quick whole-genome views of data.
         - [EasyFig](https://mjsull.github.io/Easyfig/)
         - [GBrowse_syn](http://gmod.org/wiki/GBrowse_syn)
         - [Genome Context Viewer](https://www.legumefederation.org/gcv/phytozome_10_2/)
