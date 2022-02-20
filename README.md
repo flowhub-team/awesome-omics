@@ -248,50 +248,48 @@ helps you focus on the science
         - [MCScan (python version)](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) - MCscan facilitates pairwise and multiple genome syntenic comparisons and visualizations.
         - [MCScanX](https://github.com/wyp1125/MCScanX) - MCScanX: Multiple Collinearity Scan toolkit X version. The most popular synteny analysis tool in the world!
         - [mGSV (multiple genome synteny viewer)](https://github.com/kashmatic/mGSV) - Multiple Genome Synteny Viewer
-        - [MizBee](http://www.cs.utah.edu/~miriah/mizbee/Overview.html)
+        - [MizBee](http://www.cs.utah.edu/~miriah/mizbee/Overview.html) - MizBee is a multiscale synteny browser for exploring conservation relationships in comparative genomics data.
         - [Multiple genome viewer](http://www.informatics.jax.org/mgv/)
         - [OMA local synteny browser](https://omabrowser.org/oma/synteny/ADH1A_HUMAN/)
-        - [pafr](https://github.com/dwinter/pafr)
-        - [Parasight](https://baileylab.brown.edu/parasight/galframe.html)
-        - [syri/plotsr](https://schneebergerlab.github.io/syri/plotsr.html)
-        - [progressiveMauve viewer](http://darlinglab.org/mauve/user-guide/viewer.html)
-        - [SyMap](http://www.agcol.arizona.edu/software/symap/)
-        - [Synima](https://github.com/rhysf/Synima)
-        - [Synteny browser](https://github.com/TheJacksonLaboratory/syntenybrowser)
-        - [SynTView](http://hub18.hosting.pasteur.fr/SynTView/documentation/)
-        - [SynVisio](https://synvisio.github.io/)
-        - [VISTA browser](http://pipeline.lbl.gov/cgi-bin/gateway2)
-        - [XMatchView](https://www.bcgsc.ca/resources/software/xmatchview)
-        - [LinearDisplay.pl](https://github.com/JCVenterInstitute/LinearDisplay)
-        - [FastANI](https://github.com/ParBLiSS/FastANI)
-        - [clinker](https://github.com/gamcil/clinker)
-        - [RectChr](https://github.com/BGI-shenzhen/RectChr)
-        - [pretzel](https://github.com/plantinformatics/pretzel)
-        - [PipMaker](http://pipmaker.bx.psu.edu/pipmaker/)
-        - [WGDI](https://github.com/SunPengChuan/wgdi)
-        - [BRIG](http://brig.sourceforge.net)
-        - [GENESPACE](https://github.com/jtlovell/GENESPACE/)
-        - [miropeats](http://www.littlest.co.uk/software/bioinf/old_packages/miropeats/)
-        - [syntenyPlotteR](https://github.com/marta-fb/syntenyPlotteR)
-        - [chromoMap](https://lakshay-anand.github.io/chromoMap/index.html)
+        - [pafr](https://github.com/dwinter/pafr) - Read, manipulate and visualize 'Pairwise mApping Format' data in R
+        - [syri/plotsr](https://schneebergerlab.github.io/syri/plotsr.html) - Synteny and Rearrangement Identifier
+        - [progressiveMauve viewer](http://darlinglab.org/mauve/user-guide/viewer.html) - The alignment display is organized into one horizontal “panel” per input genome sequence.
+        - [SyMap](http://www.agcol.arizona.edu/software/symap/) - SyMAP (Synteny Mapping and Analysis Program) is a software package for detecting,displaying, and querying syntenic relationships between sequenced chromosomes and/or FPC physical maps.
+        - [Synima](https://github.com/rhysf/Synima) - Synima (Synteny Imager) is a program for visualising syntenic regions from orthologous genes, infered by reciprocal best hits (RBH) from BLAST, or OrthoMCL or Orthofinder, followed by DAGchainer. OrthoMCL, Orthofinder and DAGchainer are bundled with Synima, with wrapper scripts provided in /util/. 
+        - [Synteny browser](https://github.com/TheJacksonLaboratory/syntenybrowser) - An interactive web-based conserved synteny browser application
+        - [SynTView](http://hub18.hosting.pasteur.fr/SynTView/documentation/) - SynTView is built as a generic genome browser which allows the user to visually explore genomes by genomic location, or to directly access genes by names search.
+        - [SynVisio](https://synvisio.github.io/) - SynVisio lets you explore the results of McScanX a popular synteny and collinearity detection toolkit and generate publication ready images.
+        - [VISTA browser](http://pipeline.lbl.gov/cgi-bin/gateway2) - Whole Genome Comparative Analysis of the Human Feb. 2009 Genome
+        - [XMatchView](https://www.bcgsc.ca/resources/software/xmatchview) - XMatchView is written in python and runs on linux and windows. 
+        - [LinearDisplay.pl](https://github.com/JCVenterInstitute/LinearDisplay) - LinearDisplay.pl is a program that generates publication quality linear maps of user-defined genetic features (e.g., ORFs, promoters, transcriptional terminators, restriction enzyme recognition sites, primer-binding sites, phage attachment sites, target site duplications, assembly/contig breaks and RNA structures).
+        - [FastANI](https://github.com/ParBLiSS/FastANI) - FastANI is developed for fast alignment-free computation of whole-genome Average Nucleotide Identity (ANI). 
+        - [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator
+        - [RectChr](https://github.com/BGI-shenzhen/RectChr) - Multi-level visualization of genomic statistical variables on rectangular chromosomes
+        - [pretzel](https://github.com/plantinformatics/pretzel) - Javascript full-stack framework for Big Data visualisation and analysis
+        - [PipMaker](http://pipmaker.bx.psu.edu/pipmaker/) - PipMaker computes alignments of similar regions in two DNA sequences.
+        - [WGDI](https://github.com/SunPengChuan/wgdi) - Finely identify the whole genome duplication events and generate the genomic homology tables.
+        - [BRIG](http://brig.sourceforge.net) - BRIG is a free cross-platform (Windows/Mac/Unix) application that can display circular comparisons between a large number of genomes, with a focus on handling genome assembly data.
+        - [GENESPACE](https://github.com/jtlovell/GENESPACE/) - GENESPACE is a comparative genomics framework implemented in the R environment for statistical computing.
+        - [miropeats](http://www.littlest.co.uk/software/bioinf/old_packages/miropeats/) - Miropeats discovers regions of sequence similarity amongst any set of DNA sequences and then presents this similarity information graphically.
+        - [syntenyPlotteR](https://github.com/marta-fb/syntenyPlotteR) - R package to draw syntenic plots in 3 different styles
+        - [chromoMap](https://lakshay-anand.github.io/chromoMap/index.html) - Generate interactive genome visualizations, annotate genomic features, and visualize multi-omics data using chromoMap R package.
         - [SafFire](https://mrvollger.github.io/SafFire/#ref=CHM13_v1.1&query=GRCh38)
-        - [SimpleSynteny](https://www.dveltri.com/simplesynteny/about.html)
-        - [Cinteny](http://cinteny.cchmc.org/)
-        - [AutoGraph](http://autograph.genouest.org/)
-        - [EvolutionHighway](http://eh-demo.ncsa.illinois.edu/)
+        - [SimpleSynteny](https://www.dveltri.com/simplesynteny/about.html) - SimpleSynteny is a graphical program to help biologists easily generate publication-quality visuals for comparative genome analysis or to assist with teaching.
+        - [Cinteny](http://cinteny.cchmc.org/) - Server for Synteny Identification and Analysis of Genome Rearrangement	
+        - [AutoGraph](http://autograph.genouest.org/) - AutoGRAPH was an integrated web server for multi-species comparative genomic analysis.
     - Single cell
-        - [Millefy](https://github.com/yuifu/millefy)
-        - [gingko](http://qb.cshl.edu/ginkgo/?q=/9EiUttUP0CBHs3WnuBa0)
-        - [copykat](https://github.com/navinlabcode/copykat/blob/master/vignettes/copycat-vignettes.pdf)
+        - [copykat](https://github.com/navinlabcode/copykat/blob/master/vignettes/copycat-vignettes.pdf) - A major challenge for single cell RNA sequencing of human tumors is to distinguish cancer cells from stromal cell types, as well as the presence of multiple tumor subclones.
+        - [Millefy](https://github.com/yuifu/millefy) - Genome browser-like visualization of single-cell RNA-seq dataset
+        - [gingko](http://qb.cshl.edu/ginkgo/?q=/9EiUttUP0CBHs3WnuBa0) - A web tool for analyzing single-cell sequencing data.
         - [scCNV_heatmap](https://github.com/StefanKurtenbach/scCNV_heatmap)
-        - [casper](https://github.com/akdess/CaSpER)
+        - [casper](https://github.com/akdess/CaSpER) - A bar with ploidies will be plotted on the right side of the heatmap.
         - [ArchR](https://www.archrproject.com/articles/Articles/tutorial.html)
     - GWAS
-        - [PureScript genetics browser](https://github.com/chfi/purescript-genetics-browser)
-        - [Locuszoom](http://locuszoom.org/)
-        - [LDBlockShow](https://github.com/BGI-shenzhen/LDBlockShow)
+        - [PureScript genetics browser](https://github.com/chfi/purescript-genetics-browser) - Purescript-based genome and genetics browser
+        - [Locuszoom](http://locuszoom.org/) - interactive and embeddable visualization of genetic association study results
+        - [LDBlockShow](https://github.com/BGI-shenzhen/LDBlockShow) - a fast and convenient tool for visualizing linkage disequilibrium and haplotype blocks based on VCF files
     - Dotplot
-        - [shinyChromosome](http://150.109.59.144:3838/shinyChromosome/)
+        - [shinyChromosome](http://150.109.59.144:3838/shinyChromosome/) - interactive creation of non-circular whole genome diagram
         - [D-GENIES](http://dgenies.toulouse.inra.fr/)
         - [Delly-maze](https://github.com/dellytools/maze)
         - [Discoplot](https://github.com/mjsull/DiscoPlot)
