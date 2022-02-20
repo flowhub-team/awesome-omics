@@ -194,10 +194,10 @@ helps you focus on the science
         - [Lollipops](https://github.com/joiningdata/lollipops) - Lollipop-style mutation diagrams for annotating genetic variations.
         - [Mason](http://www.yeastrc.org/mason/) - Mason is a JavaScript and SVG sequence feature annotation viewer that may be integrated into web sites. 
         - [Methplotlib](https://github.com/wdecoster/methplotlib) - Plotting tools for nanopore methylation data
-        - [mummer2circos](https://github.com/metagenlab/mummer2circos)
-        - [Pairoscope](http://pairoscope.sourceforge.net/)
-        - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/)
-        - [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks)
+        - [mummer2circos](https://github.com/metagenlab/mummer2circos) - Generate circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
+        - [Pairoscope](http://pairoscope.sourceforge.net/) - Pairoscope (formerly Yenta) was developed as a quick and simple way to generate diagrams indicating the relationship of paired end sequencing reads.
+        - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/) - A synteny map of the ctenophore mitochondrial genomes. 
+        - [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - python module to plot beautiful and highly customizable genome browser tracks
         - [RACER](https://oliviasabik.github.io/RACERweb/articles/IntroToRACER.html)
         - [RepViz](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4473-z)
         - [Samplot](https://github.com/ryanlayer/samplot)
