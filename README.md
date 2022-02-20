@@ -237,9 +237,9 @@ helps you focus on the science
         - [CrossBrowse](https://github.com/shenkers/CrossBrowse) - browse genomics data for multiple reference sequences simultaneously
         - [CVit](https://sourceforge.net/projects/cvit/) - A collection of Perl scripts that enable quick visualizations of features on linkage groups, psuedochromosomes or cytogenetic maps. 
         - [Cvit.js](https://github.com/LegumeFederation/cvitjs) - CViTjs - Chromosome Viewing Tool. A javascript tool for quick whole-genome views of data.
-        - [EasyFig](https://mjsull.github.io/Easyfig/)
-        - [GBrowse_syn](http://gmod.org/wiki/GBrowse_syn)
-        - [Genome Context Viewer](https://www.legumefederation.org/gcv/phytozome_10_2/)
+        - [EasyFig](https://mjsull.github.io/Easyfig/) - Easyfig is a Python application for creating linear comparison figures of multiple genomic loci with an easy-to-use graphical user interface (GUI).
+        - [GBrowse_syn](http://gmod.org/wiki/GBrowse_syn) - GBrowse_syn, or the Generic Synteny Browser, is a GBrowse-based synteny browser designed to display multiple genomes, with a central reference species compared to two or more additional species. 
+        - [Genome Context Viewer](https://www.legumefederation.org/gcv/phytozome_10_2/) - A web-app that visualizes genomic context data provided by third party services in a single, federated interface by using gene-family assignment as a unit of search and comparison.
         - [Genome-plots-processing](https://github.com/filip-husnik/genome-plots-processing)
         - [Genomicus](https://www.genomicus.biologie.ens.fr/genomicus/)
         - [gggenomes](https://github.com/thackl/gggenomes)
