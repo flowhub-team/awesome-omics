@@ -198,7 +198,7 @@ helps you focus on the science
         - [Pairoscope](http://pairoscope.sourceforge.net/) - Pairoscope (formerly Yenta) was developed as a quick and simple way to generate diagrams indicating the relationship of paired end sequencing reads.
         - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/) - A synteny map of the ctenophore mitochondrial genomes. 
         - [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - python module to plot beautiful and highly customizable genome browser tracks
-        - [RACER](https://oliviasabik.github.io/RACERweb/articles/IntroToRACER.html)
+        - [RACER](https://oliviasabik.github.io/RACERweb/articles/IntroToRACER.html) - RACER is a package that allows you to generate high quality regional association plots from genomic data using the function singlePlotRACER() and can stack two such plots using the function mirrorPlotRACER() such that they are mirrored across a common x-axis, enabling the direct visual comparison of two associations at the same locus. 
         - [RepViz](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4473-z)
         - [Samplot](https://github.com/ryanlayer/samplot)
         - [SashimiPlot](https://miso.readthedocs.io/en/fastmiso/sashimi.html)
