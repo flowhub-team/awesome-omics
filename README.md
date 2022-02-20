@@ -203,9 +203,9 @@ helps you focus on the science
         - [Samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs
         - [SashimiPlot](https://miso.readthedocs.io/en/fastmiso/sashimi.html) - sashimi_plot is a utility for automatically producing publication-quality plots Sashimi plots for RNA-Seq analyses of isoform expression.
         - [shabam](https://github.com/dlrice/shabam) - A python tool to plot BAM or CRAM sequence reads.
-        - [SparK](https://github.com/harbourlab/SparK)
-        - [Spliceclust](https://github.com/pkimes/spliceclust)
-        - [Sushi](https://www.bioconductor.org/packages/release/bioc/vignettes/Sushi/inst/doc/Sushi.pdf)
+        - [SparK](https://github.com/harbourlab/SparK) - Publication quality NGS track plotting
+        - [Spliceclust](https://github.com/pkimes/spliceclust) - visualization tools for exon/junction coverage
+        - [Sushi](https://www.bioconductor.org/packages/release/bioc/vignettes/Sushi/inst/doc/Sushi.pdf) - Sushi is an R package for plotting genomic data stored in multiple common genomic formats including bed, bedpe, bedgraph format.
         - [svist4get](https://link.springer.com/article/10.1186/s12859-019-2706-8)
         - [svv](https://github.com/ryanlayer/svv)
         - [svviz](https://github.com/svviz/svviz)
