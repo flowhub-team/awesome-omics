@@ -411,8 +411,8 @@ helps you focus on the science
     - Epigenomics
         - [Chip Monk](http://www.bioinformatics.babraham.ac.uk/projects/chipmonk/) - A tool to visualise and analyse ChIP-on-chip array data
         - [Chipster](https://chipster.csc.fi/) - Chipster is a user-friendly analysis software for high-throughput data such as RNA-seq and single cell RNA-seq. 
-        - [cisGenome Browser](https://jhui2014.github.io/browser/screenshots.html)
-        - [Epilogos](https://epilogos.altius.org/)
+        - [cisGenome Browser](https://jhui2014.github.io/browser/screenshots.html) - Several tracks of signals together with gene structures, folded with respect to the gene structures so that the empty spaces between genes and exons are packed.
+        - [Epilogos](https://epilogos.altius.org/) - epilogos provides summarized views of large amounts of genome-wide datasets
         - [Epiviz](https://epiviz.github.io/)
         - [HiPiler](http://hipiler.higlass.io)
         - [Juicebox](https://github.com/aidenlab/Juicebox)
