@@ -462,7 +462,7 @@ helps you focus on the science
         - [NanoMethViz](http://www.bioconductor.org/packages/release/bioc/html/NanoMethViz.html) - NanoMethViz is a toolkit for visualising methylation data from Oxford Nanopore sequencing. 
         - [AnnoJ](https://brainome.ucsd.edu/howto_annoj.html) - The AnnoJ browser displays epigenomic data, including base-resolution DNA methylation (methylC-Seq/whole genome bisulfite sequencing), RNA-Seq, ChIP-Seq, as well as annotations.
     - Phylogenetics
-        - [Nextclade](https://clades.nextstrain.org/)
+        - [Nextclade](https://clades.nextstrain.org/) - Clade assignment, mutation calling, and sequence quality checks
         - [Gingr](https://harvest.readthedocs.io/en/latest/content/gingr.html)
     - Uncategorized
         - [methylartist](https://github.com/adamewing/methylartist)
