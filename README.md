@@ -438,13 +438,13 @@ helps you focus on the science
         - [RPAN (3kricedb)](http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF) - The cultivated rice, Oryza sativa L., is one of the major staple food for the world and a model organism in plant biology. 
         - [PGAP-X](https://pgapx.zhaopage.com/) - PGAP-X is a microbial comparative genomic analysis platform with graphic interface.
         - [PGV](https://github.com/ucrbioinfo/PGV) - The pan-genome of a species is the union of the genes and non-coding sequences present in all individuals (cultivar, accessions,or strains) within that species. 
-        - [Phandango](https://jameshadfield.github.io/phandango/#/examples)
+        - [Phandango](https://jameshadfield.github.io/phandango/#/examples) - Phandango is a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results.
     - Protein
         - [Protael](http://sanshu.github.io/protaelweb/)
         - [ProteinPaint](https://pecan.stjude.cloud/proteinpaint)
-        - [pViz](https://github.com/Genentech/pviz)
+        - [pViz](https://github.com/Genentech/pviz) - pViz.js: a dynamic JavaScript & SVG library for visualization of protein sequence features
         - [Aquaria](http://aquaria.ws/Q9HD67/5i0i/A)
-        - [nightingale/protvista](https://ebi-webcomponents.github.io/nightingale/#/msa)
+        - [nightingale/protvista](https://ebi-webcomponents.github.io/nightingale/#/msa) - Nightingale is a library of re-usable data visualisation Web Components, which can be used to display protein sequence features (ProtVista), variants, interaction data, 3D structure, etc.
     - Heatmap
         - [UCSC Xena](https://xena.ucsc.edu/)
         - [VIVA](https://www.biorxiv.org/content/10.1101/589879v1.full.pdf)
