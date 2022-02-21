@@ -337,11 +337,11 @@ helps you focus on the science
         - [Gremlin](http://compbio.cs.brown.edu/projects/gremlin/) - Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes. 
         - [InGAP-SV](http://ingap.sourceforge.net/) - We developed an integrative next-generation genome analysis pipeline (inGAP), which employed a Bayesian principle to detect single nucleotide polymorphisms (SNPs), small insertion/deletions (indels).
         - [Introgression browser](https://git.wageningenur.nl/aflit001/ibrowser)
-        - [SplitThreader](http://splitthreader.com/)
-        - [SMRT View](http://files.pacb.com/software/smrtanalysis/2.3.0/doc/smrtview/help/Webhelp/App_View_Epipro.htm)
-        - [NeoLoopFinder](https://github.com/XiaoTaoWang/NeoLoopFinder)
-        - [SVPV](https://github.com/VCCRI/SVPV)
-        - [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect)
+        - [SplitThreader](http://splitthreader.com/) - Explore rearrangements and copy-number amplifications in a cancer genome
+        - [SMRT View](http://files.pacb.com/software/smrtanalysis/2.3.0/doc/smrtview/help/Webhelp/App_View_Epipro.htm) - Viewing structural variations using BridgeMapper
+        - [NeoLoopFinder](https://github.com/XiaoTaoWang/NeoLoopFinder) - A computation framework for genome-wide detection of enhancer-hijacking events from chromatin interaction data in re-arranged genomes
+        - [SVPV](https://github.com/VCCRI/SVPV) - SVPV enables visualisation of predicted structural variant regions in paired-end whole genome sequencing alignments, and allows comparison of calls from differenct structural variant prediction algorithms.
+        - [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect) - AmpliconArchitect (AA) is a tool to identify one or more connected genomic regions which have simultaneous copy number amplification and elucidates the architecture of the amplicon.
     - Text based
         - [Alan](https://github.com/mpdunne/alan)
         - [Alv](https://github.com/arvestad/alv)
