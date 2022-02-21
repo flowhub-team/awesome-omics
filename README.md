@@ -379,13 +379,12 @@ helps you focus on the science
         - [EaSeq](https://easeq.net/screenshots/) - EaSeq is a software environment developed for interactive exploration, visualization and analysis of genome-wide sequencing data – mainly ChIP-seq. 
         - [FluentDNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203487/)  - Nucleotide Visualization of Whole Genomes, Annotations, and Alignments
         - [Gnomad browser](https://github.com/macarthur-lab/gnomadjs) - JavaScript tools for exploring genomic data.
-        - [IslandViewer and IslandPlot](https://bl.ocks.org/lairdm/c6c235dbfa6e6ee61565)
+        - [IslandViewer and IslandPlot](https://bl.ocks.org/lairdm/c6c235dbfa6e6ee61565) - Some basic functionality of GenomeD3Plot is shown for a linear plot, mouse drag and scrollwheel are enabled on the linear plot to change the view in focus.
         - [MagicViewer](http://bioinformatics.zj.cn/magicviewer/)
-        - [Panoptes](https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html)
-        - [MapView](https://sites.google.com/site/wjwdavy/)
-        - [NGB](https://github.com/epam/NGB)
+        - [Panoptes](https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html) - This web application provides an interactive view of data released by the Anopheles gambiae 1000 genomes project (Ag1000G), an international collaboration using whole-genome deep sequencing to study genetic variation in the Anopheles mosquitoes that transmit malaria in Africa.
+        - [NGB](https://github.com/epam/NGB) - New Genome Browser (NGB) - a Web - based NGS data viewer with unique Structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
         - [SeqCover](https://brentp.github.io/seqcover/#gene=AIFM1)
-        - [SEQing](https://github.com/malewins/SEQing)
+        - [SEQing](https://github.com/malewins/SEQing) - SEQing: interactive web-based tool for visualization of iCLIP and RNA-seq data.
         - [SFARI](https://gene.sfari.org/database/human-gene/)
         - [Short read assembly browser](https://rapdb.dna.affrc.go.jp/AssemblyBrowser2/index.html?ref=%22chr01%22&run_id=%22G4toI1%22&start=%22234780%22&end=%22236631%22)
         - [SNPitty](https://bitbucket.org/ccbc/snpitty/src/master/)
