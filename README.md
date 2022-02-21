@@ -370,9 +370,9 @@ helps you focus on the science
         - [RegulomeExplorer](http://explorer.cancerregulome.org/all_pairs/?dataset=TCGA_ACC)
         - [Proksee](https://proksee.ca/) - Proksee is an expert system for genome assembly, annotation and visualization. 
     - Synthetic biology
-        - [seqviz](https://github.com/Lattice-Automation/seqviz#viewer)
+        - [seqviz](https://github.com/Lattice-Automation/seqviz#viewer) - DNA sequence viewer supporting custom, GenBank, FASTA, NCBI accession, and iGEM input.
         - [ApE (a plasmid editor)](https://jorgensen.biology.utah.edu/wayned/ape/)
-        - [Chopchop](http://chopchop.cbu.uib.no/)
+        - [Chopchop](http://chopchop.cbu.uib.no/) - CHOPCHOP (version 3) is a web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1, CRISPR/Cas13 or NICKASE/TALEN-directed mutagenesis.
     - Special-purpose
         - [Apollo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151184/)
         - [D3GB](http://d3gb.usal.es/)
