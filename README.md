@@ -413,16 +413,16 @@ helps you focus on the science
         - [Chipster](https://chipster.csc.fi/) - Chipster is a user-friendly analysis software for high-throughput data such as RNA-seq and single cell RNA-seq. 
         - [cisGenome Browser](https://jhui2014.github.io/browser/screenshots.html) - Several tracks of signals together with gene structures, folded with respect to the gene structures so that the empty spaces between genes and exons are packed.
         - [Epilogos](https://epilogos.altius.org/) - epilogos provides summarized views of large amounts of genome-wide datasets
-        - [Epiviz](https://epiviz.github.io/)
+        - [Epiviz](https://epiviz.github.io/) - Epiviz is an interactive visualization tool for functional genomics data. 
         - [HiPiler](http://hipiler.higlass.io)
-        - [Juicebox](https://github.com/aidenlab/Juicebox)
-        - [Juicebox.js](http://www.igv.org/doc/juiceboxjs.html)
-        - [Peax](https://github.com/Novartis/peax)
+        - [Juicebox](https://github.com/aidenlab/Juicebox) - Visualization and analysis software for Hi-C data
+        - [Juicebox.js](http://www.igv.org/doc/juiceboxjs.html) - Visualization and analysis software for Hi-C data
+        - [Peax](https://github.com/Novartis/peax) - Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders
     - Ideogram
-        - [eweitz/Ideogram](https://github.com/eweitz/ideogram)
-        - [Ideogram](https://github.com/RCollins13/HumanIdiogramLibrary)
-        - [Ideoplot](https://github.com/mchaisso/Ideoplot)
-        - [karyoploteR](https://github.com/bernatgel/karyoploteR)
+        - [eweitz/Ideogram](https://github.com/eweitz/ideogram) - Ideogram.js is a JavaScript library for chromosome visualization.
+        - [Ideogram](https://github.com/RCollins13/HumanIdiogramLibrary) - A resource of vector art for schematics (i.e. 'idiograms') of all 24 human chromosomes
+        - [Ideoplot](https://github.com/mchaisso/Ideoplot) - Simple R script for plotting ideograms and annotating with bed files.
+        - [karyoploteR](https://github.com/bernatgel/karyoploteR) - karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
         - [KaryotypeSVG](https://github.com/andreasprlic/karyotypeSVG)
         - [NCBI Genome Decoration](https://www.ncbi.nlm.nih.gov/genome/tools/gdp/)
         - [UCSC Genome Graphs](http://genome.ucsc.edu/cgi-bin/hgGenome)
