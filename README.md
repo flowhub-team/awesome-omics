@@ -446,8 +446,9 @@ helps you focus on the science
         - [Aquaria](http://aquaria.ws/Q9HD67/5i0i/A)
         - [nightingale/protvista](https://ebi-webcomponents.github.io/nightingale/#/msa) - Nightingale is a library of re-usable data visualisation Web Components, which can be used to display protein sequence features (ProtVista), variants, interaction data, 3D structure, etc.
     - Heatmap
-        - [UCSC Xena](https://xena.ucsc.edu/)
-        - [VIVA](https://www.biorxiv.org/content/10.1101/589879v1.full.pdf)
+        - [UCSC Xena](https://xena.ucsc.edu/) - An online exploration tool for public and private, multi-omic and clinical/phenotype data
+        - [VIVA](https://www.biorxiv.org/content/10.1101/589879v1.full.pdf) - we describe a user-friendly visualization tool for variant call format (VCF) files with which the users can interactively evaluate and share genomic data, as well as create publication quality graphics.
+
     - Repeats
         - [REPAVER](https://gitlab.com/gringer/bioinfscripts/)
         - [GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer)
