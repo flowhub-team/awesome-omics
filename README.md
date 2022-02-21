@@ -395,12 +395,12 @@ helps you focus on the science
         - [Vials](http://vials.io/) - Visualizing Alternative Splicing in Genes
         - [wasm bigwig demo browser](https://shk656461.github.io/index.html)
     - Expression
-        - [GTEX Locus browser](https://gtexportal.org/home/locusBrowserPage/ACTN3)
+        - [GTEX Locus browser](https://gtexportal.org/home/locusBrowserPage/ACTN3) - Correlations between genotype and tissue-specific gene expression levels will help identify regions of the genome that influence whether and how much a gene is expressed.
     - Population
-        - [GWAS catalog browser](https://www.ebi.ac.uk/gwas/variants/rs1558902)
-        - [Human genome dating](https://human.genome.dating/region/chr1_13250000)
-        - [PopSV](https://github.com/jmonlong/PopSV/blob/master/3-Visualization.md)
-        - [SWAV](http://swav.popgenetics.net/)
+        - [GWAS catalog browser](https://www.ebi.ac.uk/gwas/variants/rs1558902) - The NHGRI-EBI Catalog of human genome-wide association studies
+        - [Human genome dating](https://human.genome.dating/region/chr1_13250000) - Variants dated using the Genealogical Estimation of Variant Age (GEVA) method
+        - [PopSV](https://github.com/jmonlong/PopSV/blob/master/3-Visualization.md) - Population-based detection of structural variation from High-Throughput Sequencing.
+        - [SWAV](http://swav.popgenetics.net/) - The sliding window analysis viewer (SWAV), is a web-based program to integrate, view and browse sliding window test statistics and genome annotations. 
     - Assembly QC
         - [Icarus QUAST](http://quast.sourceforge.net/icarus.html)
     - Exotic
