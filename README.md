@@ -428,13 +428,13 @@ helps you focus on the science
         - [UCSC Genome Graphs](http://genome.ucsc.edu/cgi-bin/hgGenome)
         - [genomegraphs](http://bioconductor.org/packages/2.5/bioc/vignettes/GenomeGraphs/inst/doc/GenomeGraphs.pdf) - Genomic data analyses can benifit from integrated visualization of the genomic information.
         - [IdeoViz](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf) - Plotting discrete or continuous dataseries in the context of chromosomal location has several useful applications in genomic analysis.
-        - [Flash Gviewer](http://gmod.org/wiki/Flashgviewer/)
-        - [Ideogram viewer](https://bioinformatics.mdanderson.org/public-software/ideogramviewer/)
+        - [Flash Gviewer](http://gmod.org/wiki/Flashgviewer/) - Flash GViewer is a customizable Flash movie that can be easily inserted into a web page to display each chromosome in a genome along with the locations of individual features on the chromosomes.
+        - [Ideogram viewer](https://bioinformatics.mdanderson.org/public-software/ideogramviewer/) - Ideograms provide a schematic representation of chromosomes. 
     - Pangenome
-        - [Pan-Tetris](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4547177/)
-        - [Panacaea](https://github.com/JCVenterInstitute/PanACEA)
-        - [Panache](https://github.com/SouthGreenPlatform/panache)
-        - [panX](http://pangenome.tuebingen.mpg.de/)
+        - [Pan-Tetris](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4547177/) - We introduce Pan-Tetris, a Java based interactive software tool that provides a clearly structured and suitable way for the visual inspection of gene occurrences in a pan-genome table.
+        - [Panacaea](https://github.com/JCVenterInstitute/PanACEA) - PanACEA is a suite of PERL scripts that allows users to create an interconnected set of html, javascript and json files that allows for visualization of prokaryotic pan-chromosomes, including core and variable regions.
+        - [Panache](https://github.com/SouthGreenPlatform/panache) - Panache is a web-based interface designed for the visualization of linearized pangenomes.
+        - [panX](http://pangenome.tuebingen.mpg.de/) - panX is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes.
         - [RPAN (3kricedb)](http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF)
         - [PGAP-X](https://pgapx.zhaopage.com/)
         - [PGV](https://github.com/ucrbioinfo/PGV)
