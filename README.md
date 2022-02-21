@@ -360,15 +360,15 @@ helps you focus on the science
         - [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/) - BioCircos.js is an open source interactive Javascript library which provides an easy way to interactive display biological data on the web. 
         - [Circleator](http://jonathancrabtree.github.io/Circleator/index.html) - The Charm City Circleator–or Circleator for short–is a Perl-based visualization tool developed at the Institute for Genome Sciences in the University of Maryland’s School of Medicine.
         - [circlize](https://github.com/jokergoo/circlize) - Circular layout is an efficient way for the visualization of huge amounts of information.
-        - [Circos](http://circos.ca/)
-        - [CircosJS](https://github.com/nicgirault/circosJS)
-        - [DNAPlotter](https://www.sanger.ac.uk/science/tools/dnaplotter)
-        - [GenomeProjector](https://github.com/gaou/g-language/wiki)
-        - [JupiterPlot](https://github.com/JustinChu/JupiterPlot)
-        - [OGDRAW](https://chlorobox.mpimp-golm.mpg.de/OGDraw.html)
-        - [Gview](https://server.gview.ca/examples)
+        - [Circos](http://circos.ca/) - Circos is a software package for visualizing data and information.
+        - [CircosJS](https://github.com/nicgirault/circosJS) - Circos is a javascript library to easily build interactive graphs in a circular layout. It's based on d3.js.
+        - [DNAPlotter](https://www.sanger.ac.uk/science/tools/dnaplotter) - An interactive Java application for generating circular and linear representations of genomes.
+        - [GenomeProjector](https://github.com/gaou/g-language/wiki) - The G-language Genome Analysis Environment is a generic genome analysis environment
+        - [JupiterPlot](https://github.com/JustinChu/JupiterPlot) - A Circos-based tool to visualize genome assembly consistency
+        - [OGDRAW](https://chlorobox.mpimp-golm.mpg.de/OGDraw.html) - OrganellarGenomeDRAW converts annotations in the GenBank or EMBL/ENA format into graphical maps. The input has to be a GenBank or EMBL/ENA flat file wherase the output can vary among several types of files.
+        - [Gview](https://server.gview.ca/examples) - GView Server is a comparative genomics server and front end to GView, a circular and linear genome viewer. 
         - [RegulomeExplorer](http://explorer.cancerregulome.org/all_pairs/?dataset=TCGA_ACC)
-        - [CGView](http://cgview.ca/)
+        - [Proksee](https://proksee.ca/) - Proksee is an expert system for genome assembly, annotation and visualization. 
     - Synthetic biology
         - [seqviz](https://github.com/Lattice-Automation/seqviz#viewer)
         - [ApE (a plasmid editor)](https://jorgensen.biology.utah.edu/wayned/ape/)
