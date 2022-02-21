@@ -491,7 +491,7 @@ helps you focus on the science
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
-The project welcomes any life science industry physician to add
+The project welcomes any life science industry physician to merge request.
         
 
 
