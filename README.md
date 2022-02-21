@@ -423,11 +423,11 @@ helps you focus on the science
         - [Ideogram](https://github.com/RCollins13/HumanIdiogramLibrary) - A resource of vector art for schematics (i.e. 'idiograms') of all 24 human chromosomes
         - [Ideoplot](https://github.com/mchaisso/Ideoplot) - Simple R script for plotting ideograms and annotating with bed files.
         - [karyoploteR](https://github.com/bernatgel/karyoploteR) - karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
-        - [KaryotypeSVG](https://github.com/andreasprlic/karyotypeSVG)
+        - [KaryotypeSVG](https://github.com/andreasprlic/karyotypeSVG) - A javascript library to generate SVG based ideograms of chromosomes showing cytogenetic bands
         - [NCBI Genome Decoration](https://www.ncbi.nlm.nih.gov/genome/tools/gdp/)
         - [UCSC Genome Graphs](http://genome.ucsc.edu/cgi-bin/hgGenome)
-        - [genomegraphs](http://bioconductor.org/packages/2.5/bioc/vignettes/GenomeGraphs/inst/doc/GenomeGraphs.pdf)
-        - [IdeoViz](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf)
+        - [genomegraphs](http://bioconductor.org/packages/2.5/bioc/vignettes/GenomeGraphs/inst/doc/GenomeGraphs.pdf) - Genomic data analyses can benifit from integrated visualization of the genomic information.
+        - [IdeoViz](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf) - Plotting discrete or continuous dataseries in the context of chromosomal location has several useful applications in genomic analysis.
         - [Flash Gviewer](http://gmod.org/wiki/Flashgviewer/)
         - [Ideogram viewer](https://bioinformatics.mdanderson.org/public-software/ideogramviewer/)
     - Pangenome
