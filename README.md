@@ -451,8 +451,8 @@ helps you focus on the science
 
     - Repeats
         - [REPAVER](https://gitlab.com/gringer/bioinfscripts/)
-        - [GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer)
-        - [REViewer](https://github.com/Illumina/REViewer)
+        - [GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer) - Visualize the pileup of read alignments to a STR locus (or any path in the sequence graph) for one or more samples.
+        - [REViewer](https://github.com/Illumina/REViewer) - A tool for visualizing alignments of reads in regions containing tandem repeats
     - Historical
         - [Internet Contig Explorer](https://www.bcgsc.ca/resources/software/ice)
     - QC
