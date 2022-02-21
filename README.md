@@ -377,7 +377,7 @@ helps you focus on the science
         - [Apollo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151184/) - The well-established inaccuracy of purely computational methods for annotating genome sequences necessitates an interactive tool to allow biological experts to refine these approximations by viewing and independently evaluating the data supporting each annotation.
         - [D3GB](http://d3gb.usal.es/) - D3GB is an interactive Web genome browser that can be easily integrated in analysis protocols and shared on the Web.
         - [EaSeq](https://easeq.net/screenshots/) - EaSeq is a software environment developed for interactive exploration, visualization and analysis of genome-wide sequencing data – mainly ChIP-seq. 
-        - [FluentDNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203487/)
+        - [FluentDNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203487/)  - Nucleotide Visualization of Whole Genomes, Annotations, and Alignments
         - [Gnomad browser](https://github.com/macarthur-lab/gnomadjs)
         - [IslandViewer and IslandPlot](https://bl.ocks.org/lairdm/c6c235dbfa6e6ee61565)
         - [MagicViewer](http://bioinformatics.zj.cn/magicviewer/)
