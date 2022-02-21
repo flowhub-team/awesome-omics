@@ -385,14 +385,14 @@ helps you focus on the science
         - [NGB](https://github.com/epam/NGB) - New Genome Browser (NGB) - a Web - based NGS data viewer with unique Structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
         - [SeqCover](https://brentp.github.io/seqcover/#gene=AIFM1)
         - [SEQing](https://github.com/malewins/SEQing) - SEQing: interactive web-based tool for visualization of iCLIP and RNA-seq data.
-        - [SFARI](https://gene.sfari.org/database/human-gene/)
+        - [SFARI](https://gene.sfari.org/database/human-gene/) - SFARI Gene is an evolving database for the autism research community that is centered on genes implicated in autism susceptibility.
         - [Short read assembly browser](https://rapdb.dna.affrc.go.jp/AssemblyBrowser2/index.html?ref=%22chr01%22&run_id=%22G4toI1%22&start=%22234780%22&end=%22236631%22)
-        - [SNPitty](https://bitbucket.org/ccbc/snpitty/src/master/)
-        - [Staden](https://sourceforge.net/projects/staden/)
-        - [TASUKE](https://ricegenome.dna.affrc.go.jp/)
-        - [UGENE](http://ugene.net/)
+        - [SNPitty](https://bitbucket.org/ccbc/snpitty/src/master/) - An intuitive web-application for interactive B-allele frequency and copy-number visualization of next generation sequencing data.
+        - [Staden](https://sourceforge.net/projects/staden/) - A fully developed set of DNA sequence assembly (Gap4 and Gap5), editing and analysis tools (Spin) for Unix, Linux, MacOSX and MS Windows.
+        - [TASUKE](https://ricegenome.dna.affrc.go.jp/) - This is the genome browser 'TASUKE with GWAS'.
+        - [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform bioinformatics software It works perfectly on Windows, macOS and Linux and requires only a few clicks to install
         - [Varsome](https://varsome.com/security-validation/?next=/variant/hg19/NM_000088.3(COL1A1):c.658C%3ET)
-        - [Vials](http://vials.io/)
+        - [Vials](http://vials.io/) - Visualizing Alternative Splicing in Genes
         - [wasm bigwig demo browser](https://shk656461.github.io/index.html)
     - Expression
         - [GTEX Locus browser](https://gtexportal.org/home/locusBrowserPage/ACTN3)
