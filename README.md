@@ -402,12 +402,12 @@ helps you focus on the science
         - [PopSV](https://github.com/jmonlong/PopSV/blob/master/3-Visualization.md) - Population-based detection of structural variation from High-Throughput Sequencing.
         - [SWAV](http://swav.popgenetics.net/) - The sliding window analysis viewer (SWAV), is a web-based program to integrate, view and browse sliding window test statistics and genome annotations. 
     - Assembly QC
-        - [Icarus QUAST](http://quast.sourceforge.net/icarus.html)
+        - [Icarus QUAST](http://quast.sourceforge.net/icarus.html) - Icarus is a novel genome visualizer for accurate assessment and analysis of genomic draft assemblies, which is based on QUAST genome quality assessment tool.
     - Exotic
-        - [BigTop](https://blog.dnanexus.com/2019-05-21-bigtop-data-visualization/)
-        - [Cylindrical alignment app](https://sourceforge.net/projects/cylindrical-alignment-app/)
-        - [sockeye](https://www.bcgsc.ca/resources/software/sockeye)
-        - [spinteny](https://github.com/skinner/spinteny)
+        - [BigTop](https://blog.dnanexus.com/2019-05-21-bigtop-data-visualization/) - an innovative virtual reality platform that allows you to interact with your data in a totally new way.
+        - [Cylindrical alignment app](https://sourceforge.net/projects/cylindrical-alignment-app/) - The Cylindrical Alignment App is the successor to Cylindrical BLAST Viewer. 
+        - [sockeye](https://www.bcgsc.ca/resources/software/sockeye) - Sockeye is a Java application designed to assemble, view and work with genomic information in a 3D environment. 
+        - [spinteny](https://github.com/skinner/spinteny) - Spinteny is a prototype tool for visualizing the similarities between the genomes of different species. 
     - Epigenomics
         - [Chip Monk](http://www.bioinformatics.babraham.ac.uk/projects/chipmonk/)
         - [Chipster](https://chipster.csc.fi/)
