@@ -348,11 +348,10 @@ helps you focus on the science
         - [ASCIIGenome](https://github.com/dariober/ASCIIGenome) - ASCIIGenome is a genome browser based on command line interface and designed for running from console terminals.
         - [Bamcov](https://github.com/fbreitwieser/bamcov) - Quickly calculate and visualize sequence coverage in alignment files
         - [BLAST+](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
-        - [Hapviz](https://github.com/ekg/hapviz)
-        - [plotReads](http://campuspress.yale.edu/knightlab/ruddle/plotreads/)
+        - [Hapviz](https://github.com/ekg/hapviz) - indel haplotype visualization on the command line from BAM files
+        - [plotReads](http://campuspress.yale.edu/knightlab/ruddle/plotreads/) - The plotReads program is an update of Murim’s p08PlotReads software, which can handle any BAM or CRAM file, can report on a single position, multiple positions or a VCF file, can handle any reference, and can generate either image or text alignments.
         - [Rna Alignment Viewers (Colorstock, SScolor, Ratón)](http://biowiki.org/wiki/index.php?title=Rna_Alignment_Viewers&redirect=no)
-        - [Sam2pairwise](https://github.com/mlafave/sam2pairwise)
-        - [Samtools depth visualization](https://twitter.com/yokofakun/status/1178686978541441025)
+        - [Sam2pairwise](https://github.com/mlafave/sam2pairwise) - sam2pairwise takes a SAM file and uses the CIGAR and MD tag to reconstruct the pairwise alignment of each read.
         - [Samtools tview](http://www.htslib.org/)
         - [SvABA](https://github.com/walaj/svaba#alignmentstxtgz)
         - [VizAln (from HipSTR)](https://github.com/tfwillems/HipSTR)
