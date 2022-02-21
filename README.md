@@ -353,10 +353,10 @@ helps you focus on the science
         - [Rna Alignment Viewers (Colorstock, SScolor, Ratón)](http://biowiki.org/wiki/index.php?title=Rna_Alignment_Viewers&redirect=no)
         - [Sam2pairwise](https://github.com/mlafave/sam2pairwise) - sam2pairwise takes a SAM file and uses the CIGAR and MD tag to reconstruct the pairwise alignment of each read.
         - [Samtools tview](http://www.htslib.org/)
-        - [SvABA](https://github.com/walaj/svaba#alignmentstxtgz)
-        - [VizAln (from HipSTR)](https://github.com/tfwillems/HipSTR)
+        - [SvABA](https://github.com/walaj/svaba#alignmentstxtgz) - Structural variation and indel analysis by assembly
+        - [VizAln (from HipSTR)](https://github.com/tfwillems/HipSTR) - Genotype and phase short tandem repeats using Illumina whole-genome sequencing data
     - Circular
-        - [Anvio](https://peerj.com/articles/1319/)
+        - [Anvio](https://peerj.com/articles/1319/) - Advances in high-throughput sequencing and ‘omics technologies are revolutionizing studies of naturally occurring microbial communities.
         - [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/)
         - [Circleator](http://jonathancrabtree.github.io/Circleator/index.html)
         - [circlize](https://github.com/jokergoo/circlize)
