@@ -357,9 +357,9 @@ helps you focus on the science
         - [VizAln (from HipSTR)](https://github.com/tfwillems/HipSTR) - Genotype and phase short tandem repeats using Illumina whole-genome sequencing data
     - Circular
         - [Anvio](https://peerj.com/articles/1319/) - Advances in high-throughput sequencing and ‘omics technologies are revolutionizing studies of naturally occurring microbial communities.
-        - [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/)
-        - [Circleator](http://jonathancrabtree.github.io/Circleator/index.html)
-        - [circlize](https://github.com/jokergoo/circlize)
+        - [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/) - BioCircos.js is an open source interactive Javascript library which provides an easy way to interactive display biological data on the web. 
+        - [Circleator](http://jonathancrabtree.github.io/Circleator/index.html) - The Charm City Circleator–or Circleator for short–is a Perl-based visualization tool developed at the Institute for Genome Sciences in the University of Maryland’s School of Medicine.
+        - [circlize](https://github.com/jokergoo/circlize) - Circular layout is an efficient way for the visualization of huge amounts of information.
         - [Circos](http://circos.ca/)
         - [CircosJS](https://github.com/nicgirault/circosJS)
         - [DNAPlotter](https://www.sanger.ac.uk/science/tools/dnaplotter)
