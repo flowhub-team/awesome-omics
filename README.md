@@ -454,13 +454,13 @@ helps you focus on the science
         - [GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer) - Visualize the pileup of read alignments to a STR locus (or any path in the sequence graph) for one or more samples.
         - [REViewer](https://github.com/Illumina/REViewer) - A tool for visualizing alignments of reads in regions containing tandem repeats
     - Historical
-        - [Internet Contig Explorer](https://www.bcgsc.ca/resources/software/ice)
+        - [Internet Contig Explorer](https://www.bcgsc.ca/resources/software/ice) - The increased interest in fingerprint maps has spawned a need in the research community for intuitive computer tools that facilitate viewing of the maps and the underlying fingerprint data. 
     - QC
         - [ALVIS (chimeric alignment viewer)](https://github.com/SR-Martin/alvis)
-        - [vcfR](https://knausb.github.io/vcfR_documentation/)
+        - [vcfR](https://knausb.github.io/vcfR_documentation/) - The R package vcfR is a set of tools designed to read, write, manipulate and analyze VCF data.
     - Methylation
-        - [NanoMethViz](http://www.bioconductor.org/packages/release/bioc/html/NanoMethViz.html)
-        - [AnnoJ](https://brainome.ucsd.edu/howto_annoj.html)
+        - [NanoMethViz](http://www.bioconductor.org/packages/release/bioc/html/NanoMethViz.html) - NanoMethViz is a toolkit for visualising methylation data from Oxford Nanopore sequencing. 
+        - [AnnoJ](https://brainome.ucsd.edu/howto_annoj.html) - The AnnoJ browser displays epigenomic data, including base-resolution DNA methylation (methylC-Seq/whole genome bisulfite sequencing), RNA-Seq, ChIP-Seq, as well as annotations.
     - Phylogenetics
         - [Nextclade](https://clades.nextstrain.org/)
         - [Gingr](https://harvest.readthedocs.io/en/latest/content/gingr.html)
