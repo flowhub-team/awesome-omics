@@ -343,10 +343,10 @@ helps you focus on the science
         - [SVPV](https://github.com/VCCRI/SVPV) - SVPV enables visualisation of predicted structural variant regions in paired-end whole genome sequencing alignments, and allows comparison of calls from differenct structural variant prediction algorithms.
         - [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect) - AmpliconArchitect (AA) is a tool to identify one or more connected genomic regions which have simultaneous copy number amplification and elucidates the architecture of the amplicon.
     - Text based
-        - [Alan](https://github.com/mpdunne/alan)
-        - [Alv](https://github.com/arvestad/alv)
-        - [ASCIIGenome](https://github.com/dariober/ASCIIGenome)
-        - [Bamcov](https://github.com/fbreitwieser/bamcov)
+        - [Alan](https://github.com/mpdunne/alan) - Alan is a simple, light command line alignment viewer, for viewing amino acid and DNA alignments in a linux terminal.
+        - [Alv](https://github.com/arvestad/alv) - View your DNA or protein multiple-sequence alignments right at your command line.
+        - [ASCIIGenome](https://github.com/dariober/ASCIIGenome) - ASCIIGenome is a genome browser based on command line interface and designed for running from console terminals.
+        - [Bamcov](https://github.com/fbreitwieser/bamcov) - Quickly calculate and visualize sequence coverage in alignment files
         - [BLAST+](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
         - [Hapviz](https://github.com/ekg/hapviz)
         - [plotReads](http://campuspress.yale.edu/knightlab/ruddle/plotreads/)
