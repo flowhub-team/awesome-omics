@@ -435,9 +435,9 @@ helps you focus on the science
         - [Panacaea](https://github.com/JCVenterInstitute/PanACEA) - PanACEA is a suite of PERL scripts that allows users to create an interconnected set of html, javascript and json files that allows for visualization of prokaryotic pan-chromosomes, including core and variable regions.
         - [Panache](https://github.com/SouthGreenPlatform/panache) - Panache is a web-based interface designed for the visualization of linearized pangenomes.
         - [panX](http://pangenome.tuebingen.mpg.de/) - panX is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes.
-        - [RPAN (3kricedb)](http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF)
-        - [PGAP-X](https://pgapx.zhaopage.com/)
-        - [PGV](https://github.com/ucrbioinfo/PGV)
+        - [RPAN (3kricedb)](http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF) - The cultivated rice, Oryza sativa L., is one of the major staple food for the world and a model organism in plant biology. 
+        - [PGAP-X](https://pgapx.zhaopage.com/) - PGAP-X is a microbial comparative genomic analysis platform with graphic interface.
+        - [PGV](https://github.com/ucrbioinfo/PGV) - The pan-genome of a species is the union of the genes and non-coding sequences present in all individuals (cultivar, accessions,or strains) within that species. 
         - [Phandango](https://jameshadfield.github.io/phandango/#/examples)
     - Protein
         - [Protael](http://sanshu.github.io/protaelweb/)
