@@ -374,7 +374,7 @@ helps you focus on the science
         - [ApE (a plasmid editor)](https://jorgensen.biology.utah.edu/wayned/ape/)
         - [Chopchop](http://chopchop.cbu.uib.no/) - CHOPCHOP (version 3) is a web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1, CRISPR/Cas13 or NICKASE/TALEN-directed mutagenesis.
     - Special-purpose
-        - [Apollo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151184/)
+        - [Apollo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151184/) - The well-established inaccuracy of purely computational methods for annotating genome sequences necessitates an interactive tool to allow biological experts to refine these approximations by viewing and independently evaluating the data supporting each annotation.
         - [D3GB](http://d3gb.usal.es/)
         - [DNASkittle](https://www.dnaskittle.com/)
         - [EaSeq](https://easeq.net/screenshots/)
