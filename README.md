@@ -409,8 +409,8 @@ helps you focus on the science
         - [sockeye](https://www.bcgsc.ca/resources/software/sockeye) - Sockeye is a Java application designed to assemble, view and work with genomic information in a 3D environment. 
         - [spinteny](https://github.com/skinner/spinteny) - Spinteny is a prototype tool for visualizing the similarities between the genomes of different species. 
     - Epigenomics
-        - [Chip Monk](http://www.bioinformatics.babraham.ac.uk/projects/chipmonk/)
-        - [Chipster](https://chipster.csc.fi/)
+        - [Chip Monk](http://www.bioinformatics.babraham.ac.uk/projects/chipmonk/) - A tool to visualise and analyse ChIP-on-chip array data
+        - [Chipster](https://chipster.csc.fi/) - Chipster is a user-friendly analysis software for high-throughput data such as RNA-seq and single cell RNA-seq. 
         - [cisGenome Browser](https://jhui2014.github.io/browser/screenshots.html)
         - [Epilogos](https://epilogos.altius.org/)
         - [Epiviz](https://epiviz.github.io/)
