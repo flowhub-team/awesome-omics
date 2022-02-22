@@ -465,24 +465,24 @@ helps you focus on the science
         - [Nextclade](https://clades.nextstrain.org/) - Clade assignment, mutation calling, and sequence quality checks
         - [Gingr](https://harvest.readthedocs.io/en/latest/content/gingr.html) - Gingr is an interactive tool for exploring large-scale phylogenies in tandem with their corresponding multi-alignments.
     - Uncategorized
-        - [methylartist](https://github.com/adamewing/methylartist)
-        - [Haploview](https://www.broadinstitute.org/haploview/haploview)
-        - [Smash++](https://github.com/smortezah/smashpp)
-        - [plotsr](https://github.com/schneebergerlab/plotsr)
+        - [methylartist](https://github.com/adamewing/methylartist) - Tools for parsing and plotting methylation patterns from nanopore data
+        - [Haploview](https://www.broadinstitute.org/haploview/haploview) - Haploview is designed to simplify and expedite the process of haplotype analysis by providing a common interface to several tasks relating to such analyses. 
+        - [Smash++](https://github.com/smortezah/smashpp) - A fast tool to find and visualize rearrangements in DNA sequences.
+        - [plotsr](https://github.com/schneebergerlab/plotsr) - Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple genomes. 
     - Assembly
         - [vega](http://vega.archive.ensembl.org/Homo_sapiens/Location/Chromosome?r=6-QBL)
-        - [MIRA](http://mira-assembler.sourceforge.net/docs/DefinitiveGuideToMIRA.html)
+        - [MIRA](http://mira-assembler.sourceforge.net/docs/DefinitiveGuideToMIRA.html) - Sequence assembly and mapping with MIRA 5
     - Coverage
-        - [wiggleplotr](http://bioconductor.org/packages/devel/bioc/vignettes/wiggleplotr/inst/doc/wiggleplotr.html)
-        - [Trackplot](https://github.com/PoisonAlien/trackplot)
+        - [wiggleplotr](http://bioconductor.org/packages/devel/bioc/vignettes/wiggleplotr/inst/doc/wiggleplotr.html) - wiggleplotr is a tool to visualise RNA-seq read overage accross annotated exons. 
+        - [Trackplot](https://github.com/PoisonAlien/trackplot) - Generate IGV style locus tracks from bigWig files in R
     - Splicing
-        - [splicejam](https://github.com/jmw86069/splicejam)
-        - [Slinker](https://github.com/Oshlack/Slinker)
+        - [splicejam](https://github.com/jmw86069/splicejam) - Sashimi plots for RNA-seq data using detected transcripts
+        - [Slinker](https://github.com/Oshlack/Slinker) - Slinker offers a succinct and complementary method to visualise RNA-Seq data through superTranscripts.
     - Hi-C
-        - [Plotgardener](https://github.com/PhanstielLab/plotgardener/)
-        - [gcMapExplorer](https://github.com/rjdkmr/gcMapExplorer)
+        - [Plotgardener](https://github.com/PhanstielLab/plotgardener/) - plotgardener is a genomic data visualization package for R.
+        - [gcMapExplorer](https://github.com/rjdkmr/gcMapExplorer) - It is a platform to visualize and analyze the contact maps that are generated from Hi-C experiments. 
     - Manhattan
-        - [ggplot2 manhattan plot](https://danielroelfs.com/blog/how-i-create-manhattan-plots-using-ggplot/)
+        - [ggplot2 manhattan plot](https://danielroelfs.com/blog/how-i-create-manhattan-plots-using-ggplot/) - There’s a number of online tools that create Manhattan plots for you, it’s implemented in a number of toolboxes that are often used in genetics, and there’s a couple of packages for R that can create these plots.
 
 ## Learn
 
