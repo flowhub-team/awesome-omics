@@ -8,7 +8,7 @@ A collection of awesome things regarding the LifeScience.
 - [Datasets](#datasets)
 - [Visualization](#visualization)
 - [Learn](#learn)
-- [RunAndTests](#run)
+- [RunAndTests](#RunAndTests)
 
 ## Tools
 - DataDownload
