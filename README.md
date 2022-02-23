@@ -71,6 +71,53 @@ A collection of awesome things regarding the LifeScience.
         - [RNA-seq](#rna-seq)
 
 ## Datasets
+- 1000 Genomes (RNA-Seq, ChIP-Seq):
+  - [Functional studies with 1KG individuals](http://archive.gersteinlab.org/docs/2015/06.04/1kg_fun_studies.htm)
+  - [In S3 1000 genomes](http://s3.amazonaws.com/1000genomes)
+  - [2500 Phase 3 samples at 30X](https://www.ebi.ac.uk/ena/data/view/PRJEB31736)
+- [Reference panel of ~250 Dutch families](http://biorxiv.org/content/early/2016/01/18/036897)
+- [Full text of all PMC papers from 2008-present](ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
+- Phased genome sequences
+  - [&gt;100 fully-phased](http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0148-z)
+  - [Statistically phased](http://www.haplotype-reference-consortium.org/)
+  - [Phased variants](http://genome.cshlp.org/content/early/2016/11/25/gr.210500.116.full.pdf+html)
+- [Clinical trials](http://vivli.org/)
+- [Targets for drug discovery](https://www.targetvalidation.org/)
+- [Large medical datasets for ML](https://github.com/beamandrew/medical-data)
+- [Species images](http://phylopic.org/image/browse/)
+- Public RNA-Seq data: 
+  - [A multi-experiment resource of analysis-ready RNA-seq gene and exon count datasets](https://jhubiostatistics.shinyapps.io/recount/)
+  - [with phenotype predictions](https://bioconductor.org/packages/release/bioc/html/recount.html)
+  - [human and mouse](http://amp.pharm.mssm.edu/archs4)
+- [Whole genomes of 150 Danish individuals](http://www.nature.com/nature/journal/v548/n7665/full/nature23264.html)
+- [Simons Genome Diversity Project](https://www.simonsfoundation.org/simons-genome-diversity-project/)
+- [BloodPAC](https://doi.bloodpac.org/BLOODPAC.0001/)
+- [Reference haplotypes for STR phasing](https://www.biorxiv.org/content/early/2018/03/06/277673)
+- [Database of Curated Mutations](http://www.docm.info/)
+- [Normalized, batch-corrected RNA-seq for both normal (GTEx) and cancer (TCGA) data](https://www.nature.com/articles/sdata201861)
+- [Hartwig WGS (requires data request)](https://www.hartwigmedicalfoundation.nl/en/wgs-database/)
+- [Orthogonally validated TP and FP CNVs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473400/)
+- [Microarray transcriptome profiles prepared for ML applications](https://www.biorxiv.org/content/biorxiv/early/2018/06/22/353698.full.pdf)
+- Cloud resource for filtering 1kg data
+  - [Python API](https://github.com/NGDSG/BAMSI-API)
+- [Paired mRNA and protein abundance in 26 human tissues](https://www.biorxiv.org/content/biorxiv/early/2018/06/27/357137.full.pdf)
+- [Cancer cell lines: correlation with primary tumor data (analysis for use as models)](http://comphealth.ucsf.edu/TCGA110/)
+- [gnomAD: SNV, small InDels, MNV, SV, and LoF metrics from large numbers of exomes and whole-genomes](https://gnomad.broadinstitute.org/downloads)
+  - [Blog post on lessons and tools for filtering of gnomAD annotations](https://www.whiffinlab.org/blog/six-lessons-for-variant-interpretation)
+- [1000G Structural variation](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20181025_EEE_SV-Pop_1/AltReference_EEE_SV-Pop_1/)
+- [PGP UK](https://www.personalgenomes.org.uk/data/)
+- [Platinum genomes phased variant calls](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001224.v1.p1)
+- [ICGC](https://dcc.icgc.org/)
+- Cancer Cell Lines
+  - [Encylopedia](https://gdc.cancer.gov/)
+  - [Deep sequencing of 3 cancer cell lines (2 colorectal, one breast cancer) on 2 sequencing platforms](https://www.biorxiv.org/content/10.1101/623702v1)
+  - [Deep sequencing of another breast cancer cell line (SEQC2 consoritum)](https://www.biorxiv.org/content/biorxiv/early/2019/05/13/625624.full.pdf)
+- [Variation benchmark datasets](http://structure.bmc.lu.se/VariBench/)
+- [RNA Atlas](https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?&dscope=RNAATLAS&option=about_dscope)
+- [COLO829 sequenced on multiple short- and long-read platforms](https://www.biorxiv.org/content/10.1101/2020.10.15.340497v1?rss=1)
+- HGDP
+  - [SV calls](ftp://ngs.sanger.ac.uk/scratch/project/team19/HGDP_SV/)
+
 
 ## Visualization
 - Genomics
@@ -494,6 +541,7 @@ helps you focus on the science
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+- [biotools](https://github.com/jdidion/biotools)
 
 The project welcomes any life science industry physician to merge request.
         
