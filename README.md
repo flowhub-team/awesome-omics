@@ -543,6 +543,7 @@ helps you focus on the science
     - [Mafft](https://www.flowhub.com.cn/repo/flowhub_team/Mafft)
     - [Muscle](https://www.flowhub.com.cn/repo/flowhub_team/Muscle)
     - [BWA-index](https://www.flowhub.com.cn/repo/flowhub_team/BWA-index)
+    - [Hisat2](https://www.flowhub.com.cn/repo/flowhub_team/Hisat2)
 - [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
 
 ## THINKS FOR 
