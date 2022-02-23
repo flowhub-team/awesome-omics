@@ -485,6 +485,8 @@ helps you focus on the science
         - [ggplot2 manhattan plot](https://danielroelfs.com/blog/how-i-create-manhattan-plots-using-ggplot/) - There’s a number of online tools that create Manhattan plots for you, it’s implemented in a number of toolboxes that are often used in genetics, and there’s a couple of packages for R that can create these plots.
 
 ## Learn
+- single-cell
+    - [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html). Targeted for non-model organisms.
 
 ## RunAndTests
 
