@@ -537,6 +537,13 @@ helps you focus on the science
     - [Guided Analyses with Seurat](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - We provide a series of vignettes, tutorials, and analysis walkthroughs to help users get started with Seurat. You can also check out our Reference page which contains a full list of functions available to users.
 
 ## RunAndTests
+- tool
+    - [blast](https://www.flowhub.com.cn/repo/display/Blastn)
+    - [makeblastdb](https://www.flowhub.com.cn/repo/GaoZijian/makeblastdb_blast)
+    - [Mafft](https://www.flowhub.com.cn/repo/flowhub_team/Mafft)
+    - [Muscle](https://www.flowhub.com.cn/repo/flowhub_team/Muscle)
+    - [BWA-index](https://www.flowhub.com.cn/repo/flowhub_team/BWA-index)
+- [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
