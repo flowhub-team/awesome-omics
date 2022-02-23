@@ -486,7 +486,8 @@ helps you focus on the science
 
 ## Learn
 - single-cell
-    - [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html). Targeted for non-model organisms.
+    - [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html) - Targeted for non-model organisms.
+    - [Guided Analyses with Seurat](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - We provide a series of vignettes, tutorials, and analysis walkthroughs to help users get started with Seurat. You can also check out our Reference page which contains a full list of functions available to users.
 
 ## RunAndTests
 
