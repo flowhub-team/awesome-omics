@@ -1,7 +1,6 @@
-### **Awesome LifeScience**
+### **Awesome omics**
 
-A collection of awesome things regarding the LifeScience.
-
+A collection of awesome things regarding the all of omics.
 ## Contents
 - [Tools](#tools)
 - [Pipelines](#pipelines)
