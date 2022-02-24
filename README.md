@@ -4,17 +4,17 @@ A collection of awesome things regarding all of omics.
 ## Contents
 - [Commons](/COMMON.md) - General Resources for Omics
 - [Genomics](/GENOMICS) - Genomics Resources collection
-- [Epigenomics](#Epigenomics)
-- [Microbiomics](#Microbiomics)
-- [Lipidomics](#Lipidomics)
-- [Proteomics](#Proteomics)
-- [Glycomics](#Glycomics)
-- [Foodomics](#Foodomics)
-- [Transcriptomics](#Transcriptomics)
-- [Metabolomics](#Metabolomics)
-- [Nutrition](#Nutrition)
-- [Pharmacology](#Pharmacology)
-- [Toxicology](#Toxicology)
+- [Epigenomics](/EPIGENOMICS.md)
+- [Microbiomics](/MICROBIOMICS.md)
+- [Lipidomics](/LIPIDOMICS.md)
+- [Proteomics](/PROTEOMICS.md)
+- [Glycomics](/GLYCOMICS.md)
+- [Foodomics](/FOODOMICS.md)
+- [Transcriptomics](/TRANSCRIPTOMICS.md)
+- [Metabolomics](/METABOLOMICS.md)
+- [Nutrition](/NUTRITION.md)
+- [Pharmacology](/PHARMACOLOGY.md)
+- [Toxicology](/TOXICOLOGY.md)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
