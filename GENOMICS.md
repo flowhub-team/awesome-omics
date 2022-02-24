@@ -1,3 +1,5 @@
+### **Genomics**
+General Resources for Genomics Omics
 - Tools
     - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
     - [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
