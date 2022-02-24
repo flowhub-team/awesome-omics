@@ -39,8 +39,6 @@ General Resources for Genomics Omics
     - [Telseq](https://github.com/zd1/telseq) - Telseq is a tool for estimating telomere length from whole genome sequence data. 
     - [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
 
-- Protein
-    - [alphafold](https://github.com/deepmind/alphafold) - AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
 
 ## Pipelines
@@ -527,4 +525,5 @@ helps you focus on the science
     - [Bedtools](https://www.flowhub.com.cn/repo/wangfei/bedtools)
     - [bowtie2](https://www.flowhub.com.cn/repo/wangfei/bowtie2)
     - [megahit](https://www.flowhub.com.cn/repo/wangfei/megahit)
-- [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
+- pipeline
+    - [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
