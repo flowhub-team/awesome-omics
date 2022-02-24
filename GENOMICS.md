@@ -1,0 +1,528 @@
+- Tools
+    - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
+    - [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
+    - [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+    - [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files. 
+    - [bcftools](https://github.com/samtools/bcftools) - samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants.
+    - [bam toolbox](https://github.com/AndersenLab/bam-toolbox) MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
+    - [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks) - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.
+    - [Delly](https://github.com/dellytools/delly)- Structural variant discovery by integrated paired-end and split-read analysis.
+    - [DeepVariant](https://github.com/google/deepvariant) - Deep learning-based variant caller
+    - [fastp](https://github.com/OpenGene/fastp) - A tool designed to provide fast all-in-one preprocessing for FastQ files. This tool is developed in C++ with multithreading supported to afford high performance.
+    - [FastQC](https://github.com/s-andrews/FastQC) - A quality control tool for high throughput sequence data.
+    - [Fastqp](https://github.com/mdshw5/fastqp) - FASTQ and SAM quality control using Python.
+    - [Fastx Tookit](https://github.com/agordon/fastx_toolkit) - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
+    - [freebayes](https://github.com/ekg/freebayes) - Bayesian haplotype-based polymorphism discovery and genotyping.
+    - [GATK](https://github.com/broadinstitute/gatk) - Variant Discovery in High-Throughput Sequencing Data. 
+    - [gridss](https://github.com/PapenfussLab/gridss) - GRIDSS: the Genomic Rearrangement IDentification Software Suite.
+    - [lumpy](https://github.com/arq5x/lumpy-sv) - lumpy: a general probabilistic framework for structural variant discovery.
+    - [MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report. 
+    - [MUMmer](https://github.com/mummer4/mummer) - A system for rapidly aligning entire genomes, whether in complete or draft form.
+    - [MMseqs2](https://github.com/soedinglab/MMseqs2) - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets.
+    - [manta](https://github.com/Illumina/manta) - Structural variant and indel caller for mapped sequencing data.
+    - [mergesam](https://github.com/DarwinAwardWinner/mergesam) - Automate common SAM & BAM conversions.
+    - [mosdepth](https://github.com/brentp/mosdepth) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
+    - [Octopus](https://github.com/luntergroup/octopus) - A polymorphic bayesian genotyping model with wide applicability. 
+    - [POA](https://github.com/ljdursi/poapy) - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences.
+    - [Parasail](https://github.com/jeffdaily/parasail) - SIMD C library for global, semi-global, and local pairwise sequence alignments
+    - [RSEM](https://github.com/deweylab/RSEM) - A software package for estimating gene and isoform expression levels from RNA-Seq data.
+    - [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
+    - [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. 
+    - [seqmagick](https://github.com/fhcrc/seqmagick) - file format conversion in Biopython in a convenient way.
+    - [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+    - [smoove](https://github.com/brentp/smoove) - structural variant calling and genotyping with existing tools, but,smoothly.
+    - [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA manipulation tools.
+    - [SAMstat](https://github.com/TimoLassmann/samstat) - Displaying sequence statistics for next-generation sequencing. 
+    - [Somalier](https://github.com/brentp/somalier) - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. 
+    - [Telseq](https://github.com/zd1/telseq) - Telseq is a tool for estimating telomere length from whole genome sequence data. 
+    - [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
+
+- Protein
+    - [alphafold](https://github.com/deepmind/alphafold) - AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
+
+
+## Pipelines
+- Metagenome
+- [WGS](#wgs)
+- [WES](#wes)
+- single-cell
+    - [scanpy](https://scanpy.readthedocs.io/en/latest/) - Single-cell analysis in Python. Scales to >1M cells.
+    - [RNA-seq](#rna-seq)
+
+## Datasets
+- 1000 Genomes (RNA-Seq, ChIP-Seq):
+  - [Functional studies with 1KG individuals](http://archive.gersteinlab.org/docs/2015/06.04/1kg_fun_studies.htm)
+  - [In S3 1000 genomes](http://s3.amazonaws.com/1000genomes)
+  - [2500 Phase 3 samples at 30X](https://www.ebi.ac.uk/ena/data/view/PRJEB31736)
+- [Reference panel of ~250 Dutch families](http://biorxiv.org/content/early/2016/01/18/036897)
+- [Full text of all PMC papers from 2008-present](ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/manuscript/)
+- Phased genome sequences
+  - [&gt;100 fully-phased](http://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0148-z)
+  - [Statistically phased](http://www.haplotype-reference-consortium.org/)
+  - [Phased variants](http://genome.cshlp.org/content/early/2016/11/25/gr.210500.116.full.pdf+html)
+- [Clinical trials](http://vivli.org/)
+- [Targets for drug discovery](https://www.targetvalidation.org/)
+- [Large medical datasets for ML](https://github.com/beamandrew/medical-data)
+- [Species images](http://phylopic.org/image/browse/)
+- Public RNA-Seq data: 
+  - [A multi-experiment resource of analysis-ready RNA-seq gene and exon count datasets](https://jhubiostatistics.shinyapps.io/recount/)
+  - [with phenotype predictions](https://bioconductor.org/packages/release/bioc/html/recount.html)
+  - [human and mouse](http://amp.pharm.mssm.edu/archs4)
+- [Whole genomes of 150 Danish individuals](http://www.nature.com/nature/journal/v548/n7665/full/nature23264.html)
+- [Simons Genome Diversity Project](https://www.simonsfoundation.org/simons-genome-diversity-project/)
+- [BloodPAC](https://doi.bloodpac.org/BLOODPAC.0001/)
+- [Reference haplotypes for STR phasing](https://www.biorxiv.org/content/early/2018/03/06/277673)
+- [Database of Curated Mutations](http://www.docm.info/)
+- [Normalized, batch-corrected RNA-seq for both normal (GTEx) and cancer (TCGA) data](https://www.nature.com/articles/sdata201861)
+- [Hartwig WGS (requires data request)](https://www.hartwigmedicalfoundation.nl/en/wgs-database/)
+- [Orthogonally validated TP and FP CNVs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473400/)
+- [Microarray transcriptome profiles prepared for ML applications](https://www.biorxiv.org/content/biorxiv/early/2018/06/22/353698.full.pdf)
+- Cloud resource for filtering 1kg data
+  - [Python API](https://github.com/NGDSG/BAMSI-API)
+- [Paired mRNA and protein abundance in 26 human tissues](https://www.biorxiv.org/content/biorxiv/early/2018/06/27/357137.full.pdf)
+- [Cancer cell lines: correlation with primary tumor data (analysis for use as models)](http://comphealth.ucsf.edu/TCGA110/)
+- [gnomAD: SNV, small InDels, MNV, SV, and LoF metrics from large numbers of exomes and whole-genomes](https://gnomad.broadinstitute.org/downloads)
+  - [Blog post on lessons and tools for filtering of gnomAD annotations](https://www.whiffinlab.org/blog/six-lessons-for-variant-interpretation)
+- [1000G Structural variation](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/working/20181025_EEE_SV-Pop_1/AltReference_EEE_SV-Pop_1/)
+- [PGP UK](https://www.personalgenomes.org.uk/data/)
+- [Platinum genomes phased variant calls](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs001224.v1.p1)
+- [ICGC](https://dcc.icgc.org/)
+- Cancer Cell Lines
+  - [Encylopedia](https://gdc.cancer.gov/)
+  - [Deep sequencing of 3 cancer cell lines (2 colorectal, one breast cancer) on 2 sequencing platforms](https://www.biorxiv.org/content/10.1101/623702v1)
+  - [Deep sequencing of another breast cancer cell line (SEQC2 consoritum)](https://www.biorxiv.org/content/biorxiv/early/2019/05/13/625624.full.pdf)
+- [Variation benchmark datasets](http://structure.bmc.lu.se/VariBench/)
+- [RNA Atlas](https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?&dscope=RNAATLAS&option=about_dscope)
+- [COLO829 sequenced on multiple short- and long-read platforms](https://www.biorxiv.org/content/10.1101/2020.10.15.340497v1?rss=1)
+- HGDP
+  - [SV calls](ftp://ngs.sanger.ac.uk/scratch/project/team19/HGDP_SV/)
+
+
+## Visualization
+- General
+    - [Biodalliance](http://www.biodalliance.org/) - Biodalliance is a fast, interactive, genome visualization tool that's easy to embed in web pages and applications.
+    - [BasePlayer](https://baseplayer.fi/) - BasePlayer is an open source, large-scale discovery tool for genomic variants, exploiting next- and third-generation sequencing data. 
+    - [Celera genome browser](https://sourceforge.net/projects/celeragb/) - A Tool for Visualizing and Annotating the Human Genome
+    - [Genoverse](https://github.com/wtsi-web/Genoverse) - HTML5 scrollable genome browser
+    - [GBrowse 2](http://gmod.org/wiki/GBrowse) - GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
+    - [Gosling](http://gosling-lang.org/) - Gosling.js is a declarative grammar for interactive (epi)genomics visualization on the Web.
+    - [GeneViTo](http://athina.biol.uoa.gr/bioinformatics/GENEVITO/) - GeneViTo is a JAVA-based computer application that serves as a workbench for genome-wide analysis through visual interaction.
+    - [Ensembl genome browser](https://useast.ensembl.org/Homo_sapiens/Location/View?r=17:63992802-64038237) - Use the Genome browser to explore a genomic region and view a gene and its transcripts in the context of the genome.
+    - [Ensembl genome browser 2020 edition](http://2020.ensembl.org/) - Use the Genome browser to explore a genomic region and view a gene and its transcripts in the context of the genome.
+    - [HiGlass](https://higlass.io) - HiGlass is a fast visualization tool for large Hi-C and other genomic data sets.
+    - [IGB](https://bioviz.org/) - GB is a fast, flexible, and free genome browser you can use to explore & visually analyze vast genomic data.
+    - [IGV](https://igv.org/) - Integrative Genomics Viewer
+    - [IGV.js](https://github.com/igvteam/igv.js/) - igv.js is an embeddable interactive genome visualization component developed by the Integrative Genomics Viewer (IGV) team.
+    - [JBrowse](http://jbrowse.org/jbrowse1.html) - JBrowse is a fast, scalable genome browser built completely with JavaScript and HTML5. It can run on your desktop, or be embedded in your website.
+    - [JBrowse 2](http://jbrowse.org/jb2) - The mission of the JBrowse Consortium is to develop a comprehensive, pluggable, open-source computational platform for visualizing and integrating biological data.
+    - [Kero-BROWSE](https://github.com/DBKERO/genome_browser) - Simple HTML5 canvas based genome browser for NGS data. KERO-browse supports several file formats such as bam(+bai) or BigWig.
+    - [NCBI Genome Data Viewer](https://www.ncbi.nlm.nih.gov/genome/gdv/) -  GDV supports the exploration and analysis of NCBI-annotated and selected non-NCBI annotated eukaryotic genome assemblies.
+    - [Nucleome browser](http://vis.nucleome.org/entry/) - Nucleome Browser is a multimodal, interactive data visualization and exploration platform to integrate genomic, imaging, and 3D genome structure data. 
+    - [Pileup.js](https://github.com/hammerlab/pileup.js) - pileup.js is an interactive in-browser track viewer. 
+    - [Savant](http://bioinformatics-ca.github.io/savant_genome_browser_lab_2015/) - the most popular visualization tools for High Throughput Sequencing (HTS) data.
+    - [Tablet](https://ics.hutton.ac.uk/tablet/) - Tablet is a lightweight, high-performance graphical viewer for next generation sequence assemblies and alignments.
+    - [Trackster](https://galaxyproject.org/learn/visualization/) - Trackster is Galaxy's visualization and visual analysis environment.
+    - [UCSC genome browser](https://genome.ucsc.edu/) - interactively visualize genomic data
+    - [Valis browser](https://github.com/VALIS-software/valis-hpgv) - The genome visualizer can be used to explore individual genomic files (such as bigwig or BAM) or a collection of files via the preprocessing script
+    - [WashU epigenomics browser](https://epigenomegateway.wustl.edu/) - WashU Epigenome Browser
+    - [Zenbu](http://fantom.gsc.riken.jp/zenbu/) - a collaborative, omics data integration and interactive visualization system
+
+- Commercial
+    - [10x genomics/Loupe](https://support.10xgenomics.com/genome-exome/software/visualization/latest/what-is-loupe) - Loupe is a genome browser designed to visualize the Linked-Read data produced by the 10x Chromium Platform. Loupe is named for a jeweler's loupe, which is used to inspect gems.
+    - [Alamut](https://www.interactive-biosoftware.com/alamut-visual/) - Alamut Visual Plus™ enables deep assessment of variants on a genomic scale, empowering clinical researchers to make accurate decisions for their data interpretation.
+    - [ATCC Genome Portal (American Type Culture Collection)](https://genomes.atcc.org/) - The ATCC Genome Portal is a repository of high-quality, authenticated microbial reference genomes.
+    - [Bionano](https://bionanogenomics.com/technology/structural-variation/) - Bionano’s genome mapping technology directly observes long molecules from 150,000 bp to megabase pair lengths to identify large structural variations typically not detected by short- or long-read sequencing technologies.
+    - [Benchling](https://www.benchling.com/) - More than 600 biopharma, agritech, and industrial biotech companies trust Benchling to improve collaboration and increase productivity.
+    - [CLC Genomics workbench](https://digitalinsights.qiagen.com/news/blog/discovery/structural-variant-detection-using-clc-genomics-workbench/) - QIAGEN CLC Genomics Workbench is a powerful solution that works for everyone, no matter the workflow. 
+    - [Circa](https://omgenomics.com/circa) - With Circa, you will build a circos plot from your own genomic data in less than an hour.
+    - [DNASTAR](https://www.dnastar.com/) - Lasergene Genomics stands apart in the fields of genomics and transcriptomics. 
+    - [Geneious](https://www.geneious.com/) - Geneious Prime puts industry-leading bioinformatics and molecular biology tools directly into researchers hands, streamlining sequence analysis and insights.
+    - [Genestack](https://genestack.com/blog/2015/05/28/navigation-in-genestack-genome-browser/) - We constantly strive to improve Genestack's Genome Browser, making it more convenient and intuitive for our users.
+    - [Golden Helix](http://goldenhelix.com/GenomeBrowse/) - The free Golden Helix GenomeBrowse® tool delivers stunning visualizations of your genomic data that give you the power to see what is occurring at each base pair in your samples.
+    - [Lucid viewer](https://lucidalign.com/) - A modern sequence alignment viewer fast performance intuitive navigation
+helps you focus on the science
+    - [MacVector](https://macvector.com/) - develops powerful but easy to use Macintosh applications for Molecular Biologists to simplify and speed up the analysis, manipulation, assembly and documentation of DNA and protein sequences.
+    - [Persephone](https://persephonesoft.com/) - Window to the World’s Genetic Information
+    - [SnapGene](https://www.snapgene.com/) - Improve your core molecular biology procedures, and improve your results
+    - [Strand NGS](https://www.strand-ngs.com/) - Strand NGS
+- MSA
+    - [Alignment Annotator](http://www.bioinformatics.org/strap/aa) - Browser based sequence alignment visualization with JAVASCRIPT
+    - [abrowse](https://github.com/ihh/abrowse) - ABrowse is a multiple sequence alignment browser with integrated phylogeny and protein structure views, created by the JBrowse team.
+    - [alignment.js](https://github.com/veg/alignment.js) - A suite of reusable React components for creating a variety of visualizations involving multiple sequence alignments.
+    - [AlignmentComparator](http://bioinfweb.info/AlignmentComparator/) - An application to efficiently visualize and annotate differences between alternative multiple sequence alignments
+    - [AlignmentViewer](https://alignmentviewer.org/) - protein multiple sequence alignment visualization & analysis
+    - [AliView](http://www.ormbunkar.se/aliview/) - AliView is yet another alignment viewer and editor, but this is probably one of the fastest and most intuitive to use, not so bloated and hopefully to your liking.
+    - [ALVIS (MSA viewer)](https://www.ebi.ac.uk/research/goldman/software/alvis) - Sequence Logos and its variants are the most commonly used method for visualisation of multiple sequence alignments (MSAs) and sequence motifs.
+    - [alignfigR](https://cran.r-project.org/web/packages/alignfigR/vignettes/my-vignette.html) - The package alignfigR, built around ggplot2, creates multiple sequence alignment figures in R. 
+    - [alen](https://github.com/jakobnissen/alen) - Simple terminal sequence alignment viewer.
+    - [AliTreeViz](https://www.npmjs.com/package/alitreeviz) - Visualisation of multiple sequence alignments and phylogenetic trees.
+    - [BioJS/MSA](https://msa.biojs.net/) - The MSAViewer is an open source web component for scientists.
+    - [Boxshade](https://embnet.vital-it.ch/software/BOX_form.html)
+    - [ESPript](http://espript.ibcp.fr/ESPript/ESPript/) - 'Easy Sequencing in PostScript', is a program which renders sequence similarities and secondary structure information from aligned sequences for analysis and publication purpose.
+    - [ggtree](https://github.com/YuLab-SMU/ggtree) - an R package for visualization of phylogenetic trees with their annotation data
+    - [Jalview](https://www.jalview.org/) - Jalview is a free program for multiple sequence alignment editing, visualisation and analysis. 
+    - [JSAV](http://www.bioinf.org.uk/software/jsav) - JSAV is a sequence alignment viewer written purely in JavaScript.
+    - [MSABrowser](https://thekaplanlab.github.io/) - MSABrowser is developed as a new JavaScript tool with an ultimate goal of dynamic and fast visualization of sequence alignments, variations, and annotations. 
+    - [msaR](https://github.com/zachcp/msaR) - msaR is a an htmlwidgets wrapper of the BioJS MSA viewer javascript library. msa will pass alignments to the BioJS MSA.
+    - [MView](https://www.ebi.ac.uk/Tools/msa/mview/) - MView reformats the results of a sequence database search (BLAST, FASTA, etc) or a multiple alignment (MSF, PIR, CLUSTAL, etc) adding optional HTML markup to control colouring and web page layout. 
+    - [MEGA-X](https://www.megasoftware.net/) - Sophisticated and user-friendly software suite for analyzing DNA and protein sequence data from species and populations.
+    - [NCBI MSA Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/) - The NCBI Multiple Sequence Alignment Viewer (MSA) is a graphical display for nucleotide and protein sequence alignments.
+    - [pyBoxshade](https://github.com/mdbaron42/pyBoxshade) - Desktop application for colouring/shading sequence alignments
+    - [pymsaplotter](https://github.com/orangeSi/pymsaploter) - plot Multiple Sequence Alignment(MSA) of Clustal by python package
+    - [ProViz](http://slim.icr.ac.uk/proviz/index.php) - ProViz (Protein Vizualisation) is an interactive exploration tool for investigating the functional and evolutionary features of proteins.
+    - [React MSAViewer](https://github.com/plotly/react-msa-viewer) - react-msa-viewer is a performant, extendable, highly-customizable, production-ready React Component that renders a Multiple Sequence Alignment (MSA).
+    - [seqotron](https://github.com/4ment/seqotron) - Seqotron is a user-friendly sequence editor. It is written in Objective-C/Cocoa and runs on Mac OS X.
+    - [STRAP](http://www.bioinformatics.org/strap/) - Intuitive Editor for annotated multiple Sequence and Structure Alignments
+    - [TeXShade](https://www.ctan.org/pkg/texshade) - Package for setting nucleotide and peptide alignments
+    - [Wasabi](http://wasabiapp.org/)
+
+- Logo
+    - [LogoJS](https://logojs.wenglab.org/app/gallery/) - LogoJS is a Javascipt package for creating SVG sequence logos. 
+
+- CNV
+    - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer) - aCNViewer (Absolute CNV Viewer) is a tool which allows the visualization of absolute CNVs and cn-LOH across a group of cancer samples.
+    - [BAMScale](https://github.com/ncbi/BAMscale) - BAMscale is a one-step tool for either 1) quantifying and normalizing the coverage of peaks or 2) generated scaled BigWig files for easy visualization of commonly used DNA-seq capture based methods.
+    - [bctools cnv](https://samtools.github.io/bcftools/howtos/cnv-calling.html) - The BCFtools package implements two methods (the polysomy and cnv commands) for sensitive detection of copy number alterations, aneuploidy and contamination. 
+    - [CNVkit](https://cnvkit.readthedocs.io/en/stable/plots.html) - CNVkit is a Python library and command-line software toolkit to infer and visualize copy number from high-throughput DNA sequencing data.
+    - [cnvCurator](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0766-y) - One of the most important somatic aberrations, copy number variations (CNVs) in tumor genomes is believed to have a high probability of harboring oncotargets. 
+    - [covviz](https://brwnj.github.io/covviz/) - Multi-sample genome coverage viewer to observe large, coverage-based anomalies alongside annotations and sample metadata
+    - [copynumber](https://www.bioconductor.org/packages/release/bioc/vignettes/copynumber/inst/doc/copynumber.pdf) - Segmentation of single- and multi-track copy number data by penalized least squares regression.
+    - [GenomeSpy](https://genomespy.app/) - A visualization grammar and a GPU-accelerated rendering engine for genomic (and other) data.
+    - [GenomePaint](https://genomepaint.stjude.cloud/) - GenomePaint is a web-based, interactive visualization platform for whole-genome, whole-exome, transcriptome, epigenome and 3D-genome architecture  of tumor samples.
+    - [genevisR](https://bioconductor.org/packages/release/bioc/vignettes/GenVisR/inst/doc/Intro.html) - Intuitively visualizing and interpreting data from high-throughput genomic technologies continues to be challenging. 
+    - [mocha](https://github.com/freeseek/mocha) - A BCFtools extension to call mosaic chromosomal alterations starting from phased VCF files with either B Allele Frequency (BAF) and Log R Ratio (LRR) or allelic depth (AD). 
+    - [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purple/README.md) - PURPLE is a purity ploidy estimator for whole genome sequenced (WGS) data.
+- Static
+    - [BAMSnap](https://github.com/parklab/bamsnap) - BamSnap: a lightweight command-based visualization tool for sequencing reads in BAM files
+    - [bcftools roh](https://samtools.github.io/bcftools/howtos/roh-calling.html) - The BCFtools/RoH command detects regions of autozygosity in sequencing data, including exome data, using a hidden Markov model.
+    - [ChIA-Pipe](https://github.com/TheJacksonLaboratory/ChIA-PIPE) - A fully automated pipeline for comprehensive ChIA-PET data analysis and visualization
+    - [CNView](https://github.com/RCollins13/CNView) - Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
+    - [CNVPlot](https://github.com/dantaki/CNVplot) - Plot CNV data with a genome viewer in R
+    - [CNVpytor](https://github.com/abyzovlab/CNVpytor) - a python extension of CNVnator -- a tool for CNV analysis from depth-of-coverage by mapped reads
+    - [cgplot](https://github.com/dfguan/cgplot) - a script for viewing sequence aligments and read-depth
+    - [DNAPlotLib](https://github.com/VoigtLab/dnaplotlib) - DNAplotlib is a library that enables highly customizable visualization of individual genetic constructs and libraries of design variants.
+    - [ExonIntron](http://wormweb.org/exonintron) - This is a tool for quickly making proportional, publication-quality graphics that display your gene's important parts: 5' UTR, coding sequence, 3' UTR, mutations, deletions and domains.
+    - [FeatureViewer](https://github.com/calipho-sib/feature-viewer) - Library to visualize protein sequence features in javascript using D3 - From SIB CALIPHO group; neXtProt project
+    - [Geneviz](https://jrderuiter.github.io/geneviz/usage.html) - Similar to many genome browsers, Geneviz displays individual types of genomic features or data as separate tracks. 
+    - [Genome STRiP](http://software.broadinstitute.org/software/genomestrip/) - Genome STRiP (Genome STRucture In Populations) is a suite of tools for discovering and genotyping structural variations using sequencing data.
+    - [GenomeTools](http://genometools.org/) - The GenomeTools genome analysis system is a free collection of bioinformatics tools (in the realm of genome informatics) combined into a single binary named gt.
+    - [GenomeView](https://github.com/nspies/genomeview) - a python module for visualizing genomic data
+    - [genoPlotR](http://genoplotr.r-forge.r-project.org/) - genoPlotR is a R package to produce reproducible, publication-grade graphics of gene and genome maps.
+    - [ggbio](https://www.bioconductor.org/packages/release/bioc/html/ggbio.html) - The ggbio package extends and specializes the grammar of graphics for biological data. 
+    - [GGgenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2
+    - [GGsashimi](https://github.com/guigolab/ggsashimi) - Command-line tool for the visualization of splicing events across multiple samples
+    - [gtrellis](http://bioconductor.org/packages/devel/bioc/vignettes/gtrellis/inst/doc/gtrellis.html) - Trellis graph is a type of graph which splits data by certain conditions and visualizes subset of data in each category parallel.
+    - [Gviz](https://bioconductor.org/packages/release/bioc/html/Gviz.html) - Genomic data analyses requires integrated visualization of known genomic information and new experimental data. 
+    - [Hagfish](https://github.com/mfiers/hagfish/wiki/Plots) - Hagfish can generate a number of different plots. 
+    - [HiCPlotter](https://github.com/kcakdemir/HiCPlotter) - HiCPlotter is a Python data visualization tool for integrating different data types with interaction matrixes.
+    - [JVarKit/BamToSVG](http://lindenb.github.io/jvarkit/BamToSVG.html) - BAM to Scalar Vector Graphics
+    - [Lollipops](https://github.com/joiningdata/lollipops) - Lollipop-style mutation diagrams for annotating genetic variations.
+    - [Mason](http://www.yeastrc.org/mason/) - Mason is a JavaScript and SVG sequence feature annotation viewer that may be integrated into web sites. 
+    - [Methplotlib](https://github.com/wdecoster/methplotlib) - Plotting tools for nanopore methylation data
+    - [mummer2circos](https://github.com/metagenlab/mummer2circos) - Generate circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
+    - [Pairoscope](http://pairoscope.sourceforge.net/) - Pairoscope (formerly Yenta) was developed as a quick and simple way to generate diagrams indicating the relationship of paired end sequencing reads.
+    - [pauvre](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6991124/figure/fig-3/) - A synteny map of the ctenophore mitochondrial genomes. 
+    - [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - python module to plot beautiful and highly customizable genome browser tracks
+    - [RACER](https://oliviasabik.github.io/RACERweb/articles/IntroToRACER.html) - RACER is a package that allows you to generate high quality regional association plots from genomic data using the function singlePlotRACER() and can stack two such plots using the function mirrorPlotRACER() such that they are mirrored across a common x-axis, enabling the direct visual comparison of two associations at the same locus. 
+    - [RepViz](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4473-z) - Visualization of sequencing data is an integral part of genomic data analysis. 
+    - [Samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs
+    - [SashimiPlot](https://miso.readthedocs.io/en/fastmiso/sashimi.html) - sashimi_plot is a utility for automatically producing publication-quality plots Sashimi plots for RNA-Seq analyses of isoform expression.
+    - [shabam](https://github.com/dlrice/shabam) - A python tool to plot BAM or CRAM sequence reads.
+    - [SparK](https://github.com/harbourlab/SparK) - Publication quality NGS track plotting
+    - [Spliceclust](https://github.com/pkimes/spliceclust) - visualization tools for exon/junction coverage
+    - [Sushi](https://www.bioconductor.org/packages/release/bioc/vignettes/Sushi/inst/doc/Sushi.pdf) - Sushi is an R package for plotting genomic data stored in multiple common genomic formats including bed, bedpe, bedgraph format.
+    - [svist4get](https://link.springer.com/article/10.1186/s12859-019-2706-8) - High-throughput sequencing often provides a foundation for experimental analyses in the life sciences. 
+    - [svv](https://github.com/ryanlayer/svv) - A two-step process that can help visualize the coverage near a variant across multiple BAMs.
+    - [svviz](https://github.com/svviz/svviz) - svviz visualizes high-throughput sequencing data relevant to a structural variant. 
+    - [svviz2](https://github.com/nspies/svviz2) - for visual evaluation of read support for structural variation
+    - [trackViewer](https://bioconductor.org/packages/release/bioc/vignettes/trackViewer/inst/doc/trackViewer.html) - Visualize mapped reads along with annotation as track layers for NGS dataset such as ChIP-seq, RNA-seq, miRNA-seq, DNA-seq, SNPs and methylation data.
+- Gene fusion
+    - [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
+    - [Chimeraviz](https://github.com/stianlagstad/chimeraviz) - chimeraviz is an R package that automates the creation of chimeric RNA visualizations.
+    - [clinker (gene fusion software)](https://github.com/Oshlack/Clinker/) - Fusion Super Transcript generator and Plotter
+    - [FusionInspector](https://github.com/FusionInspector/FusionInspector/wiki) - FusionInspector is a component of the Trinity Cancer Transcriptome Analysis Toolkit (CTAT).
+    - [MAVIS](http://mavis.bcgsc.ca/) - MAVIS is a python (requires >=3) command-line tool for the post-processing of structural variant calls.
+- Alignment viewer
+    - [Chromatic](https://chromatic.nci.nih.gov/)
+    - [GenomeView (java app)](https://genomeview.org/content/quick-start-guide)
+    - [Gambit](http://labsergen.langebio.cinvestav.mx/bioinformatics/jacob/?p=473) - Gambit is a new cross-platform GUI (graphical user interface) application for sequence visualization and analysis. 
+    - [LookSeq](https://www.sanger.ac.uk/tool/lookseq/) - LookSeq is a web-based application for alignment visualization, browsing and analysis of genome sequence data.
+    - [pyBamView](https://mgymrek.github.io/pybamview/) - PyBamView is a python-based application that allows you to view BAM sequence alignments through your web browser.
+    - [udon](https://github.com/ocxtal/udon) - BAM CIGAR / MD transcoder for compact on-memory representation and quick drawing
+- Comparative
+    - [Aequatus](https://github.com/TGAC/Aequatus) - Visualising complex similarity relationships among species
+    - [AliTV](https://alitvteam.github.io/AliTV/d3/AliTV.html) - AliTV (Alignment Toolbox and Visualization) is a software for visualizing Whole Genome Alignments.
+    - [GSSPlayground](https://github.com/orangeSi/GSSplayground) - Lightweight single-html-file-based Genome Segments playground for Visualize genome features cluster(gene arrow map or other features), add synteny among genome fragments or add crosslink among features, add short(PE/MP)/long reads(pacbio or nanopore) mapping or snpindel in vcf(not support complex sv yet), support all CIGAR of sam alignment, dire…
+    - [Artemis comparison tool (ACT)](https://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act) - ACT is a Java application for displaying pairwise comparisons between two or more DNA sequences.
+    - [Biodalliance comparative demo](http://biodalliance.org/dev/test-comparative.html)
+    - [Chromatiblock](https://github.com/mjsull/chromatiblock) - Scalable, whole-genome visualisation of structural changes in prokaryotes
+    - [CMap](http://gmod.org/wiki/CMap) - A browser-based tool for the visual comparison of various maps (sequence, genetic, etc.) from any number of species.
+    - [CoGe](https://genomevolution.org/coge/) - CoGe is a platform for performing Comparative Genomics research.
+    - [cactus](https://github.com/ComparativeGenomicsToolkit/cactus) - Official home of genome aligner based upon notion of Cactus graphs
+    - [CrossBrowse](https://github.com/shenkers/CrossBrowse) - browse genomics data for multiple reference sequences simultaneously
+    - [CVit](https://sourceforge.net/projects/cvit/) - A collection of Perl scripts that enable quick visualizations of features on linkage groups, psuedochromosomes or cytogenetic maps. 
+    - [Cvit.js](https://github.com/LegumeFederation/cvitjs) - CViTjs - Chromosome Viewing Tool. A javascript tool for quick whole-genome views of data.
+    - [EasyFig](https://mjsull.github.io/Easyfig/) - Easyfig is a Python application for creating linear comparison figures of multiple genomic loci with an easy-to-use graphical user interface (GUI).
+    - [GBrowse_syn](http://gmod.org/wiki/GBrowse_syn) - GBrowse_syn, or the Generic Synteny Browser, is a GBrowse-based synteny browser designed to display multiple genomes, with a central reference species compared to two or more additional species. 
+    - [Genome Context Viewer](https://www.legumefederation.org/gcv/phytozome_10_2/) - A web-app that visualizes genomic context data provided by third party services in a single, federated interface by using gene-family assignment as a unit of search and comparison.
+    - [Genome-plots-processing](https://github.com/filip-husnik/genome-plots-processing) - Processing scripts to visualize bacterial genome alignments as linear (instead of circular, e.g. by Circos)
+    - [Genomicus](https://www.genomicus.biologie.ens.fr/genomicus/) - Genomicus is a genome browser that enables users to navigate in genomes in several dimensions: linearly along chromosome axes, transversaly across different species, and chronologicaly along evolutionary time.
+    - [gggenomes](https://github.com/thackl/gggenomes) - A grammar of graphics for comparative genomics
+    - [GIVE](https://zhong-lab-ucsd.github.io/GIVE_homepage/) - GIVE is an open source programming library that allows anyone without much programming experience to build custom genome browser websites or apps.
+    - [mauve-viewer](https://github.com/nconrad/mauve-viewer) - A Whole Genome Alignment Visualization Tool for the Web
+    - [MCScan (python version)](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version)) - MCscan facilitates pairwise and multiple genome syntenic comparisons and visualizations.
+    - [MCScanX](https://github.com/wyp1125/MCScanX) - MCScanX: Multiple Collinearity Scan toolkit X version. The most popular synteny analysis tool in the world!
+    - [mGSV (multiple genome synteny viewer)](https://github.com/kashmatic/mGSV) - Multiple Genome Synteny Viewer
+    - [MizBee](http://www.cs.utah.edu/~miriah/mizbee/Overview.html) - MizBee is a multiscale synteny browser for exploring conservation relationships in comparative genomics data.
+    - [Multiple genome viewer](http://www.informatics.jax.org/mgv/)
+    - [OMA local synteny browser](https://omabrowser.org/oma/synteny/ADH1A_HUMAN/)
+    - [pafr](https://github.com/dwinter/pafr) - Read, manipulate and visualize 'Pairwise mApping Format' data in R
+    - [syri/plotsr](https://schneebergerlab.github.io/syri/plotsr.html) - Synteny and Rearrangement Identifier
+    - [progressiveMauve viewer](http://darlinglab.org/mauve/user-guide/viewer.html) - The alignment display is organized into one horizontal “panel” per input genome sequence.
+    - [SyMap](http://www.agcol.arizona.edu/software/symap/) - SyMAP (Synteny Mapping and Analysis Program) is a software package for detecting,displaying, and querying syntenic relationships between sequenced chromosomes and/or FPC physical maps.
+    - [Synima](https://github.com/rhysf/Synima) - Synima (Synteny Imager) is a program for visualising syntenic regions from orthologous genes, infered by reciprocal best hits (RBH) from BLAST, or OrthoMCL or Orthofinder, followed by DAGchainer. OrthoMCL, Orthofinder and DAGchainer are bundled with Synima, with wrapper scripts provided in /util/. 
+    - [Synteny browser](https://github.com/TheJacksonLaboratory/syntenybrowser) - An interactive web-based conserved synteny browser application
+    - [SynTView](http://hub18.hosting.pasteur.fr/SynTView/documentation/) - SynTView is built as a generic genome browser which allows the user to visually explore genomes by genomic location, or to directly access genes by names search.
+    - [SynVisio](https://synvisio.github.io/) - SynVisio lets you explore the results of McScanX a popular synteny and collinearity detection toolkit and generate publication ready images.
+    - [VISTA browser](http://pipeline.lbl.gov/cgi-bin/gateway2) - Whole Genome Comparative Analysis of the Human Feb. 2009 Genome
+    - [XMatchView](https://www.bcgsc.ca/resources/software/xmatchview) - XMatchView is written in python and runs on linux and windows. 
+    - [LinearDisplay.pl](https://github.com/JCVenterInstitute/LinearDisplay) - LinearDisplay.pl is a program that generates publication quality linear maps of user-defined genetic features (e.g., ORFs, promoters, transcriptional terminators, restriction enzyme recognition sites, primer-binding sites, phage attachment sites, target site duplications, assembly/contig breaks and RNA structures).
+    - [FastANI](https://github.com/ParBLiSS/FastANI) - FastANI is developed for fast alignment-free computation of whole-genome Average Nucleotide Identity (ANI). 
+    - [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator
+    - [RectChr](https://github.com/BGI-shenzhen/RectChr) - Multi-level visualization of genomic statistical variables on rectangular chromosomes
+    - [pretzel](https://github.com/plantinformatics/pretzel) - Javascript full-stack framework for Big Data visualisation and analysis
+    - [PipMaker](http://pipmaker.bx.psu.edu/pipmaker/) - PipMaker computes alignments of similar regions in two DNA sequences.
+    - [WGDI](https://github.com/SunPengChuan/wgdi) - Finely identify the whole genome duplication events and generate the genomic homology tables.
+    - [BRIG](http://brig.sourceforge.net) - BRIG is a free cross-platform (Windows/Mac/Unix) application that can display circular comparisons between a large number of genomes, with a focus on handling genome assembly data.
+    - [GENESPACE](https://github.com/jtlovell/GENESPACE/) - GENESPACE is a comparative genomics framework implemented in the R environment for statistical computing.
+    - [miropeats](http://www.littlest.co.uk/software/bioinf/old_packages/miropeats/) - Miropeats discovers regions of sequence similarity amongst any set of DNA sequences and then presents this similarity information graphically.
+    - [syntenyPlotteR](https://github.com/marta-fb/syntenyPlotteR) - R package to draw syntenic plots in 3 different styles
+    - [chromoMap](https://lakshay-anand.github.io/chromoMap/index.html) - Generate interactive genome visualizations, annotate genomic features, and visualize multi-omics data using chromoMap R package.
+    - [SafFire](https://mrvollger.github.io/SafFire/#ref=CHM13_v1.1&query=GRCh38)
+    - [SimpleSynteny](https://www.dveltri.com/simplesynteny/about.html) - SimpleSynteny is a graphical program to help biologists easily generate publication-quality visuals for comparative genome analysis or to assist with teaching.
+    - [Cinteny](http://cinteny.cchmc.org/) - Server for Synteny Identification and Analysis of Genome Rearrangement	
+    - [AutoGraph](http://autograph.genouest.org/) - AutoGRAPH was an integrated web server for multi-species comparative genomic analysis.
+- Single cell
+    - [copykat](https://github.com/navinlabcode/copykat/blob/master/vignettes/copycat-vignettes.pdf) - A major challenge for single cell RNA sequencing of human tumors is to distinguish cancer cells from stromal cell types, as well as the presence of multiple tumor subclones.
+    - [Millefy](https://github.com/yuifu/millefy) - Genome browser-like visualization of single-cell RNA-seq dataset
+    - [gingko](http://qb.cshl.edu/ginkgo/?q=/9EiUttUP0CBHs3WnuBa0) - A web tool for analyzing single-cell sequencing data.
+    - [scCNV_heatmap](https://github.com/StefanKurtenbach/scCNV_heatmap)
+    - [casper](https://github.com/akdess/CaSpER) - A bar with ploidies will be plotted on the right side of the heatmap.
+    - [ArchR](https://www.archrproject.com/articles/Articles/tutorial.html)
+- GWAS
+    - [PureScript genetics browser](https://github.com/chfi/purescript-genetics-browser) - Purescript-based genome and genetics browser
+    - [Locuszoom](http://locuszoom.org/) - interactive and embeddable visualization of genetic association study results
+    - [LDBlockShow](https://github.com/BGI-shenzhen/LDBlockShow) - a fast and convenient tool for visualizing linkage disequilibrium and haplotype blocks based on VCF files
+- Dotplot
+    - [shinyChromosome](http://150.109.59.144:3838/shinyChromosome/) - interactive creation of non-circular whole genome diagram
+    - [D-GENIES](http://dgenies.toulouse.inra.fr/) - GENIES – for Dot plot large Genomes in an Interactive, Efficient and Simple way
+    - [Delly-maze](https://github.com/dellytools/maze) - In a similar manner to dot plots, maze highlights local sequence similarity between two DNA sequences. In particular, maximal exact substring matches are computed with MUMmer3 and visualised.
+    - [Discoplot](https://github.com/mjsull/DiscoPlot) - DiscoPlot allows the user to quickly identify genomic rearrangements, misassemblies and sequencing artefacts by providing a scalable method for visualising large sections of the genome. 
+    - [Dot](https://dot.sandbox.bio/)
+    - [Dotlet](https://dotlet.vital-it.ch/)
+    - [iLambda/Dotplot](https://github.com/iLambda/dotplot) - This library allows you to create and draw dotplots. In bioinformatics, a dot plot is a graphical method that allows the comparison of two biological sequences and identify regions of close similarity between them.
+    - [dotPlotly](https://github.com/tpoorten/dotPlotly/) - Generate an interactive dot plot from mummer or minimap alignments
+    - [Dottup](https://www.bioinformatics.nl/cgi-bin/emboss/help/dottup) - A dotplot is a graphical representation of the regions of similarity between two sequences.
+    - [FlexiDot](https://github.com/molbio-dresden/flexidot) - Highly customizable, ambiguity-aware dotplots for visual sequence analyses
+    - [Gepard](http://cube.univie.ac.at/gepard) - Gepard (German: "cheetah", Backronym for "GEnome PAir - Rapid Dotter") allows the calculation of dotplots even for large sequences like chromosomes or bacterial genomes. 
+    - [Jdot](https://github.com/LyonsLab/jdot) - A fully interactive HTML5 canvas-based dotplot/scatterplot viewer.
+    - [last-dotplot](https://gitlab.com/mcfrith/last) - LAST is designed for moderately large data (e.g. genomes, DNA reads, proteomes).
+    - [mcutils](https://github.com/mchaisso/mcutils) - This is a set of tools I find helpful for working with whole genome alignments stored in the SAM format. 
+    - [Minidot](https://github.com/thackl/minidot) - Fast and pretty dotplots for whole genomes assemblies using minimap and R/ggplot2
+    - [Mummer-idotplot](https://github.com/ryought/mummer-idotplot) - Generate interactive dotplot from mummer4 output using plotly
+    - [Mummerplot](http://mummer.sourceforge.net/) - MUMmer is a system for rapidly aligning entire genomes, whether in complete or draft form.
+    - [ggplot2 mummerplot](https://jmonlong.github.io/Hippocamplus/2017/09/19/mummerplots-with-ggplot2/)
+    - [Redotable](https://github.com/s-andrews/redotable) - Re-dot-able is a dot-plotting application allowing for the visual comparisons of two sets of sequences.
+    - [syntenyPlotByR](https://github.com/shingocat/syntenyPlotByR) - plot synteny genome alignment by mapper Mummer or LastZ using syntenyPlot.R.
+    - [Dotter](https://sonnhammer.sbc.su.se/Dotter.html) - Dotter is a graphical dotplot program for detailed comparison of two sequences.
+    - [JGI/IMG](https://img.jgi.doe.gov/) - The mission of the Integrated Microbial Genomes & Microbiomes(IMG/M) system is to support the annotation, analysis and distribution of microbial genome and microbiome datasets sequenced at DOE's Joint Genome Institute (JGI).
+    - [MashMap](https://github.com/marbl/MashMap/blob/master/scripts/generateDotPlot)
+    - [oxford-plots](https://github.com/jherrero/oxford-plots) - This software is intended to build pairwise dotplots (also known as Oxford plots) for a set of species vs one particular reference genome. 
+    - [DAGchainer](http://dagchainer.sourceforge.net/) - The DAGchainer software computes chains of syntenic genes found within complete genome sequences.
+- Gene structure
+    - [TnT](https://tnt.marlin.pub/articles/introduction) - A common task in bioinformatics is to create visualization of genomic data along genomic coordinates, together with necessary genomic annotation features like genes and transcripts on the same coordinate, in order to make sense of those data.
+    - [Apollo aka WebApollo](https://genomearchitect.readthedocs.io/en/latest/) - Apollo - A collaborative, real-time, genome annotation web-based editor.
+- Microbiology
+    - [Edinburgh-Genome-Foundry/DnaFeaturesViewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) - python library to plot DNA sequence
+- Graph
+    - [AGB assembly graph browser](https://almiheenko.github.io/AGB/index.html) - Supplementary material for the Assembly Graph Browser
+    - [Bandage](https://github.com/rrwick/Bandage/) - a Bioinformatics Application for Navigating De novo Assembly Graphs Easily
+    - [gfaestus](https://github.com/chfi/gfaestus) - gfaestus is a tool for visualizing and interacting with genome graphs in the GFA format.
+    - [graphgenomeviewer](https://cmdcolin.github.io/graphgenomeviewer/)
+    - [MoMi-G](https://github.com/MoMI-G/MoMI-G) - A genome graph browser for visualization of structural variants (SVs) as a variation graph:
+    - [odgi draw + odgi viz](https://odgi.readthedocs.io/en/latest/index.html) - In standard genomic approaches sequences are related to a single linear reference genome introducing reference bias. 
+    - [sequence tube map](https://github.com/vgteam/sequenceTubeMap) - A JavaScript module for the visualization of genomic sequence graphs. 
+    - [Shasta](https://chanzuckerberg.github.io/shasta/ComputationalMethods.html#ReadGraph) - Using the methods covered so far, an assembly has created a list of pairs of oriented reads, each pair having a plausible marker alignment.
+    - [LINX](https://www.biorxiv.org/content/10.1101/781013v1.full.pdf) - We have developed a novel, integrated and comprehensive purity, ploidy, structural variant and copy number somatic analysis toolkit for whole genome sequencing data of paired tumor/normal samples.
+    - [panGraphViewer](https://github.com/TF-Chan-Lab/panGraphViewer) - show pangenome graphs in an easy way
+    - [IGGE](https://github.com/immersivegraphgenomeexplorer/IGGE) - o turn the exploration of graph genomes into an immersive, interactive, and usable iVR experience, we built a new VR application which we call "The Immersive Graph Genome Explorer" (IGGE). IGGE is a virtual platform built upon the Unity Game Engine that affords a suite of graph genome exploitation tools, cross-platform viewing, and 3DUI.
+- SV
+    - [gGnomes.js](https://github.com/mskilab/gGnome.js)
+    - [Ribbon](http://genomeribbon.com/) - intuitive visualization for complex genomic variation
+    - [Gremlin](http://compbio.cs.brown.edu/projects/gremlin/) - Gremlin is an interactive visualization model for the comparative analysis of structural variation in human and cancer genomes. 
+    - [InGAP-SV](http://ingap.sourceforge.net/) - We developed an integrative next-generation genome analysis pipeline (inGAP), which employed a Bayesian principle to detect single nucleotide polymorphisms (SNPs), small insertion/deletions (indels).
+    - [Introgression browser](https://git.wageningenur.nl/aflit001/ibrowser)
+    - [SplitThreader](http://splitthreader.com/) - Explore rearrangements and copy-number amplifications in a cancer genome
+    - [SMRT View](http://files.pacb.com/software/smrtanalysis/2.3.0/doc/smrtview/help/Webhelp/App_View_Epipro.htm) - Viewing structural variations using BridgeMapper
+    - [NeoLoopFinder](https://github.com/XiaoTaoWang/NeoLoopFinder) - A computation framework for genome-wide detection of enhancer-hijacking events from chromatin interaction data in re-arranged genomes
+    - [SVPV](https://github.com/VCCRI/SVPV) - SVPV enables visualisation of predicted structural variant regions in paired-end whole genome sequencing alignments, and allows comparison of calls from differenct structural variant prediction algorithms.
+    - [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect) - AmpliconArchitect (AA) is a tool to identify one or more connected genomic regions which have simultaneous copy number amplification and elucidates the architecture of the amplicon.
+- Text based
+    - [Alan](https://github.com/mpdunne/alan) - Alan is a simple, light command line alignment viewer, for viewing amino acid and DNA alignments in a linux terminal.
+    - [Alv](https://github.com/arvestad/alv) - View your DNA or protein multiple-sequence alignments right at your command line.
+    - [ASCIIGenome](https://github.com/dariober/ASCIIGenome) - ASCIIGenome is a genome browser based on command line interface and designed for running from console terminals.
+    - [Bamcov](https://github.com/fbreitwieser/bamcov) - Quickly calculate and visualize sequence coverage in alignment files
+    - [BLAST+](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
+    - [Hapviz](https://github.com/ekg/hapviz) - indel haplotype visualization on the command line from BAM files
+    - [plotReads](http://campuspress.yale.edu/knightlab/ruddle/plotreads/) - The plotReads program is an update of Murim’s p08PlotReads software, which can handle any BAM or CRAM file, can report on a single position, multiple positions or a VCF file, can handle any reference, and can generate either image or text alignments.
+    - [Rna Alignment Viewers (Colorstock, SScolor, Ratón)](http://biowiki.org/wiki/index.php?title=Rna_Alignment_Viewers&redirect=no)
+    - [Sam2pairwise](https://github.com/mlafave/sam2pairwise) - sam2pairwise takes a SAM file and uses the CIGAR and MD tag to reconstruct the pairwise alignment of each read.
+    - [Samtools tview](http://www.htslib.org/)
+    - [SvABA](https://github.com/walaj/svaba#alignmentstxtgz) - Structural variation and indel analysis by assembly
+    - [VizAln (from HipSTR)](https://github.com/tfwillems/HipSTR) - Genotype and phase short tandem repeats using Illumina whole-genome sequencing data
+- Circular
+    - [Anvio](https://peerj.com/articles/1319/) - Advances in high-throughput sequencing and ‘omics technologies are revolutionizing studies of naturally occurring microbial communities.
+    - [BioCircos.js](http://bioinfo.ibp.ac.cn/biocircos/) - BioCircos.js is an open source interactive Javascript library which provides an easy way to interactive display biological data on the web. 
+    - [Circleator](http://jonathancrabtree.github.io/Circleator/index.html) - The Charm City Circleator–or Circleator for short–is a Perl-based visualization tool developed at the Institute for Genome Sciences in the University of Maryland’s School of Medicine.
+    - [circlize](https://github.com/jokergoo/circlize) - Circular layout is an efficient way for the visualization of huge amounts of information.
+    - [Circos](http://circos.ca/) - Circos is a software package for visualizing data and information.
+    - [CircosJS](https://github.com/nicgirault/circosJS) - Circos is a javascript library to easily build interactive graphs in a circular layout. It's based on d3.js.
+    - [DNAPlotter](https://www.sanger.ac.uk/science/tools/dnaplotter) - An interactive Java application for generating circular and linear representations of genomes.
+    - [GenomeProjector](https://github.com/gaou/g-language/wiki) - The G-language Genome Analysis Environment is a generic genome analysis environment
+    - [JupiterPlot](https://github.com/JustinChu/JupiterPlot) - A Circos-based tool to visualize genome assembly consistency
+    - [OGDRAW](https://chlorobox.mpimp-golm.mpg.de/OGDraw.html) - OrganellarGenomeDRAW converts annotations in the GenBank or EMBL/ENA format into graphical maps. The input has to be a GenBank or EMBL/ENA flat file wherase the output can vary among several types of files.
+    - [Gview](https://server.gview.ca/examples) - GView Server is a comparative genomics server and front end to GView, a circular and linear genome viewer. 
+    - [RegulomeExplorer](http://explorer.cancerregulome.org/all_pairs/?dataset=TCGA_ACC)
+    - [Proksee](https://proksee.ca/) - Proksee is an expert system for genome assembly, annotation and visualization. 
+- Synthetic biology
+    - [seqviz](https://github.com/Lattice-Automation/seqviz#viewer) - DNA sequence viewer supporting custom, GenBank, FASTA, NCBI accession, and iGEM input.
+    - [ApE (a plasmid editor)](https://jorgensen.biology.utah.edu/wayned/ape/)
+    - [Chopchop](http://chopchop.cbu.uib.no/) - CHOPCHOP (version 3) is a web tool for selecting target sites for CRISPR/Cas9, CRISPR/Cpf1, CRISPR/Cas13 or NICKASE/TALEN-directed mutagenesis.
+- Special-purpose
+    - [Apollo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151184/) - The well-established inaccuracy of purely computational methods for annotating genome sequences necessitates an interactive tool to allow biological experts to refine these approximations by viewing and independently evaluating the data supporting each annotation.
+    - [D3GB](http://d3gb.usal.es/) - D3GB is an interactive Web genome browser that can be easily integrated in analysis protocols and shared on the Web.
+    - [EaSeq](https://easeq.net/screenshots/) - EaSeq is a software environment developed for interactive exploration, visualization and analysis of genome-wide sequencing data – mainly ChIP-seq. 
+    - [FluentDNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7203487/)  - Nucleotide Visualization of Whole Genomes, Annotations, and Alignments
+    - [Gnomad browser](https://github.com/macarthur-lab/gnomadjs) - JavaScript tools for exploring genomic data.
+    - [IslandViewer and IslandPlot](https://bl.ocks.org/lairdm/c6c235dbfa6e6ee61565) - Some basic functionality of GenomeD3Plot is shown for a linear plot, mouse drag and scrollwheel are enabled on the linear plot to change the view in focus.
+    - [MagicViewer](http://bioinformatics.zj.cn/magicviewer/)
+    - [Panoptes](https://www.malariagen.net/apps/ag1000g/phase1-AR3/index.html) - This web application provides an interactive view of data released by the Anopheles gambiae 1000 genomes project (Ag1000G), an international collaboration using whole-genome deep sequencing to study genetic variation in the Anopheles mosquitoes that transmit malaria in Africa.
+    - [NGB](https://github.com/epam/NGB) - New Genome Browser (NGB) - a Web - based NGS data viewer with unique Structural Variations (SVs) visualization capabilities, high performance, scalability, and cloud data support
+    - [SeqCover](https://brentp.github.io/seqcover/#gene=AIFM1)
+    - [SEQing](https://github.com/malewins/SEQing) - SEQing: interactive web-based tool for visualization of iCLIP and RNA-seq data.
+    - [SFARI](https://gene.sfari.org/database/human-gene/) - SFARI Gene is an evolving database for the autism research community that is centered on genes implicated in autism susceptibility.
+    - [Short read assembly browser](https://rapdb.dna.affrc.go.jp/AssemblyBrowser2/index.html?ref=%22chr01%22&run_id=%22G4toI1%22&start=%22234780%22&end=%22236631%22)
+    - [SNPitty](https://bitbucket.org/ccbc/snpitty/src/master/) - An intuitive web-application for interactive B-allele frequency and copy-number visualization of next generation sequencing data.
+    - [Staden](https://sourceforge.net/projects/staden/) - A fully developed set of DNA sequence assembly (Gap4 and Gap5), editing and analysis tools (Spin) for Unix, Linux, MacOSX and MS Windows.
+    - [TASUKE](https://ricegenome.dna.affrc.go.jp/) - This is the genome browser 'TASUKE with GWAS'.
+    - [UGENE](http://ugene.net/) - UGENE is free open-source cross-platform bioinformatics software It works perfectly on Windows, macOS and Linux and requires only a few clicks to install
+    - [Varsome](https://varsome.com/security-validation/?next=/variant/hg19/NM_000088.3(COL1A1):c.658C%3ET)
+    - [Vials](http://vials.io/) - Visualizing Alternative Splicing in Genes
+    - [wasm bigwig demo browser](https://shk656461.github.io/index.html)
+- Expression
+    - [GTEX Locus browser](https://gtexportal.org/home/locusBrowserPage/ACTN3) - Correlations between genotype and tissue-specific gene expression levels will help identify regions of the genome that influence whether and how much a gene is expressed.
+- Population
+    - [GWAS catalog browser](https://www.ebi.ac.uk/gwas/variants/rs1558902) - The NHGRI-EBI Catalog of human genome-wide association studies
+    - [Human genome dating](https://human.genome.dating/region/chr1_13250000) - Variants dated using the Genealogical Estimation of Variant Age (GEVA) method
+    - [PopSV](https://github.com/jmonlong/PopSV/blob/master/3-Visualization.md) - Population-based detection of structural variation from High-Throughput Sequencing.
+    - [SWAV](http://swav.popgenetics.net/) - The sliding window analysis viewer (SWAV), is a web-based program to integrate, view and browse sliding window test statistics and genome annotations. 
+- Assembly QC
+    - [Icarus QUAST](http://quast.sourceforge.net/icarus.html) - Icarus is a novel genome visualizer for accurate assessment and analysis of genomic draft assemblies, which is based on QUAST genome quality assessment tool.
+- Exotic
+    - [BigTop](https://blog.dnanexus.com/2019-05-21-bigtop-data-visualization/) - an innovative virtual reality platform that allows you to interact with your data in a totally new way.
+    - [Cylindrical alignment app](https://sourceforge.net/projects/cylindrical-alignment-app/) - The Cylindrical Alignment App is the successor to Cylindrical BLAST Viewer. 
+    - [sockeye](https://www.bcgsc.ca/resources/software/sockeye) - Sockeye is a Java application designed to assemble, view and work with genomic information in a 3D environment. 
+    - [spinteny](https://github.com/skinner/spinteny) - Spinteny is a prototype tool for visualizing the similarities between the genomes of different species. 
+- Epigenomics
+    - [Chip Monk](http://www.bioinformatics.babraham.ac.uk/projects/chipmonk/) - A tool to visualise and analyse ChIP-on-chip array data
+    - [Chipster](https://chipster.csc.fi/) - Chipster is a user-friendly analysis software for high-throughput data such as RNA-seq and single cell RNA-seq. 
+    - [cisGenome Browser](https://jhui2014.github.io/browser/screenshots.html) - Several tracks of signals together with gene structures, folded with respect to the gene structures so that the empty spaces between genes and exons are packed.
+    - [Epilogos](https://epilogos.altius.org/) - epilogos provides summarized views of large amounts of genome-wide datasets
+    - [Epiviz](https://epiviz.github.io/) - Epiviz is an interactive visualization tool for functional genomics data. 
+    - [HiPiler](http://hipiler.higlass.io)
+    - [Juicebox](https://github.com/aidenlab/Juicebox) - Visualization and analysis software for Hi-C data
+    - [Juicebox.js](http://www.igv.org/doc/juiceboxjs.html) - Visualization and analysis software for Hi-C data
+    - [Peax](https://github.com/Novartis/peax) - Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders
+- Ideogram
+    - [eweitz/Ideogram](https://github.com/eweitz/ideogram) - Ideogram.js is a JavaScript library for chromosome visualization.
+    - [Ideogram](https://github.com/RCollins13/HumanIdiogramLibrary) - A resource of vector art for schematics (i.e. 'idiograms') of all 24 human chromosomes
+    - [Ideoplot](https://github.com/mchaisso/Ideoplot) - Simple R script for plotting ideograms and annotating with bed files.
+    - [karyoploteR](https://github.com/bernatgel/karyoploteR) - karyoploteR - An R/Bioconductor package to plot arbitrary data along the genome
+    - [KaryotypeSVG](https://github.com/andreasprlic/karyotypeSVG) - A javascript library to generate SVG based ideograms of chromosomes showing cytogenetic bands
+    - [NCBI Genome Decoration](https://www.ncbi.nlm.nih.gov/genome/tools/gdp/)
+    - [UCSC Genome Graphs](http://genome.ucsc.edu/cgi-bin/hgGenome)
+    - [genomegraphs](http://bioconductor.org/packages/2.5/bioc/vignettes/GenomeGraphs/inst/doc/GenomeGraphs.pdf) - Genomic data analyses can benifit from integrated visualization of the genomic information.
+    - [IdeoViz](https://www.bioconductor.org/packages/release/bioc/vignettes/IdeoViz/inst/doc/Vignette.pdf) - Plotting discrete or continuous dataseries in the context of chromosomal location has several useful applications in genomic analysis.
+    - [Flash Gviewer](http://gmod.org/wiki/Flashgviewer/) - Flash GViewer is a customizable Flash movie that can be easily inserted into a web page to display each chromosome in a genome along with the locations of individual features on the chromosomes.
+    - [Ideogram viewer](https://bioinformatics.mdanderson.org/public-software/ideogramviewer/) - Ideograms provide a schematic representation of chromosomes. 
+- Pangenome
+    - [Pan-Tetris](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4547177/) - We introduce Pan-Tetris, a Java based interactive software tool that provides a clearly structured and suitable way for the visual inspection of gene occurrences in a pan-genome table.
+    - [Panacaea](https://github.com/JCVenterInstitute/PanACEA) - PanACEA is a suite of PERL scripts that allows users to create an interconnected set of html, javascript and json files that allows for visualization of prokaryotic pan-chromosomes, including core and variable regions.
+    - [Panache](https://github.com/SouthGreenPlatform/panache) - Panache is a web-based interface designed for the visualization of linearized pangenomes.
+    - [panX](http://pangenome.tuebingen.mpg.de/) - panX is a software package for comprehensive analysis, interactive visualization and dynamic exploration of bacterial pan-genomes.
+    - [RPAN (3kricedb)](http://cgm.sjtu.edu.cn/3kricedb/visualization/?tracks=DNA%2Cgene%2CPF) - The cultivated rice, Oryza sativa L., is one of the major staple food for the world and a model organism in plant biology. 
+    - [PGAP-X](https://pgapx.zhaopage.com/) - PGAP-X is a microbial comparative genomic analysis platform with graphic interface.
+    - [PGV](https://github.com/ucrbioinfo/PGV) - The pan-genome of a species is the union of the genes and non-coding sequences present in all individuals (cultivar, accessions,or strains) within that species. 
+    - [Phandango](https://jameshadfield.github.io/phandango/#/examples) - Phandango is a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results.
+- Protein
+    - [Protael](http://sanshu.github.io/protaelweb/)
+    - [ProteinPaint](https://pecan.stjude.cloud/proteinpaint)
+    - [pViz](https://github.com/Genentech/pviz) - pViz.js: a dynamic JavaScript & SVG library for visualization of protein sequence features
+    - [Aquaria](http://aquaria.ws/Q9HD67/5i0i/A)
+    - [nightingale/protvista](https://ebi-webcomponents.github.io/nightingale/#/msa) - Nightingale is a library of re-usable data visualisation Web Components, which can be used to display protein sequence features (ProtVista), variants, interaction data, 3D structure, etc.
+- Heatmap
+    - [UCSC Xena](https://xena.ucsc.edu/) - An online exploration tool for public and private, multi-omic and clinical/phenotype data
+    - [VIVA](https://www.biorxiv.org/content/10.1101/589879v1.full.pdf) - we describe a user-friendly visualization tool for variant call format (VCF) files with which the users can interactively evaluate and share genomic data, as well as create publication quality graphics.
+
+- Repeats
+    - [REPAVER](https://gitlab.com/gringer/bioinfscripts/)
+    - [GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer) - Visualize the pileup of read alignments to a STR locus (or any path in the sequence graph) for one or more samples.
+    - [REViewer](https://github.com/Illumina/REViewer) - A tool for visualizing alignments of reads in regions containing tandem repeats
+- Historical
+    - [Internet Contig Explorer](https://www.bcgsc.ca/resources/software/ice) - The increased interest in fingerprint maps has spawned a need in the research community for intuitive computer tools that facilitate viewing of the maps and the underlying fingerprint data. 
+- QC
+    - [ALVIS (chimeric alignment viewer)](https://github.com/SR-Martin/alvis)
+    - [vcfR](https://knausb.github.io/vcfR_documentation/) - The R package vcfR is a set of tools designed to read, write, manipulate and analyze VCF data.
+- Methylation
+    - [NanoMethViz](http://www.bioconductor.org/packages/release/bioc/html/NanoMethViz.html) - NanoMethViz is a toolkit for visualising methylation data from Oxford Nanopore sequencing. 
+    - [AnnoJ](https://brainome.ucsd.edu/howto_annoj.html) - The AnnoJ browser displays epigenomic data, including base-resolution DNA methylation (methylC-Seq/whole genome bisulfite sequencing), RNA-Seq, ChIP-Seq, as well as annotations.
+- Phylogenetics
+    - [Nextclade](https://clades.nextstrain.org/) - Clade assignment, mutation calling, and sequence quality checks
+    - [Gingr](https://harvest.readthedocs.io/en/latest/content/gingr.html) - Gingr is an interactive tool for exploring large-scale phylogenies in tandem with their corresponding multi-alignments.
+- Uncategorized
+    - [methylartist](https://github.com/adamewing/methylartist) - Tools for parsing and plotting methylation patterns from nanopore data
+    - [Haploview](https://www.broadinstitute.org/haploview/haploview) - Haploview is designed to simplify and expedite the process of haplotype analysis by providing a common interface to several tasks relating to such analyses. 
+    - [Smash++](https://github.com/smortezah/smashpp) - A fast tool to find and visualize rearrangements in DNA sequences.
+    - [plotsr](https://github.com/schneebergerlab/plotsr) - Plotsr generates high-quality visualisation of synteny and structural rearrangements between multiple genomes. 
+- Assembly
+    - [vega](http://vega.archive.ensembl.org/Homo_sapiens/Location/Chromosome?r=6-QBL)
+    - [MIRA](http://mira-assembler.sourceforge.net/docs/DefinitiveGuideToMIRA.html) - Sequence assembly and mapping with MIRA 5
+- Coverage
+    - [wiggleplotr](http://bioconductor.org/packages/devel/bioc/vignettes/wiggleplotr/inst/doc/wiggleplotr.html) - wiggleplotr is a tool to visualise RNA-seq read overage accross annotated exons. 
+    - [Trackplot](https://github.com/PoisonAlien/trackplot) - Generate IGV style locus tracks from bigWig files in R
+- Splicing
+    - [splicejam](https://github.com/jmw86069/splicejam) - Sashimi plots for RNA-seq data using detected transcripts
+    - [Slinker](https://github.com/Oshlack/Slinker) - Slinker offers a succinct and complementary method to visualise RNA-Seq data through superTranscripts.
+- Hi-C
+    - [Plotgardener](https://github.com/PhanstielLab/plotgardener/) - plotgardener is a genomic data visualization package for R.
+    - [gcMapExplorer](https://github.com/rjdkmr/gcMapExplorer) - It is a platform to visualize and analyze the contact maps that are generated from Hi-C experiments. 
+- Manhattan
+    - [ggplot2 manhattan plot](https://danielroelfs.com/blog/how-i-create-manhattan-plots-using-ggplot/) - There’s a number of online tools that create Manhattan plots for you, it’s implemented in a number of toolboxes that are often used in genetics, and there’s a couple of packages for R that can create these plots.
+
+## Learn
+- single-cell
+    - [Harvard Informatics fastq to VCF](https://informatics.fas.harvard.edu/whole-genome-resquencing-for-population-genomics-fastq-to-vcf.html) - Targeted for non-model organisms.
+    - [Guided Analyses with Seurat](https://github.com/harvardinformatics/learning-bioinformatics-at-home) - We provide a series of vignettes, tutorials, and analysis walkthroughs to help users get started with Seurat. You can also check out our Reference page which contains a full list of functions available to users.
+
+## RunAndTests
+- tool
+    - [blast](https://www.flowhub.com.cn/repo/display/Blastn)
+    - [makeblastdb](https://www.flowhub.com.cn/repo/GaoZijian/makeblastdb_blast)
+    - [Mafft](https://www.flowhub.com.cn/repo/flowhub_team/Mafft)
+    - [Muscle](https://www.flowhub.com.cn/repo/flowhub_team/Muscle)
+    - [BWA-index](https://www.flowhub.com.cn/repo/flowhub_team/BWA-index)
+    - [Hisat2](https://www.flowhub.com.cn/repo/flowhub_team/Hisat2)
+    - [Bedtools](https://www.flowhub.com.cn/repo/wangfei/bedtools)
+    - [bowtie2](https://www.flowhub.com.cn/repo/wangfei/bowtie2)
+    - [megahit](https://www.flowhub.com.cn/repo/wangfei/megahit)
+- [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
