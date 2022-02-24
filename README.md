@@ -3,7 +3,7 @@
 A collection of awesome things regarding all of omics.
 ## Contents
 - [Commons](/COMMON.md) - General Resources for Omics
-- [Genomics](/GENOMICS)
+- [Genomics](/GENOMICS) - Genomics Resources collection
 - [Epigenomics](#Epigenomics)
 - [Microbiomics](#Microbiomics)
 - [Lipidomics](#Lipidomics)
