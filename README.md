@@ -1,13 +1,20 @@
 ### **Awesome omics**
 
-A collection of awesome things regarding the all of omics.
+A collection of awesome things regarding all of omics.
 ## Contents
-- [Tools](#tools)
-- [Pipelines](#pipelines)
-- [Datasets](#datasets)
-- [Visualization](#visualization)
-- [Learn](#learn)
-- [RunAndTests](#RunAndTests)
+- [Commons](/COMMON.md) - General Resources for Omics
+- [Genomics](#Genomics)
+- [Epigenomics](#Epigenomics)
+- [Microbiomics](#Microbiomics)
+- [Lipidomics](#Lipidomics)
+- [Proteomics](#Proteomics)
+- [Glycomics](#Glycomics)
+- [Foodomics](#Foodomics)
+- [Transcriptomics](#Transcriptomics)
+- [Metabolomics](#Metabolomics)
+- [Nutrition](#Nutrition)
+- [Pharmacology](#Pharmacology)
+- [Toxicology](#Toxicology)
 
 ## Tools
 - DataDownload
@@ -553,7 +560,7 @@ helps you focus on the science
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [biotools](https://github.com/jdidion/biotools)
 
-The project welcomes any life science industry physician to merge request.
+The project welcomes any Bioinfomatics industry physician to merge request.
         
 
 
