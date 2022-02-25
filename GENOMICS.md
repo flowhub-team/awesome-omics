@@ -1,52 +1,52 @@
 ### **Genomics**
-
-
 General Resources for Genomics Omics
+
 ## Contents
 - [Tools](#Tools)
 - [Pipelines](#Pipelines)
 - [Datasets](#Datasets)
 - [Visualization](#Visualization)
 - [Learn](#Learn)
+- [RunAndTests](#RunAndTests)
 
 ## Tools
-    - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
-    - [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
-    - [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
-    - [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files. 
-    - [bcftools](https://github.com/samtools/bcftools) - samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants.
-    - [bam toolbox](https://github.com/AndersenLab/bam-toolbox) MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
-    - [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks) - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.
-    - [Delly](https://github.com/dellytools/delly)- Structural variant discovery by integrated paired-end and split-read analysis.
-    - [DeepVariant](https://github.com/google/deepvariant) - Deep learning-based variant caller
-    - [fastp](https://github.com/OpenGene/fastp) - A tool designed to provide fast all-in-one preprocessing for FastQ files. This tool is developed in C++ with multithreading supported to afford high performance.
-    - [FastQC](https://github.com/s-andrews/FastQC) - A quality control tool for high throughput sequence data.
-    - [Fastqp](https://github.com/mdshw5/fastqp) - FASTQ and SAM quality control using Python.
-    - [Fastx Tookit](https://github.com/agordon/fastx_toolkit) - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
-    - [freebayes](https://github.com/ekg/freebayes) - Bayesian haplotype-based polymorphism discovery and genotyping.
-    - [GATK](https://github.com/broadinstitute/gatk) - Variant Discovery in High-Throughput Sequencing Data. 
-    - [gridss](https://github.com/PapenfussLab/gridss) - GRIDSS: the Genomic Rearrangement IDentification Software Suite.
-    - [lumpy](https://github.com/arq5x/lumpy-sv) - lumpy: a general probabilistic framework for structural variant discovery.
-    - [MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report. 
-    - [MUMmer](https://github.com/mummer4/mummer) - A system for rapidly aligning entire genomes, whether in complete or draft form.
-    - [MMseqs2](https://github.com/soedinglab/MMseqs2) - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets.
-    - [manta](https://github.com/Illumina/manta) - Structural variant and indel caller for mapped sequencing data.
-    - [mergesam](https://github.com/DarwinAwardWinner/mergesam) - Automate common SAM & BAM conversions.
-    - [mosdepth](https://github.com/brentp/mosdepth) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
-    - [Octopus](https://github.com/luntergroup/octopus) - A polymorphic bayesian genotyping model with wide applicability. 
-    - [POA](https://github.com/ljdursi/poapy) - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences.
-    - [Parasail](https://github.com/jeffdaily/parasail) - SIMD C library for global, semi-global, and local pairwise sequence alignments
-    - [RSEM](https://github.com/deweylab/RSEM) - A software package for estimating gene and isoform expression levels from RNA-Seq data.
-    - [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
-    - [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. 
-    - [seqmagick](https://github.com/fhcrc/seqmagick) - file format conversion in Biopython in a convenient way.
-    - [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
-    - [smoove](https://github.com/brentp/smoove) - structural variant calling and genotyping with existing tools, but,smoothly.
-    - [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA manipulation tools.
-    - [SAMstat](https://github.com/TimoLassmann/samstat) - Displaying sequence statistics for next-generation sequencing. 
-    - [Somalier](https://github.com/brentp/somalier) - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. 
-    - [Telseq](https://github.com/zd1/telseq) - Telseq is a tool for estimating telomere length from whole genome sequence data. 
-    - [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
+- [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
+- [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
+- [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
+- [Bamtools](https://github.com/pezmaster31/bamtools) - Collection of tools for working with BAM files. 
+- [bcftools](https://github.com/samtools/bcftools) - samtools/bcftools are a suite of tools for manipulating NGS data and can be used to call variants.
+- [bam toolbox](https://github.com/AndersenLab/bam-toolbox) MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
+- [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks) - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.
+- [Delly](https://github.com/dellytools/delly)- Structural variant discovery by integrated paired-end and split-read analysis.
+- [DeepVariant](https://github.com/google/deepvariant) - Deep learning-based variant caller
+- [fastp](https://github.com/OpenGene/fastp) - A tool designed to provide fast all-in-one preprocessing for FastQ files. This tool is developed in C++ with multithreading supported to afford high performance.
+- [FastQC](https://github.com/s-andrews/FastQC) - A quality control tool for high throughput sequence data.
+- [Fastqp](https://github.com/mdshw5/fastqp) - FASTQ and SAM quality control using Python.
+- [Fastx Tookit](https://github.com/agordon/fastx_toolkit) - FASTQ/A short-reads pre-processing tools: Demultiplexing, trimming, clipping, quality filtering, and masking utilities.
+- [freebayes](https://github.com/ekg/freebayes) - Bayesian haplotype-based polymorphism discovery and genotyping.
+- [GATK](https://github.com/broadinstitute/gatk) - Variant Discovery in High-Throughput Sequencing Data. 
+- [gridss](https://github.com/PapenfussLab/gridss) - GRIDSS: the Genomic Rearrangement IDentification Software Suite.
+- [lumpy](https://github.com/arq5x/lumpy-sv) - lumpy: a general probabilistic framework for structural variant discovery.
+- [MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report. 
+- [MUMmer](https://github.com/mummer4/mummer) - A system for rapidly aligning entire genomes, whether in complete or draft form.
+- [MMseqs2](https://github.com/soedinglab/MMseqs2) - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets.
+- [manta](https://github.com/Illumina/manta) - Structural variant and indel caller for mapped sequencing data.
+- [mergesam](https://github.com/DarwinAwardWinner/mergesam) - Automate common SAM & BAM conversions.
+- [mosdepth](https://github.com/brentp/mosdepth) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
+- [Octopus](https://github.com/luntergroup/octopus) - A polymorphic bayesian genotyping model with wide applicability. 
+- [POA](https://github.com/ljdursi/poapy) - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences.
+- [Parasail](https://github.com/jeffdaily/parasail) - SIMD C library for global, semi-global, and local pairwise sequence alignments
+- [RSEM](https://github.com/deweylab/RSEM) - A software package for estimating gene and isoform expression levels from RNA-Seq data.
+- [SeqFu](https://github.com/telatin/seqfu2) - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim.
+- [SeqKit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang. 
+- [seqmagick](https://github.com/fhcrc/seqmagick) - file format conversion in Biopython in a convenient way.
+- [Seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+- [smoove](https://github.com/brentp/smoove) - structural variant calling and genotyping with existing tools, but,smoothly.
+- [smof](https://github.com/incertae-sedis/smof) - UNIX-style FASTA manipulation tools.
+- [SAMstat](https://github.com/TimoLassmann/samstat) - Displaying sequence statistics for next-generation sequencing. 
+- [Somalier](https://github.com/brentp/somalier) - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. 
+- [Telseq](https://github.com/zd1/telseq) - Telseq is a tool for estimating telomere length from whole genome sequence data. 
+- [WFA](https://github.com/smarco/WFA) - the wavefront alignment algorithm (WFA) which expoit sequence similarity to speed up alignment
 
 
 
@@ -184,9 +184,6 @@ helps you focus on the science
     - [STRAP](http://www.bioinformatics.org/strap/) - Intuitive Editor for annotated multiple Sequence and Structure Alignments
     - [TeXShade](https://www.ctan.org/pkg/texshade) - Package for setting nucleotide and peptide alignments
     - [Wasabi](http://wasabiapp.org/)
-
-- Logo
-    - [LogoJS](https://logojs.wenglab.org/app/gallery/) - LogoJS is a Javascipt package for creating SVG sequence logos. 
 
 - CNV
     - [aCNVViewer](https://github.com/FJD-CEPH/aCNViewer) - aCNViewer (Absolute CNV Viewer) is a tool which allows the visualization of absolute CNVs and cn-LOH across a group of cancer samples.
