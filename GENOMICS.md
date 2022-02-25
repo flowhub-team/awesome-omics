@@ -1,6 +1,15 @@
 ### **Genomics**
+
+
 General Resources for Genomics Omics
-- Tools
+## Contents
+- [Tools](#Tools)
+- [Pipelines](#Pipelines)
+- [Datasets](#Datasets)
+- [Visualization](#Visualization)
+- [Learn](#Learn)
+
+## Tools
     - [AfterQC](https://github.com/OpenGene/AfterQC) - Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data. 
     - [Bowtie 2](https://github.com/BenLangmead/bowtie2) - An ultrafast and memory-efficient tool for aligning sequencing reads to long reference sequences. 
     - [BWA](https://github.com/lh3/bwa) - Burrow-Wheeler Aligner for pairwise alignment between DNA sequences.
@@ -464,12 +473,7 @@ helps you focus on the science
     - [PGAP-X](https://pgapx.zhaopage.com/) - PGAP-X is a microbial comparative genomic analysis platform with graphic interface.
     - [PGV](https://github.com/ucrbioinfo/PGV) - The pan-genome of a species is the union of the genes and non-coding sequences present in all individuals (cultivar, accessions,or strains) within that species. 
     - [Phandango](https://jameshadfield.github.io/phandango/#/examples) - Phandango is a fully interactive tool to allow visualisation of a phylogenetic tree, associated metadata and genomic information such as recombination blocks, pan-genome contents or GWAS results.
-- Protein
-    - [Protael](http://sanshu.github.io/protaelweb/)
-    - [ProteinPaint](https://pecan.stjude.cloud/proteinpaint)
-    - [pViz](https://github.com/Genentech/pviz) - pViz.js: a dynamic JavaScript & SVG library for visualization of protein sequence features
-    - [Aquaria](http://aquaria.ws/Q9HD67/5i0i/A)
-    - [nightingale/protvista](https://ebi-webcomponents.github.io/nightingale/#/msa) - Nightingale is a library of re-usable data visualisation Web Components, which can be used to display protein sequence features (ProtVista), variants, interaction data, 3D structure, etc.
+
 - Heatmap
     - [UCSC Xena](https://xena.ucsc.edu/) - An online exploration tool for public and private, multi-omic and clinical/phenotype data
     - [VIVA](https://www.biorxiv.org/content/10.1101/589879v1.full.pdf) - we describe a user-friendly visualization tool for variant call format (VCF) files with which the users can interactively evaluate and share genomic data, as well as create publication quality graphics.
