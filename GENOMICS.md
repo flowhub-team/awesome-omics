@@ -518,13 +518,13 @@ helps you focus on the science
 ## RunAndTests
 - tool
     - [blast](https://www.flowhub.com.cn/repo/display/Blastn)
+    - [Bedtools](https://www.flowhub.com.cn/repo/wangfei/bedtools)
+    - [bowtie2](https://www.flowhub.com.cn/repo/wangfei/bowtie2)
+    - [BWA-index](https://www.flowhub.com.cn/repo/flowhub_team/BWA-index)
+    - [Hisat2](https://www.flowhub.com.cn/repo/flowhub_team/Hisat2)
     - [makeblastdb](https://www.flowhub.com.cn/repo/GaoZijian/makeblastdb_blast)
     - [Mafft](https://www.flowhub.com.cn/repo/flowhub_team/Mafft)
     - [Muscle](https://www.flowhub.com.cn/repo/flowhub_team/Muscle)
-    - [BWA-index](https://www.flowhub.com.cn/repo/flowhub_team/BWA-index)
-    - [Hisat2](https://www.flowhub.com.cn/repo/flowhub_team/Hisat2)
-    - [Bedtools](https://www.flowhub.com.cn/repo/wangfei/bedtools)
-    - [bowtie2](https://www.flowhub.com.cn/repo/wangfei/bowtie2)
     - [megahit](https://www.flowhub.com.cn/repo/wangfei/megahit)
 - pipeline
     - [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
