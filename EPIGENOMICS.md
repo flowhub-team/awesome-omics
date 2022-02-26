@@ -17,3 +17,4 @@ Avocado is a multi-scale deep tensor factorization model that learns a latent re
 
 ## Pipeline
 - [Haystack](https://github.com/pinellolab/haystack_bio) - Epigenetic Variability and Transcription Factor Motifs Analysis Pipeline
+- [TCGAWorkflow](https://github.com/BioinformaticsFMRP/TCGAWorkflow) - Analyze cancer genomics and epigenomics data using Bioconductor packages
