@@ -13,3 +13,4 @@ General Resources for Epigenomics
 - [Avocado](https://github.com/jmschrei/avocado) - About
 Avocado is a multi-scale deep tensor factorization model that learns a latent representation of the human epigenome and enables imputation of epigenomic experiments that have not yet been performed.
 - [Episcanpy](https://github.com/colomemaria/epiScanpy) - EpiScanpy is a toolkit to analyse single-cell open chromatin (scATAC-seq) and single-cell DNA methylation (for example scBS-seq) data. 
+- [Peax](https://github.com/Novartis/peax) - Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders
