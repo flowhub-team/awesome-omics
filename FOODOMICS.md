@@ -7,3 +7,5 @@ General Resources for Foodomics
 - [Visualization](#Visualization)
 - [Learn](#Learn)
 - [RunAndTests](#RunAndTests)
+## Tools
+- [gfop](https://github.com/global-foodomics/gfop) - Current functionality includes generating food counts tables from a molecular network (sample data networked with reference data using classical molecular networking).
