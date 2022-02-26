@@ -6,7 +6,7 @@ A collection of awesome things regarding all of omics.
 - [Genomics](/GENOMICS.md) - Genomics Resources collection
 - [Epigenomics](/EPIGENOMICS.md) - Epigenomics Resource collection
 - [Microbiomics](/MICROBIOMICS.md)
-- [Lipidomics](/LIPIDOMICS.md)
+- [Lipidomics](/LIPIDOMICS.md) - Lipidomics Resources collection
 - [Proteomics](/PROTEOMICS.md) - Proteomics Resources collection
 - [Glycomics](/GLYCOMICS.md)
 - [Foodomics](/FOODOMICS.md)

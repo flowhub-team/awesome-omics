@@ -8,3 +8,6 @@ General Resources for Lipidomics
 - [Visualization](#Visualization)
 - [Learn](#Learn)
 - [RunAndTests](#RunAndTests)
+
+## Tools
+- [lipidr](https://github.com/ahmohamed/lipidr) - Data Mining and Analysis of Lipidomics Datasets in R
