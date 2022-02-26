@@ -8,8 +8,8 @@ A collection of awesome things regarding all of omics.
 - [Microbiomics](/MICROBIOMICS.md) - Microbiomics Resources collection
 - [Lipidomics](/LIPIDOMICS.md) - Lipidomics Resources collection
 - [Proteomics](/PROTEOMICS.md) - Proteomics Resources collection
-- [Glycomics](/GLYCOMICS.md)
-- [Foodomics](/FOODOMICS.md)
+- [Glycomics](/GLYCOMICS.md) - Glycomics Resources collection
+- [Foodomics](/FOODOMICS.md) - Foodomics Resources collection
 - [Transcriptomics](/TRANSCRIPTOMICS.md)
 - [Metabolomics](/METABOLOMICS.md)
 - [Nutrition](/NUTRITION.md)
