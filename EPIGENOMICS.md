@@ -9,8 +9,11 @@ General Resources for Epigenomics
 - [RunAndTests](#RunAndTests)
 
 ## Tools
-- [cisTopic](https://github.com/aertslab/cisTopic) - cisTopic is an R-package to simultaneously identify cell states and cis-regulatory topics from single cell epigenomics data.
 - [Avocado](https://github.com/jmschrei/avocado) - About
 Avocado is a multi-scale deep tensor factorization model that learns a latent representation of the human epigenome and enables imputation of epigenomic experiments that have not yet been performed.
+- [cisTopic](https://github.com/aertslab/cisTopic) - cisTopic is an R-package to simultaneously identify cell states and cis-regulatory topics from single cell epigenomics data.
 - [Episcanpy](https://github.com/colomemaria/epiScanpy) - EpiScanpy is a toolkit to analyse single-cell open chromatin (scATAC-seq) and single-cell DNA methylation (for example scBS-seq) data. 
 - [Peax](https://github.com/Novartis/peax) - Peax is a tool for interactive visual pattern search and exploration in epigenomic data based on unsupervised representation learning with autoencoders
+
+## Pipeline
+- [Haystack](https://github.com/pinellolab/haystack_bio) - Epigenetic Variability and Transcription Factor Motifs Analysis Pipeline
