@@ -5,7 +5,7 @@ A collection of awesome things regarding all of omics.
 - [Commons](/COMMON.md) - General Resources for Omics
 - [Genomics](/GENOMICS.md) - Genomics Resources collection
 - [Epigenomics](/EPIGENOMICS.md) - Epigenomics Resource collection
-- [Microbiomics](/MICROBIOMICS.md)
+- [Microbiomics](/MICROBIOMICS.md) - Microbiomics Resources collection
 - [Lipidomics](/LIPIDOMICS.md) - Lipidomics Resources collection
 - [Proteomics](/PROTEOMICS.md) - Proteomics Resources collection
 - [Glycomics](/GLYCOMICS.md)

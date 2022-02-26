@@ -8,3 +8,6 @@ General Resources for Microbiomics
 - [Visualization](#Visualization)
 - [Learn](#Learn)
 - [RunAndTests](#RunAndTests)
+
+## Tools
+- [microbiomics](https://github.com/tvatanen/microbiomics) - Tools for microbiome data analysis
