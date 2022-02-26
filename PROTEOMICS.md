@@ -9,6 +9,7 @@ General Resources for Protein Omics
 - [Learn](#Learn)
 - [RunAndTests](#RunAndTests)
 ## Tool
+- [pwiz](https://github.com/ProteoWizard/pwiz) - The ProteoWizard Library and Tools are a set of modular and extensible open-source, cross-platform tools and software libraries that facilitate proteomics data analysis.
 - [alphafold](https://github.com/deepmind/alphafold) - AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
 # Datasets
