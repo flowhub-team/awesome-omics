@@ -10,6 +10,10 @@ General Resources for Protein Omics
 - [RunAndTests](#RunAndTests)
 ## Tool
 - [alphafold](https://github.com/deepmind/alphafold) - AlphaFold is an AI system developed by DeepMind that predicts a protein’s 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
+
+# Datasets
+- [PyPDB](https://github.com/williamgilpin/pypdb) - A Python 3 toolkit for performing searches with the RCSB Protein Data Bank (PDB). 
+
 ## Visualization
 - [Protael](http://sanshu.github.io/protaelweb/)
 - [ProteinPaint](https://pecan.stjude.cloud/proteinpaint)
