@@ -11,7 +11,7 @@ A collection of awesome things regarding all of omics.
 - [Glycomics](/GLYCOMICS.md) - Glycomics Resources collection
 - [Foodomics](/FOODOMICS.md) - Foodomics Resources collection
 - [Transcriptomics](/TRANSCRIPTOMICS.md) - Transcriptomics Resources collection
-- [Metabolomics](/METABOLOMICS.md)
+- [Metabolomics](/METABOLOMICS.md) - Metabolomics Resources collection
 - [Nutrition](/NUTRITION.md)
 - [Pharmacology](/PHARMACOLOGY.md)
 - [Toxicology](/TOXICOLOGY.md)
