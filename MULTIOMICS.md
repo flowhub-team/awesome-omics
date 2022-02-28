@@ -21,3 +21,13 @@ General Resources for Multi-Omics
 - [pandaR](https://bioconductor.org/packages/release/bioc/html/pandaR.html) - Schlauch - Passing Attributes between Networks for Data Assimilation
 - [omicade4](https://bioconductor.org/packages/omicade4) - Meng - MCIA: multiple co-interia analysis
 - [STATegRa](https://bioconductor.org/packages/STATegRa) - Planell - DISCO, JIVE, & O2PLS
+- [GFAsparse](https://research.cs.aalto.fi/pml/software/GFAsparse/) - Khan - group factor analysis sparse
+- [CCAGFA](https://cran.r-project.org/package=CCAGFA) - Klami - Bayesian Canonical Correlation Analysis and Group Factor Analysis
+- [CMF](https://cran.r-project.org/package=CMF) - Klami - collective matrix factorization
+- [moGSA](https://bioconductor.org/packages/mogsa) - Meng - multi-omics gene set analysis
+- [iNMF](https://github.com/yangzi4/iNMF) - Yang - integrative NMF
+- [BASS](https://github.com/judyboon/BASS) - Zhao - Bayesian group factor analysis
+- `imputeMFA` in [missMDA](https://cran.r-project.org/web/packages/missMDA/index.html) - Voillet - multiple imputation for multiple factor analysis (MI-MFA)
+- [PLSCA](https://github.com/derekbeaton/PLSCA_Framework) - Beaton - Partial Least Square Correspondence Analysis
+- [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - various methods
+- [mixedCCA](https://github.com/irinagain/mixedCCA) - Yoon - sparse CCA for data of mixed types
