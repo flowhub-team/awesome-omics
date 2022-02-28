@@ -3,6 +3,7 @@
 A collection of awesome things regarding all of omics.
 ## Contents
 - [Commons](/COMMON.md) - General Resources for Omics
+- [MultiOmics](/MULTIOMICS.md) - Multi-Omics Resources collection
 - [Genomics](/GENOMICS.md) - Genomics Resources collection
 - [Epigenomics](/EPIGENOMICS.md) - Epigenomics Resource collection
 - [Microbiomics](/MICROBIOMICS.md) - Microbiomics Resources collection
