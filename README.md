@@ -21,6 +21,7 @@ A collection of awesome things regarding all of omics.
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
 - [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [biotools](https://github.com/jdidion/biotools)
+- [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics)
 
 The project welcomes any Bioinfomatics industry physician to merge request.
         
