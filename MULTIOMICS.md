@@ -75,3 +75,4 @@ General Resources for Multi-Omics
   - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV))
   - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis
   - [CoSpar](https://cospar.readthedocs.io/) - Wang - infer dynamics by integrating state and lineage information
+  - [MSFA](https://github.com/rdevito/MSFA) - De Vito - multi-study factor analysis: same features, different samples

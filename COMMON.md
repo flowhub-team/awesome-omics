@@ -15,7 +15,8 @@ General Resources for Omics
 
 - DataCompress
     - [Genozip](https://github.com/divonlan/genozip) - Genozip is a universal compressor for genomic files - it compresses FASTQ, BAM/CRAM, VCF and many other file formats (including non-genomic files)
-
+- DataManage
+    - [MultiAssayExperiment](https://bioconductor.org/packages/MultiAssayExperiment/) - Ramos - Software for the integration of multi-omics experiments in Bioconductor
 ## Visualization
 - Logo
     - [LogoJS](https://logojs.wenglab.org/app/gallery/) - LogoJS is a Javascipt package for creating SVG sequence logos. 
