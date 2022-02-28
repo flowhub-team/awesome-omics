@@ -31,3 +31,10 @@ General Resources for Multi-Omics
 - [PLSCA](https://github.com/derekbeaton/PLSCA_Framework) - Beaton - Partial Least Square Correspondence Analysis
 - [mixOmics](https://bioconductor.org/packages/mixOmics) - Rohart - various methods
 - [mixedCCA](https://github.com/irinagain/mixedCCA) - Yoon - sparse CCA for data of mixed types
+- [SLIDE](https://github.com/irinagain/SLIDE_Rpackage) - Gaynanova - Structural Learning and Integrative Decomposition of Multi-View Data
+- [fCCAC](https://github.com/pmb59/fCCAC/) - Madrigal - functional canonical correlation analysis to evaluate covariance
+- [TSKCCA](https://github.com/kosyoshida/TSKCCA) - Yoshida - Sparse kernel canonical correlation analysis
+- [AJIVE](https://github.com/idc9/r_jive) - Feng - angle-based JIVE
+- [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis
+- [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown
+- [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis
