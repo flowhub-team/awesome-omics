@@ -38,3 +38,16 @@ General Resources for Multi-Omics
 - [MOFA](https://github.com/bioFAM/MOFA) - Argelaguet - multi-omics factor analysis
 - [PCA+CCA](https://github.com/pachterlab/PCACCA/) - Brown
 - [JACA](https://github.com/Pennisetum/JACA) - Zhang - Joint Association and Classification Analysis
+- [pCIA](https://www.med.upenn.edu/long-lab/software.html) - Min - penalized COI
+- [OmicsPLS](https://github.com/selbouhaddani/OmicsPLS) - Bouhaddani  - O2PLS implemented in R, with an alternative cross-validation scheme
+- [SCCA-BC](https://github.com/pimentel/scca-bc) - Pimentel - Biclustering by sparse canonical correlation analysis
+- [WON-PARAFAC](https://github.com/NKI-CCB/won-parafac) - Kim - weighted orthogonal nonnegative parallel factor analysis
+- [BIDIFAC](https://github.com/lockEF/bidifac) - Park - bidimensional integrative factorization
+- [SmCCNet](https://cran.r-project.org/web/packages/SmCCNet/index.html) - Shi - sparse multiple canonical correlation network analysis
+- [msPLS](https://github.com/acsala/sPLSPM) - Csala - multiset sparse partial least squares path modeling
+- [D-CCA](https://github.com/shu-hai/D-CCA) - Shu - Decomposition-based Canonical Correlation Analysis
+- [COMBI](https://bioconductor.org/packages/combi) - Hawinkel - Compositional Omics Model-Based Integration
+- [DPCCA](https://github.com/gwgundersen/dpcca) - Gundersen - Deep Probabilistic CCA
+- [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships
+- [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments
+- [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types
