@@ -51,3 +51,27 @@ General Resources for Multi-Omics
 - [MEFISTO](https://biofam.github.io/MOFA2/MEFISTO.html) - Velten - spatial or temporal relationships
 - [MultiPower](https://github.com/ConesaLab/MultiPower) - Tarazona - Sample size in multi-omic experiments
 - [mixedCCA](https://cran.r-project.org/web/packages/mixedCCA/) - Yoon - Sparse semiparametric CCA for data of mixed types
+- [ade4](https://CRAN.r-project.org/package=ade4) - Dray - Implementing the Duality Diagram for Ecologists
+ - [THEME](https://github.com/ThomData/R_THEME) - Verron - THEmatic Model Exploration
+ - [iCluster](https://cran.r-project.org/package=iCluster) - Shen
+ - [MDI](https://warwick.ac.uk/fac/cross_fac/zeeman_institute/zeeman_research/software/) - Kirk
+ - [iClusterPlus](https://bioconductor.org/packages/iClusterPlus) - Mo
+ - [BCC](https://github.com/ttriche/bayesCC) - Lock - Bayesian consensus clustering
+ - [iBAG](https://github.com/umich-biostatistics/iBAG) - Wang - Integrative Bayesian Analysis of Genomics
+ - [SNF](http://compbio.cs.toronto.edu/SNF/SNF/Software.html) - Wang
+ - [clusternomics](https://cran.r-project.org/web/packages/clusternomics/index.html) - Gabasova
+ - [IBOOST](http://dlin.web.unc.edu/software/iboost/) - Wong
+ - [Spectrum](https://cran.r-project.org/web/packages/Spectrum/index.html) - John
+  - [INF](https://gitlab.fbk.eu/MPBA/INF) - Chierici and Bussola
+  - [maui](https://github.com/BIMSBbioinfo/maui) - Ronen - Stacked VAE + clustering predictive of survival
+  - [IntegrativeVAEs](https://github.com/CancerAI-CL/IntegrativeVAEs) - Simidjievski - Variational autoencoders + classification
+  - [DeepProg](https://github.com/lanagarmire/DeepProg) - Poirion - DL and ML ensemble + survival prediction
+  - [SHAE](https://github.com/BoevaLab/Supervised-hierarchical-autoencoders-for-cancer-survival) - Wissel - Supervised Hierarchical Autoencoder + survival prediction
+  - [MolTi-DREAM](https://github.com/gilles-didier/MolTi-DREAM/) - Didier - identifying communities from multiplex networks, and annotated the obtained clusters
+  - [RWR-MH](https://github.com/alberto-valdeolivas/RWR-MH) - Valdeolivas - Random walk with restart on multiplex and heterogeneous biological networks
+  - [MOGAMUN](https://bioconductor.org/packages/MOGAMUN/) - Novoa-del-toro - A multi-objective genetic algorithm to find active modules in multiplex biological networks
+  - [RWRF](https://github.com/Sepstar/RWRF/) - Wen -  Random Walk with Restart for multi-dimensional data Fusion
+  - [cardelino](https://github.com/PMBio/cardelino) -    - gene expression states to clones (SNVs from scRNA-seq + bulk exome data)
+  - [clonealign](https://github.com/kieranrcampbell/clonealign) - Campbell - gene expression states to clones (scRNA-seq + scDNA-seq (CNV))
+  - [CiteFuse](https://sydneybiox.github.io/CiteFuse/) - Kim - CITE-seq data analysis
+  - [CoSpar](https://cospar.readthedocs.io/) - Wang - infer dynamics by integrating state and lineage information
