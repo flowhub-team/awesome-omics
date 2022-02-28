@@ -8,3 +8,6 @@ General Resources for Pharmacology omics
 - [Visualization](#Visualization)
 - [Learn](#Learn)
 - [RunAndTests](#RunAndTests)
+
+## Tools
+- [Suite](https://github.com/Open-Systems-Pharmacology/Suite) - Open Systems Pharmacology Suite Setup
