@@ -11,3 +11,4 @@ General Resources for Pharmacology omics
 
 ## Tools
 - [Suite](https://github.com/Open-Systems-Pharmacology/Suite) - Open Systems Pharmacology Suite Setup
+- [OBSIM](https://github.com/johndempster/OBSIM) - Organ Bath Pharmacology Simulation
