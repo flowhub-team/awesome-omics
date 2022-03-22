@@ -16,6 +16,7 @@ A collection of awesome things regarding all of omics.
 - [Nutrition](/NUTRITION.md)
 - [Pharmacology](/PHARMACOLOGY.md)
 - [Toxicology](/TOXICOLOGY.md)
+- [Company](/COMPANY.md)
 
 ## THINKS FOR 
 - [awesome-genome-visualization](https://github.com/cmdcolin/)
