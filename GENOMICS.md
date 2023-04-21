@@ -98,8 +98,8 @@ General Resources for Genomics Omics
 - [ICGC](https://dcc.icgc.org/)
 - Cancer Cell Lines
   - [Encylopedia](https://gdc.cancer.gov/)
-  - [Deep sequencing of 3 cancer cell lines (2 colorectal, one breast cancer) on 2 sequencing platforms](https://www.biorxiv.org/content/10.1101/623702v1)
-  - [Deep sequencing of another breast cancer cell line (SEQC2 consoritum)](https://www.biorxiv.org/content/biorxiv/early/2019/05/13/625624.full.pdf)
+  - [Deep sequencing of 3 cancer cell lines (2 colorectal, one breast cancer) on 2 sequencing platforms](http://dx.doi.org/10.1038/s41598-019-55636-3)
+  - [Deep sequencing of another breast cancer cell line (SEQC2 consoritum)](https://doi.org/10.1038/s41587-021-00993-6)
 - [Variation benchmark datasets](http://structure.bmc.lu.se/VariBench/)
 - [RNA Atlas](https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?&dscope=RNAATLAS&option=about_dscope)
 - [COLO829 sequenced on multiple short- and long-read platforms](https://www.biorxiv.org/content/10.1101/2020.10.15.340497v1?rss=1)
