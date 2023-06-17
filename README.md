@@ -1,6 +1,7 @@
 ### **Awesome omics**
 
-A collection of awesome things regarding all of omics.
+A collection of awesome things regarding all of omics. Anyone is welcome to provide information on various omics.
+
 ## Contents
 - [Commons](/COMMON.md) - General Resources for Omics
 - [MultiOmics](/MULTIOMICS.md) - Multi-Omics Resources collection
