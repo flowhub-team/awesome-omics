@@ -528,4 +528,5 @@ helps you focus on the science
     - [Muscle](https://www.flowhub.com.cn/repo/flowhub_team/Muscle)
     - [megahit](https://www.flowhub.com.cn/repo/wangfei/megahit)
 - pipeline
-    - [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WGS)
+    - [WGS](https://www.flowhub.com.cn/repo/flowhub_team/WholeGenomeSequencingFlow)
+    - [WES](https://www.flowhub.com.cn/repo/flowhub_team/WholeExonSequencingFlow)
